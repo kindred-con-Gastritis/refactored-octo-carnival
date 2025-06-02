@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-02 19:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-02 18:56:10 +0000"
@@ -190,6 +196,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_leek": {
     "criteria": {
       "check_inv": "2025-06-02 18:45:40 +0000"
@@ -214,6 +226,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-06-02 19:29:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 19:26:24 +0000"
@@ -235,6 +253,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 19:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
@@ -572,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-02 18:56:49 +0000"
@@ -626,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 19:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-06-02 19:26:00 +0000"
@@ -653,6 +689,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-02 19:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-02 19:31:59 +0000"
     },
     "done": true
   },
@@ -714,6 +756,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-02 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-02 19:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
@@ -935,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-06-02 19:25:56 +0000"
@@ -1082,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-02 18:55:07 +0000"
@@ -1115,6 +1181,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 19:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
@@ -1275,6 +1347,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "poke_ball": "2025-06-02 19:29:26 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000",
@@ -1343,9 +1421,21 @@
     },
     "done": true
   },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-06-02 19:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-02 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
@@ -1408,6 +1498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-02 19:10:45 +0000"
@@ -1417,6 +1513,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-02 18:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
@@ -1466,6 +1568,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-02 18:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-02 19:33:03 +0000"
     },
     "done": true
   },
