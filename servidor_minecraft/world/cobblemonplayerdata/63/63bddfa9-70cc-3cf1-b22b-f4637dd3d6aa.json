@@ -952,8 +952,30 @@
         "sandile": {
           "normal": {
             "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748904280353,
+            "caughtTimestamp": 1748904474163
+          }
+        },
+        "ribombee": {
+          "normal": {
+            "isShiny": false,
             "status": "SEEN",
-            "discoveredTimestamp": 1748904280353
+            "discoveredTimestamp": 1748904688738
+          }
+        },
+        "mudsdale": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748904766667
+          }
+        },
+        "lilligant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748904774060
           }
         }
       },
@@ -965,12 +987,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 19,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 20,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -982,10 +1004,11 @@
       "steel": 1,
       "ghost": 1,
       "ice": 2,
-      "dark": 1,
+      "dark": 2,
       "flying": 2,
       "psychic": 1,
-      "grass": 1
+      "grass": 1,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,

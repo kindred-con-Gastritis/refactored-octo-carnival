@@ -943,8 +943,30 @@
     "sandile": {
       "normal": {
         "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748904280354,
+        "caughtTimestamp": 1748904474164
+      }
+    },
+    "ribombee": {
+      "normal": {
+        "isShiny": false,
         "status": "SEEN",
-        "discoveredTimestamp": 1748904280354
+        "discoveredTimestamp": 1748904688739
+      }
+    },
+    "mudsdale": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748904766668
+      }
+    },
+    "lilligant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748904774060
       }
     }
   }
