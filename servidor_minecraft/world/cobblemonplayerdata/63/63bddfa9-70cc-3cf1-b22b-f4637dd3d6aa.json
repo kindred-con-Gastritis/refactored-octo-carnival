@@ -390,6 +390,71 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748896393877
           }
+        },
+        "lickitung": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896736724
+          }
+        },
+        "tauros": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896746303
+          }
+        },
+        "pineco": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748897033818
+          }
+        },
+        "starly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748897068919
+          }
+        },
+        "staravia": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748897197360
+          }
+        },
+        "fletchinder": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748897231203
+          }
+        },
+        "snorunt": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748897266261,
+            "caughtTimestamp": 1748897334116
+          }
+        },
+        "cryogonal": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748897550476
+          }
+        },
+        "sneasel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748897559822,
+            "caughtTimestamp": 1748897609616
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -400,12 +465,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 10,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 10,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -415,15 +480,19 @@
       "water": 1,
       "fairy": 1,
       "steel": 1,
-      "ghost": 1
+      "ghost": 1,
+      "ice": 2,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,
       "cobblemon:taillow": 1,
-      "cobblemon:zigzagoon": 1,
+      "cobblemon:zigzagoon": 2,
       "cobblemon:bunnelby": 1,
       "cobblemon:tandemaus": 1,
-      "cobblemon:magikarp": 1
+      "cobblemon:magikarp": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:patrat": 1
     },
     "aspectsCollected": {}
   }

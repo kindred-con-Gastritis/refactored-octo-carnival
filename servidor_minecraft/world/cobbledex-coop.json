@@ -381,6 +381,71 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748896393877
       }
+    },
+    "lickitung": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896736725
+      }
+    },
+    "tauros": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896746303
+      }
+    },
+    "pineco": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748897033818
+      }
+    },
+    "starly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748897068919
+      }
+    },
+    "staravia": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748897197361
+      }
+    },
+    "fletchinder": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748897231203
+      }
+    },
+    "snorunt": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748897266262,
+        "caughtTimestamp": 1748897334116
+      }
+    },
+    "cryogonal": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748897550476
+      }
+    },
+    "sneasel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748897559823,
+        "caughtTimestamp": 1748897609616
+      }
     }
   }
 }

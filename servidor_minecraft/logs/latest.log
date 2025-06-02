@@ -1351,3 +1351,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 20:15:51.916] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [02Jun2025 20:15:51.922] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [02Jun2025 20:22:12.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[02Jun2025 20:44:20.217] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[02Jun2025 20:44:41.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Jun2025 20:44:41.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lcdo_Patino> ty
+[02Jun2025 20:48:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Full House]
+[02Jun2025 20:51:20.262] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8048374e-463a-44f9-a7bb-92f1acbe0c06
+[02Jun2025 20:51:20.263] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 8048374e-463a-44f9-a7bb-92f1acbe0c06
+[02Jun2025 20:51:20.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Vex
+[02Jun2025 20:51:20.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_02.06.2025-20.51.20.dat
+[02Jun2025 20:51:20.273] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1229 Y: 96 Z: 180

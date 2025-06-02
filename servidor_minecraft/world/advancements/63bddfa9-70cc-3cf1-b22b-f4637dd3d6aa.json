@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-02 20:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 19:26:24 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-06-02 20:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-02 19:41:39 +0000"
@@ -140,6 +152,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 19:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:42:55 +0000"
     },
     "done": true
   },
@@ -225,6 +243,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-06-02 20:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-02 18:56:49 +0000"
@@ -258,10 +282,11 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000",
       "has_red_apricorn": "2025-06-02 19:16:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -456,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:42:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
     "criteria": {
       "has_magenta_wool": "2025-06-02 19:26:05 +0000"
@@ -464,9 +495,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-06-02 18:47:31 +0000"
+      "has_blue_apricorn": "2025-06-02 18:47:31 +0000",
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
@@ -483,16 +515,23 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-06-02 18:47:31 +0000",
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_white_apricorn": "2025-06-02 19:04:55 +0000",
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/blocks/monitor": {
     "criteria": {
       "has_glass": "2025-06-02 19:25:56 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
@@ -544,9 +583,10 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -640,6 +680,7 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_red_apricorn": "2025-06-02 19:16:09 +0000",
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000"
     },
@@ -997,6 +1038,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-06-02 19:26:51 +0000"
@@ -1323,6 +1370,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-06-02 20:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 18:56:02 +0000"
@@ -1382,6 +1435,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-02 19:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-02 20:53:45 +0000"
     },
     "done": true
   },
@@ -1484,9 +1543,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-06-02 18:47:31 +0000",
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_white_apricorn": "2025-06-02 19:04:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
@@ -1527,6 +1587,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-02 19:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-02 20:42:55 +0000"
     },
     "done": true
   },
@@ -1774,10 +1840,11 @@
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_yellow_apricorn": "2025-06-02 19:03:08 +0000",
       "has_red_apricorn": "2025-06-02 19:16:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -1884,10 +1951,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-02 20:43:38 +0000",
       "minecraft:taiga": "2025-06-02 19:55:13 +0000",
+      "minecraft:frozen_river": "2025-06-02 20:47:21 +0000",
       "minecraft:cherry_grove": "2025-06-02 20:19:59 +0000",
       "minecraft:river": "2025-06-02 18:45:20 +0000",
       "minecraft:stony_shore": "2025-06-02 20:27:19 +0000",
+      "minecraft:snowy_taiga": "2025-06-02 20:45:42 +0000",
+      "minecraft:grove": "2025-06-02 20:29:25 +0000",
       "minecraft:forest": "2025-06-02 19:03:02 +0000",
       "minecraft:flower_forest": "2025-06-02 19:17:39 +0000",
       "minecraft:deep_dark": "2025-06-02 19:58:52 +0000",
@@ -1934,10 +2005,11 @@
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-02 20:32:05 +0000",
       "has_white_apricorn": "2025-06-02 19:04:55 +0000",
       "has_red_apricorn": "2025-06-02 19:16:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
@@ -2053,6 +2125,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-02 19:58:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-06-02 20:29:49 +0000"
     },
     "done": true
   },
