@@ -1381,3 +1381,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 21:54:13.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 21:54:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mondongo<--[HERE]
 [02Jun2025 21:55:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Lcdo_Patino: Mondongo
+[02Jun2025 22:20:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was blown up by Creeper
+[02Jun2025 22:20:23.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_02.06.2025-22.20.23.dat
+[02Jun2025 22:20:23.718] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1291 Y: 67 Z: 3779
+[02Jun2025 22:31:35.262] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c9640932-b6db-44c0-b8f5-93c738044363
+[02Jun2025 22:31:35.262] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c9640932-b6db-44c0-b8f5-93c738044363

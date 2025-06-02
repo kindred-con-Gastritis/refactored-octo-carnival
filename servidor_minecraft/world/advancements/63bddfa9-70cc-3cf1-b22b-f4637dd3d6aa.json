@@ -333,7 +333,8 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "poke_ball": "2025-06-02 19:29:26 +0000",
-      "azure_ball": "2025-06-02 20:18:16 +0000"
+      "azure_ball": "2025-06-02 20:18:16 +0000",
+      "citrine_ball": "2025-06-02 22:28:14 +0000"
     },
     "done": false
   },
@@ -1846,7 +1847,8 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "azure_ball": "2025-06-02 20:18:16 +0000",
-      "poke_ball": "2025-06-02 19:29:26 +0000"
+      "poke_ball": "2025-06-02 19:29:26 +0000",
+      "citrine_ball": "2025-06-02 22:28:14 +0000"
     },
     "done": false
   },
@@ -1984,10 +1986,12 @@
       "minecraft:snowy_slopes": "2025-06-02 21:20:46 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-02 20:43:38 +0000",
       "minecraft:taiga": "2025-06-02 19:55:13 +0000",
+      "minecraft:eroded_badlands": "2025-06-02 22:25:36 +0000",
       "minecraft:frozen_river": "2025-06-02 20:47:21 +0000",
       "minecraft:cherry_grove": "2025-06-02 20:19:59 +0000",
       "minecraft:birch_forest": "2025-06-02 21:40:51 +0000",
       "minecraft:windswept_hills": "2025-06-02 21:02:16 +0000",
+      "minecraft:badlands": "2025-06-02 22:42:47 +0000",
       "minecraft:savanna_plateau": "2025-06-02 21:48:42 +0000",
       "minecraft:beach": "2025-06-02 21:17:13 +0000",
       "minecraft:river": "2025-06-02 18:45:20 +0000",
@@ -2000,6 +2004,7 @@
       "minecraft:forest": "2025-06-02 19:03:02 +0000",
       "minecraft:ice_spikes": "2025-06-02 21:20:33 +0000",
       "minecraft:frozen_ocean": "2025-06-02 21:22:32 +0000",
+      "minecraft:desert": "2025-06-02 22:29:22 +0000",
       "minecraft:flower_forest": "2025-06-02 19:17:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 21:29:15 +0000",
       "minecraft:deep_dark": "2025-06-02 19:58:52 +0000",
