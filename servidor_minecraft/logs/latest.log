@@ -1336,3 +1336,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 00:56:05.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [02Jun2025 01:00:18.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Stone Age]
 [02Jun2025 01:00:26.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Getting an Upgrade]
+[02Jun2025 01:09:40.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[02Jun2025 01:10:00.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Is it a Fruit or is it a Nut?]
+[02Jun2025 01:10:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was shot by Skeleton
+[02Jun2025 01:10:53.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[02Jun2025 01:10:53.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Jun2025 01:10:55.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was shot by Skeleton
+[02Jun2025 01:11:14.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
+[02Jun2025 01:11:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game
