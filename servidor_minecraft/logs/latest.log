@@ -1360,3 +1360,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 20:51:20.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Vex
 [02Jun2025 20:51:20.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_02.06.2025-20.51.20.dat
 [02Jun2025 20:51:20.273] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1229 Y: 96 Z: 180
+[02Jun2025 20:55:14.964] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 54765946-151f-4407-a19d-af289a93dfce
+[02Jun2025 20:55:14.964] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 54765946-151f-4407-a19d-af289a93dfce
+[02Jun2025 20:55:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Vex
+[02Jun2025 20:55:14.968] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_02.06.2025-20.55.14.dat
+[02Jun2025 20:55:14.968] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1201 Y: 63 Z: 191
+[02Jun2025 20:55:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Vex
+[02Jun2025 20:55:36.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: The difficulty has been set to Peaceful]
+[02Jun2025 21:02:07.776] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[02Jun2025 21:03:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: The difficulty has been set to Hard]
+[02Jun2025 21:18:58.766] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:18:58.773] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:18:58.797] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:21:12.012] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:21:12.028] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:21:12.028] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[02Jun2025 21:24:03.412] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[02Jun2025 21:37:19.810] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1713 ms
+[02Jun2025 21:45:37.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[02Jun2025 21:54:13.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 21:54:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mondongo<--[HERE]
