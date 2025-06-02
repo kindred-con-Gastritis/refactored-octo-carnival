@@ -1289,3 +1289,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 00:27:28.202] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [02Jun2025 00:28:30.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
 [02Jun2025 00:28:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[02Jun2025 00:38:49.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.112.153.34:51939] logged in with entity id 791 at (60.44570026754258, 71.0, 34.61816358784814)
+[02Jun2025 00:38:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[02Jun2025 00:40:37.555] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[02Jun2025 00:40:37.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aesthetikkkk[/100.68.133.113:50273] logged in with entity id 1062 at (0.5, 68.0, 34.5)
+[02Jun2025 00:40:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk joined the game
+[02Jun2025 00:40:37.690] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Aesthetikkkk's Cobbledex
+[02Jun2025 00:40:37.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[02Jun2025 00:41:24.925] [Server thread/WARN] [Cobbledex/]: Tried to save CobbledexCoopDiscovery without a valid filePath
+[02Jun2025 00:41:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [The World of Cobblemon!]
+[02Jun2025 00:41:54.923] [Server thread/WARN] [Cobbledex/]: Tried to save CobbledexCoopDiscovery without a valid filePath
+[02Jun2025 00:41:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The World of Cobblemon!]
+[02Jun2025 00:41:59.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: No skin changes]
+[02Jun2025 00:42:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Skin changed]
+[02Jun2025 00:42:15.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/nodes/array/TestArrayNode$Test
+[02Jun2025 00:42:15.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/runtime/objects/Completion$Type
+[02Jun2025 00:42:16.027] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownMoveset$Gimmick
+[02Jun2025 00:42:17.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
+[02Jun2025 00:42:26.255] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/Effect$Type
+[02Jun2025 00:42:37.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
+[02Jun2025 00:42:58.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[02Jun2025 00:43:13.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/messages/client/PlayerInteractOptionsPacket$Options
