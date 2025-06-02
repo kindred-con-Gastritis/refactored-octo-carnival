@@ -975,6 +975,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748905987926
       }
+    },
+    "cutiefly": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748906222403
+      }
+    },
+    "comfey": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748906703537
+      }
     }
   }
 }

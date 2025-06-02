@@ -984,6 +984,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748905987923
           }
+        },
+        "cutiefly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748906222402
+          }
+        },
+        "comfey": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748906703536
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -997,9 +1011,9 @@
     "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 20,
+    "totalBattleVictoryCount": 25,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 20,
+    "totalPvWBattleVictoryCount": 25,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1020,13 +1034,16 @@
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,
       "cobblemon:taillow": 1,
-      "cobblemon:zigzagoon": 2,
-      "cobblemon:bunnelby": 1,
+      "cobblemon:zigzagoon": 3,
+      "cobblemon:bunnelby": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:magikarp": 1,
       "cobblemon:sentret": 1,
       "cobblemon:patrat": 1,
-      "cobblemon:murkrow": 1
+      "cobblemon:murkrow": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:cutiefly": 1,
+      "cobblemon:wooloo": 1
     },
     "aspectsCollected": {}
   }
