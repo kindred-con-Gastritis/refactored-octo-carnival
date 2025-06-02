@@ -1310,3 +1310,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 00:42:37.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
 [02Jun2025 00:42:58.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
 [02Jun2025 00:43:13.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/messages/client/PlayerInteractOptionsPacket$Options
+[02Jun2025 00:43:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Very Berry]
+[02Jun2025 00:43:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Mother Nature's Bounty]
+[02Jun2025 00:43:49.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[02Jun2025 00:46:21.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[02Jun2025 00:47:01.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [There's a Leek in the Boat!]
+[02Jun2025 00:48:26.225] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f38e04f7-2e36-4ab1-b8c5-02fff22f555d
+[02Jun2025 00:48:26.226] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f38e04f7-2e36-4ab1-b8c5-02fff22f555d
+[02Jun2025 00:49:07.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[02Jun2025 00:50:34.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[02Jun2025 00:50:34.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op  aesthetikkkk<--[HERE]
+[02Jun2025 00:50:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Aesthetikkkk a server operator
+[02Jun2025 00:50:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Hikejace a server operator
+[02Jun2025 00:50:55.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by Zombie
+[02Jun2025 00:51:08.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[02Jun2025 00:51:14.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[02Jun2025 00:51:14.360] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1 ms
+[02Jun2025 00:51:22.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Spectator Mode]
+[02Jun2025 00:51:42.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
