@@ -1328,3 +1328,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 00:51:14.360] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1 ms
 [02Jun2025 00:51:22.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Spectator Mode]
 [02Jun2025 00:51:42.505] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[02Jun2025 00:54:56.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to 240.500000, 97.000000, -207.500000]
+[02Jun2025 00:55:08.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[02Jun2025 00:55:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Sweet Dreams]
+[02Jun2025 00:55:11.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[02Jun2025 00:55:15.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[02Jun2025 00:56:05.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Jun2025 01:00:18.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Stone Age]
+[02Jun2025 01:00:26.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Getting an Upgrade]

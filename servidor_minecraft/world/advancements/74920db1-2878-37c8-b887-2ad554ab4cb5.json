@@ -23,10 +23,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-02 00:55:17 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_persim_berry": "2025-06-02 00:43:45 +0000",
-      "obtain_oran_berry": "2025-06-02 00:46:01 +0000"
+      "obtain_oran_berry": "2025-06-02 00:46:01 +0000",
+      "obtain_wepear_berry": "2025-06-02 00:50:35 +0000"
     },
     "done": false
   },
@@ -63,6 +70,12 @@
   "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
     "criteria": {
       "has_leek": "2025-06-02 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-02 00:55:17 +0000"
     },
     "done": true
   },
@@ -108,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-02 00:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-02 00:46:25 +0000"
@@ -138,6 +157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-02 00:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-02 00:47:01 +0000"
@@ -147,6 +172,24 @@
   "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
     "criteria": {
       "has_leek": "2025-06-02 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-02 00:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-02 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-02 00:56:26 +0000"
     },
     "done": true
   },
@@ -246,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-02 00:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 00:46:25 +0000"
@@ -313,11 +362,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-02 00:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-06-02 00:45:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-02 00:56:26 +0000"
+    },
+    "done": false
   },
   "cobblepedia:grant_cobblepedia": {
     "criteria": {
@@ -352,6 +413,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-02 00:47:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-06-02 00:56:18 +0000"
     },
     "done": true
   },
