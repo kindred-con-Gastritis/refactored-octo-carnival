@@ -177,6 +177,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748892054103
           }
+        },
+        "koffing": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748892205182
+          }
+        },
+        "jigglypuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748892312390
+          }
+        },
+        "metapod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748892348030
+          }
         }
       },
       "name": "cobbledex_discovery"

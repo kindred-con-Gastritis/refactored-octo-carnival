@@ -168,6 +168,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748892054104
       }
+    },
+    "koffing": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748892205183
+      }
+    },
+    "jigglypuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748892312390
+      }
+    },
+    "metapod": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748892348031
+      }
     }
   }
 }
