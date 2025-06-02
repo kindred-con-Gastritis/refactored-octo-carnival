@@ -170,6 +170,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-06-02 20:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-02 19:41:39 +0000"
@@ -1879,7 +1885,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-02 19:55:13 +0000",
+      "minecraft:cherry_grove": "2025-06-02 20:19:59 +0000",
       "minecraft:river": "2025-06-02 18:45:20 +0000",
+      "minecraft:stony_shore": "2025-06-02 20:27:19 +0000",
       "minecraft:forest": "2025-06-02 19:03:02 +0000",
       "minecraft:flower_forest": "2025-06-02 19:17:39 +0000",
       "minecraft:deep_dark": "2025-06-02 19:58:52 +0000",

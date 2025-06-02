@@ -238,6 +238,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1748895157491
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896361123
       }
     },
     "tandemaus": {
@@ -297,6 +302,84 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1748895694215,
         "caughtTimestamp": 1748895780717
+      }
+    },
+    "gimmighoul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748895867062,
+        "caughtTimestamp": 1748895928516
+      }
+    },
+    "tinkatink": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896033901
+      }
+    },
+    "krabby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896042048
+      }
+    },
+    "wingull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896062137
+      }
+    },
+    "wimpod": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896066089
+      }
+    },
+    "weedle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896126584
+      }
+    },
+    "sentret": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896150485
+      }
+    },
+    "fletchling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896198883
+      }
+    },
+    "deerling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896308198
+      }
+    },
+    "buneary": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896377131
+      }
+    },
+    "rookidee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748896393877
       }
     }
   }

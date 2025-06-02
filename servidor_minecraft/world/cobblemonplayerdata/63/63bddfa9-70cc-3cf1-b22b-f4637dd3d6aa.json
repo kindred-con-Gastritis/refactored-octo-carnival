@@ -247,6 +247,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1748895157490
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896361122
           }
         },
         "tandemaus": {
@@ -307,6 +312,84 @@
             "discoveredTimestamp": 1748895694215,
             "caughtTimestamp": 1748895780716
           }
+        },
+        "gimmighoul": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748895867061,
+            "caughtTimestamp": 1748895928515
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896033901
+          }
+        },
+        "krabby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896042047
+          }
+        },
+        "wingull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896062137
+          }
+        },
+        "wimpod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896066089
+          }
+        },
+        "weedle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896126583
+          }
+        },
+        "sentret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896150484
+          }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896198882
+          }
+        },
+        "deerling": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896308197
+          }
+        },
+        "buneary": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896377131
+          }
+        },
+        "rookidee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748896393877
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -317,12 +400,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 9,
+    "totalBattleVictoryCount": 10,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 10,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -331,7 +414,8 @@
       "electric": 1,
       "water": 1,
       "fairy": 1,
-      "steel": 1
+      "steel": 1,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,
