@@ -998,6 +998,42 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748906703536
           }
+        },
+        "flabebe": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748906773524
+          }
+        },
+        "gossifleur": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748906867793,
+            "caughtTimestamp": 1748906925744
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748907090612
+          }
+        },
+        "lurantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748907107559
+          }
+        },
+        "morelull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748907490449
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1008,12 +1044,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 11,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 25,
+    "totalBattleVictoryCount": 32,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 25,
+    "totalPvWBattleVictoryCount": 32,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1028,22 +1064,26 @@
       "dark": 2,
       "flying": 2,
       "psychic": 1,
-      "grass": 1,
+      "grass": 2,
       "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,
       "cobblemon:taillow": 1,
-      "cobblemon:zigzagoon": 3,
+      "cobblemon:zigzagoon": 4,
       "cobblemon:bunnelby": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:magikarp": 1,
       "cobblemon:sentret": 1,
       "cobblemon:patrat": 1,
       "cobblemon:murkrow": 1,
-      "cobblemon:igglybuff": 1,
+      "cobblemon:igglybuff": 2,
       "cobblemon:cutiefly": 1,
-      "cobblemon:wooloo": 1
+      "cobblemon:wooloo": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:gossifleur": 1,
+      "cobblemon:spewpa": 1,
+      "cobblemon:lurantis": 1
     },
     "aspectsCollected": {}
   }

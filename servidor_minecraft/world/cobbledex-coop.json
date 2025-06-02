@@ -989,6 +989,42 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748906703537
       }
+    },
+    "flabebe": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748906773524
+      }
+    },
+    "gossifleur": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748906867795,
+        "caughtTimestamp": 1748906925745
+      }
+    },
+    "mareep": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748907090613
+      }
+    },
+    "lurantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748907107560
+      }
+    },
+    "morelull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748907490450
+      }
     }
   }
 }
