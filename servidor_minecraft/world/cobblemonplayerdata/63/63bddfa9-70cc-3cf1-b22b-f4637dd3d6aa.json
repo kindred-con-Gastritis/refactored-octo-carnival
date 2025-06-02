@@ -977,6 +977,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748904774060
           }
+        },
+        "igglybuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748905987923
+          }
         }
       },
       "name": "cobbledex_discovery"
