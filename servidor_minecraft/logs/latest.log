@@ -1340,3 +1340,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 19:50:22.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
 [02Jun2025 19:50:25.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
 [02Jun2025 19:50:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A New Friend!]
+[02Jun2025 19:55:13.518] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 59db9162-1487-4dd0-a010-67e5576eb23a
+[02Jun2025 19:55:13.519] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 59db9162-1487-4dd0-a010-67e5576eb23a
+[02Jun2025 19:58:54.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Diamonds!]
+[02Jun2025 20:00:04.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not Today, Thank You]
+[02Jun2025 20:06:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Ice Bucket Challenge]
+[02Jun2025 20:09:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Suit Up]
