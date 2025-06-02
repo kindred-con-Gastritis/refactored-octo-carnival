@@ -248,6 +248,65 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748895157490
           }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748895276739
+          }
+        },
+        "raboot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748895326418,
+            "caughtTimestamp": 1748895326418
+          }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748895511565,
+            "caughtTimestamp": 1748895511565
+          }
+        },
+        "swellow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748895580714
+          }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748895588418
+          }
+        },
+        "ponyta": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748895622813
+          }
+        },
+        "spewpa": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748895675964
+          }
+        },
+        "tinkatuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748895694215,
+            "caughtTimestamp": 1748895780716
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -258,24 +317,29 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 5,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 9,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "bug": 1,
-      "electric": 1
+      "electric": 1,
+      "water": 1,
+      "fairy": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1,
       "cobblemon:taillow": 1,
       "cobblemon:zigzagoon": 1,
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 1,
+      "cobblemon:tandemaus": 1,
+      "cobblemon:magikarp": 1
     },
     "aspectsCollected": {}
   }

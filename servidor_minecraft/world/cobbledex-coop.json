@@ -239,6 +239,65 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748895157491
       }
+    },
+    "tandemaus": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748895276740
+      }
+    },
+    "raboot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748895326419,
+        "caughtTimestamp": 1748895326419
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748895511566,
+        "caughtTimestamp": 1748895511566
+      }
+    },
+    "swellow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748895580714
+      }
+    },
+    "cottonee": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748895588419
+      }
+    },
+    "ponyta": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748895622813
+      }
+    },
+    "spewpa": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748895675965
+      }
+    },
+    "tinkatuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748895694215,
+        "caughtTimestamp": 1748895780717
+      }
     }
   }
 }

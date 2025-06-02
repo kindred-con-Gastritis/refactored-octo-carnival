@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-02 20:09:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/healing_machine": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 19:26:24 +0000"
@@ -113,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-02 20:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-02 19:41:39 +0000"
@@ -139,6 +151,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_chilan_berry": "2025-06-02 20:13:49 +0000",
       "obtain_persim_berry": "2025-06-02 19:04:52 +0000",
       "obtain_oran_berry": "2025-06-02 18:54:21 +0000",
       "obtain_wepear_berry": "2025-06-02 18:47:21 +0000"
@@ -250,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-02 20:12:24 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_leek": {
     "criteria": {
       "check_inv": "2025-06-02 18:45:40 +0000"
@@ -276,7 +295,8 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "poke_ball": "2025-06-02 19:29:26 +0000"
+      "poke_ball": "2025-06-02 19:29:26 +0000",
+      "azure_ball": "2025-06-02 20:18:16 +0000"
     },
     "done": false
   },
@@ -486,6 +506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 20:13:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
       "has_white_apricorn": "2025-06-02 19:04:55 +0000"
@@ -594,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 20:13:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:root": {
     "criteria": {
       "picked_starter": "2025-06-02 18:52:26 +0000"
@@ -616,6 +648,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-02 18:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-02 20:13:43 +0000"
     },
     "done": true
   },
@@ -1255,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-02 20:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-02 19:52:41 +0000"
@@ -1416,6 +1460,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-02 18:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-02 20:12:24 +0000"
     },
     "done": true
   },
@@ -1699,6 +1749,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "azure_ball": "2025-06-02 20:18:16 +0000",
       "poke_ball": "2025-06-02 19:29:26 +0000"
     },
     "done": false
@@ -2042,6 +2093,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-02 19:07:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-06-02 20:15:26 +0000"
     },
     "done": true
   },
