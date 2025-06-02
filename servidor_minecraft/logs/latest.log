@@ -1380,3 +1380,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 21:45:37.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [02Jun2025 21:54:13.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 21:54:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mondongo<--[HERE]
+[02Jun2025 21:55:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Lcdo_Patino: Mondongo
