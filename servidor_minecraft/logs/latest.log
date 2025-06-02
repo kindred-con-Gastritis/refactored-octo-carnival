@@ -1336,3 +1336,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jun2025 19:27:41.332] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
 [02Jun2025 19:29:26.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The First of Many]
 [02Jun2025 19:41:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Isn't It Iron Pick]
+[02Jun2025 19:46:53.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[02Jun2025 19:50:22.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
+[02Jun2025 19:50:25.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
+[02Jun2025 19:50:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A New Friend!]

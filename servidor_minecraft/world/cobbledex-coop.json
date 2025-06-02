@@ -189,6 +189,21 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748892348031
       }
+    },
+    "joltik": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748893785712,
+        "caughtTimestamp": 1748893830876
+      }
+    },
+    "haunter": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748893995798
+      }
     }
   }
 }

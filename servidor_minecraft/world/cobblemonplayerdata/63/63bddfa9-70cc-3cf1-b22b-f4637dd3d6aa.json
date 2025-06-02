@@ -198,6 +198,21 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748892348030
           }
+        },
+        "joltik": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748893785712,
+            "caughtTimestamp": 1748893830875
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748893995798
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -208,16 +223,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalBattleVictoryCount": 2,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 2,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "bug": 1,
+      "electric": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 1
     },
