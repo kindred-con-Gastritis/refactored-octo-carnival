@@ -1121,6 +1121,21 @@
         "discoveredTimestamp": 1748916001162,
         "caughtTimestamp": 1748916001162
       }
+    },
+    "froslass": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748916705090,
+        "caughtTimestamp": 1748916705090
+      }
+    },
+    "lickilicky": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748916965507
+      }
     }
   }
 }

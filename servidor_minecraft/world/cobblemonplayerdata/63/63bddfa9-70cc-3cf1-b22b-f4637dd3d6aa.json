@@ -1130,6 +1130,21 @@
             "discoveredTimestamp": 1748916001161,
             "caughtTimestamp": 1748916001161
           }
+        },
+        "froslass": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748916705089,
+            "caughtTimestamp": 1748916705089
+          }
+        },
+        "lickilicky": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748916965507
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1142,12 +1157,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 13,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 92,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 101,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 92,
+    "totalPvWBattleVictoryCount": 101,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1158,7 +1173,7 @@
       "fairy": 1,
       "steel": 1,
       "ghost": 1,
-      "ice": 2,
+      "ice": 3,
       "dark": 2,
       "flying": 2,
       "psychic": 2,
@@ -1182,7 +1197,7 @@
       "cobblemon:gossifleur": 4,
       "cobblemon:spewpa": 2,
       "cobblemon:lurantis": 2,
-      "cobblemon:combee": 5,
+      "cobblemon:combee": 6,
       "cobblemon:slowpoke": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:shroomish": 1,
@@ -1201,7 +1216,11 @@
       "cobblemon:comfey": 1,
       "cobblemon:lechonk": 1,
       "cobblemon:oinkologne": 1,
-      "cobblemon:snorunt": 1
+      "cobblemon:snorunt": 3,
+      "cobblemon:furret": 1,
+      "cobblemon:stantler": 1,
+      "cobblemon:pineco": 1,
+      "cobblemon:bouffalant": 2
     },
     "aspectsCollected": {}
   }
