@@ -2520,9 +2520,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-03 01:33:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-06-02 23:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-03 01:33:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/upgrade": {
+    "criteria": {
+      "has_amethyst": "2025-06-03 01:33:48 +0000"
     },
     "done": true
   },
@@ -2571,6 +2589,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
     },
     "done": true
   },
@@ -2632,6 +2656,18 @@
     "criteria": {
       "has_benefit_mint": "2025-06-03 00:21:18 +0000",
       "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
     },
     "done": true
   },
@@ -2697,6 +2733,12 @@
     },
     "done": false
   },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-06-03 01:33:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/max_revive": {
     "criteria": {
       "has_revive": "2025-06-03 00:59:11 +0000"
@@ -2722,10 +2764,22 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-03 01:33:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/relaxed_mint": {
     "criteria": {
       "has_benefit_mint": "2025-06-03 00:12:40 +0000",
       "has_detriment_mint": "2025-06-03 00:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
     },
     "done": true
   },
