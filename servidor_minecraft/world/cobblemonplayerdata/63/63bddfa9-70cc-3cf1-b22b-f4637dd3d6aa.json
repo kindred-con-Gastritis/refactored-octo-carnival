@@ -1196,6 +1196,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748920070737
           }
+        },
+        "dugtrio": {
+          "alola": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748920979445
+          }
+        },
+        "diglett": {
+          "alola": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748920985239
+          }
+        },
+        "mawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748921093911
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1211,9 +1232,9 @@
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 136,
+    "totalBattleVictoryCount": 150,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 136,
+    "totalPvWBattleVictoryCount": 150,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1243,7 +1264,7 @@
       "cobblemon:murkrow": 1,
       "cobblemon:igglybuff": 4,
       "cobblemon:cutiefly": 4,
-      "cobblemon:wooloo": 2,
+      "cobblemon:wooloo": 3,
       "cobblemon:cottonee": 3,
       "cobblemon:gossifleur": 4,
       "cobblemon:spewpa": 2,
@@ -1256,9 +1277,9 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 5,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 10,
+      "cobblemon:mareep": 11,
       "cobblemon:ponyta": 3,
-      "cobblemon:budew": 4,
+      "cobblemon:budew": 5,
       "cobblemon:pidgey": 6,
       "cobblemon:swellow": 1,
       "cobblemon:rapidash": 1,
@@ -1284,7 +1305,16 @@
       "cobblemon:tauros": 1,
       "cobblemon:elekid": 1,
       "cobblemon:electrode": 1,
-      "cobblemon:ribombee": 1
+      "cobblemon:ribombee": 1,
+      "cobblemon:pachirisu": 2,
+      "cobblemon:gastly": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:shuppet": 1,
+      "cobblemon:joltik": 1,
+      "cobblemon:dugtrio": 1,
+      "cobblemon:roggenrola": 2,
+      "cobblemon:mawile": 1,
+      "cobblemon:rattata": 1
     },
     "aspectsCollected": {}
   }

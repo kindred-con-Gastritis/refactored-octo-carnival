@@ -1187,6 +1187,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748920070738
       }
+    },
+    "dugtrio": {
+      "alola": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748920979446
+      }
+    },
+    "diglett": {
+      "alola": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748920985240
+      }
+    },
+    "mawile": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748921093912
+      }
     }
   }
 }

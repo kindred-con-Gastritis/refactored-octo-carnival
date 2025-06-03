@@ -843,6 +843,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-03 03:12:10 +0000",
       "honey_bottle": "2025-06-03 03:01:48 +0000",
       "cooked_mutton": "2025-06-02 19:10:45 +0000",
       "cooked_beef": "2025-06-02 19:57:53 +0000",
@@ -1056,7 +1057,8 @@
       "minecraft:spider": "2025-06-02 19:24:33 +0000",
       "minecraft:creeper": "2025-06-02 19:43:03 +0000",
       "minecraft:piglin": "2025-06-02 23:33:37 +0000",
-      "minecraft:zombie": "2025-06-02 19:22:15 +0000"
+      "minecraft:zombie": "2025-06-02 19:22:15 +0000",
+      "minecraft:zombie_villager": "2025-06-03 03:18:42 +0000"
     },
     "done": false
   },
@@ -2731,6 +2733,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/twisted_spoon": {
+    "criteria": {
+      "has_shovel": "2025-06-03 03:21:11 +0000"
     },
     "done": true
   },
