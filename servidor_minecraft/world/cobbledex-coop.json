@@ -1113,6 +1113,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748915830073
       }
+    },
+    "cinderace": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748916001162,
+        "caughtTimestamp": 1748916001162
+      }
     }
   }
 }
