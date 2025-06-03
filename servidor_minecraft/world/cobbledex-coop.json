@@ -1072,6 +1072,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748911586711
       }
+    },
+    "honedge": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748913109740
+      }
     }
   }
 }

@@ -1081,6 +1081,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748911586710
           }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748913109739
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1096,9 +1103,9 @@
     "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 53,
+    "totalBattleVictoryCount": 59,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 53,
+    "totalPvWBattleVictoryCount": 59,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1117,17 +1124,17 @@
       "ground": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:butterfree": 1,
+      "cobblemon:butterfree": 2,
       "cobblemon:taillow": 2,
-      "cobblemon:zigzagoon": 5,
+      "cobblemon:zigzagoon": 6,
       "cobblemon:bunnelby": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:magikarp": 1,
       "cobblemon:sentret": 2,
       "cobblemon:patrat": 1,
       "cobblemon:murkrow": 1,
-      "cobblemon:igglybuff": 2,
-      "cobblemon:cutiefly": 2,
+      "cobblemon:igglybuff": 3,
+      "cobblemon:cutiefly": 3,
       "cobblemon:wooloo": 1,
       "cobblemon:cottonee": 3,
       "cobblemon:gossifleur": 2,
@@ -1141,7 +1148,8 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 3,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 1
+      "cobblemon:mareep": 2,
+      "cobblemon:ponyta": 1
     },
     "aspectsCollected": {}
   }

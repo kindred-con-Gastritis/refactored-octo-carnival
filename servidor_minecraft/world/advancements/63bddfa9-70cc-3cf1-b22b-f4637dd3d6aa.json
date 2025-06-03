@@ -2728,6 +2728,12 @@
     },
     "done": true
   },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-06-03 01:05:49 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_mint": {
     "criteria": {
       "check_inv": "2025-06-03 00:12:40 +0000"
