@@ -1208,6 +1208,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748921093912
       }
+    },
+    "volbeat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748921354688
+      }
     }
   }
 }

@@ -37,3 +37,5 @@
 [03Jun2025 03:05:16.685] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4f39eb15-b3f0-43d8-ab3a-47852f22d93f
 [03Jun2025 03:06:02.587] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2373486a-0467-4d38-8f63-2ac5e7106d4b
 [03Jun2025 03:06:02.588] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2373486a-0467-4d38-8f63-2ac5e7106d4b
+[03Jun2025 03:37:29.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[03Jun2025 03:37:29.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game

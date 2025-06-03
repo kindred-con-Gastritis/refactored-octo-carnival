@@ -1217,6 +1217,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748921093911
           }
+        },
+        "volbeat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748921354687
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1232,9 +1239,9 @@
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 150,
+    "totalBattleVictoryCount": 159,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 150,
+    "totalPvWBattleVictoryCount": 159,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1277,8 +1284,8 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 5,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 11,
-      "cobblemon:ponyta": 3,
+      "cobblemon:mareep": 13,
+      "cobblemon:ponyta": 5,
       "cobblemon:budew": 5,
       "cobblemon:pidgey": 6,
       "cobblemon:swellow": 1,
@@ -1300,10 +1307,10 @@
       "cobblemon:stonjourner": 1,
       "cobblemon:lilligant": 1,
       "cobblemon:dubwool": 1,
-      "cobblemon:diggersby": 1,
+      "cobblemon:diggersby": 2,
       "cobblemon:pidgeotto": 1,
       "cobblemon:tauros": 1,
-      "cobblemon:elekid": 1,
+      "cobblemon:elekid": 2,
       "cobblemon:electrode": 1,
       "cobblemon:ribombee": 1,
       "cobblemon:pachirisu": 2,
@@ -1314,7 +1321,10 @@
       "cobblemon:dugtrio": 1,
       "cobblemon:roggenrola": 2,
       "cobblemon:mawile": 1,
-      "cobblemon:rattata": 1
+      "cobblemon:rattata": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:volbeat": 1,
+      "cobblemon:eldegoss": 1
     },
     "aspectsCollected": {}
   }
