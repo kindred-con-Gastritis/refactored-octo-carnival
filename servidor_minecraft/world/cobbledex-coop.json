@@ -1165,6 +1165,28 @@
         "discoveredTimestamp": 1748919481496,
         "caughtTimestamp": 1748919481496
       }
+    },
+    "galvantula": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748919616597,
+        "caughtTimestamp": 1748919616597
+      }
+    },
+    "oinkologne": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748919937512
+      }
+    },
+    "pachirisu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748920070738
+      }
     }
   }
 }
