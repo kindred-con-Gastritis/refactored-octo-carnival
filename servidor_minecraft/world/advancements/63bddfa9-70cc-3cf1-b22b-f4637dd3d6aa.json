@@ -845,7 +845,8 @@
       "cooked_mutton": "2025-06-02 19:10:45 +0000",
       "cooked_beef": "2025-06-02 19:57:53 +0000",
       "apple": "2025-06-02 19:54:24 +0000",
-      "bread": "2025-06-02 21:21:38 +0000"
+      "bread": "2025-06-02 21:21:38 +0000",
+      "cooked_chicken": "2025-06-03 01:39:14 +0000"
     },
     "done": false
   },
@@ -2586,6 +2587,12 @@
     },
     "done": true
   },
+  "megamons:mega_ore_or_stone": {
+    "criteria": {
+      "has_any_raw_stone": "2025-06-03 01:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-02 23:59:51 +0000"
@@ -2595,6 +2602,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-06-03 01:33:48 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_sharpedonite_from_raw_sharpedonite_stonecutting": {
+    "criteria": {
+      "has_raw_sharpedonite": "2025-06-03 01:34:19 +0000"
     },
     "done": true
   },
