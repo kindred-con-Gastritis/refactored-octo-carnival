@@ -1074,6 +1074,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748909850894
           }
+        },
+        "whismur": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748911586710
+          }
         }
       },
       "name": "cobbledex_discovery"

@@ -1065,6 +1065,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748909850895
       }
+    },
+    "whismur": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748911586711
+      }
     }
   }
 }

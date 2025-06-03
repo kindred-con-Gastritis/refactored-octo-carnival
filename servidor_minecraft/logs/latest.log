@@ -4,3 +4,13 @@
 [03Jun2025 00:04:36.452] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [03Jun2025 00:04:53.104] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [03Jun2025 00:12:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Minty Fresh]
+[03Jun2025 00:46:11.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Jun2025 00:46:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was blown up by Creeper
+[03Jun2025 00:46:29.792] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_03.06.2025-00.46.29.dat
+[03Jun2025 00:46:29.792] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 25 Y: -6 Z: -147
+[03Jun2025 00:47:08.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Spectator Mode]
+[03Jun2025 00:49:32.930] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:lush_caves took 311 ms
+[03Jun2025 00:49:36.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1303.500000, 16.000000, 2283.500000]
+[03Jun2025 00:55:18.914] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:lush_caves took 46 ms
+[03Jun2025 00:55:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 265.500000, -18.000000, -780.500000]
+[03Jun2025 00:56:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Applied effect Night Vision to Lcdo_Patino]
