@@ -33,6 +33,7 @@
       "minecraft:ice_spikes": "2025-06-02 21:20:33 +0000",
       "minecraft:frozen_ocean": "2025-06-02 21:22:32 +0000",
       "minecraft:desert": "2025-06-02 22:29:22 +0000",
+      "minecraft:ocean": "2025-06-03 00:55:35 +0000",
       "minecraft:flower_forest": "2025-06-02 19:17:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 21:29:15 +0000",
       "minecraft:deep_dark": "2025-06-02 19:58:52 +0000",
@@ -2450,6 +2451,7 @@
   "cobblemon:rainbow_apricorns": {
     "criteria": {
       "place_black": "2025-06-02 23:08:57 +0000",
+      "place_white": "2025-06-03 00:58:58 +0000",
       "place_yellow": "2025-06-02 23:09:02 +0000",
       "place_red": "2025-06-02 23:09:04 +0000"
     },
@@ -2497,6 +2499,12 @@
       "has_benefit_mint": "2025-06-03 00:12:40 +0000"
     },
     "done": false
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-06-03 00:57:35 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/consumables/hasty_mint": {
     "criteria": {
@@ -2571,6 +2579,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-06-03 00:57:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-06-03 00:09:28 +0000"
@@ -2638,6 +2652,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-06-03 00:57:35 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/jolly_mint": {
     "criteria": {
       "has_benefit_mint": "2025-06-03 00:23:27 +0000",
@@ -2675,6 +2695,12 @@
       "has_benefit_mint": "2025-06-03 00:23:27 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-06-03 00:59:11 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/consumables/quiet_mint": {
     "criteria": {

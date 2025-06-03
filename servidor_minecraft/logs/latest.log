@@ -14,3 +14,7 @@
 [03Jun2025 00:55:18.914] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:lush_caves took 46 ms
 [03Jun2025 00:55:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 265.500000, -18.000000, -780.500000]
 [03Jun2025 00:56:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Applied effect Night Vision to Lcdo_Patino]
+[03Jun2025 00:57:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set own game mode to Survival Mode]
+[03Jun2025 00:57:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Herb your Enthusiasm]
+[03Jun2025 00:58:10.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Removed every effect from Lcdo_Patino]
+[03Jun2025 01:05:49.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Healing Power]
