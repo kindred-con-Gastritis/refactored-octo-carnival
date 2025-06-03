@@ -1579,6 +1579,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "ancient_poke_ball": "2025-06-03 00:38:54 +0000",
       "azure_ball": "2025-06-02 20:18:16 +0000",
       "ultra_ball": "2025-06-02 22:45:41 +0000",
       "poke_ball": "2025-06-02 19:29:26 +0000",
@@ -2603,6 +2604,12 @@
       "has_mint": "2025-06-03 00:21:18 +0000"
     },
     "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-06-03 00:38:54 +0000"
+    },
+    "done": false
   },
   "cobblemon:recipes/consumables/mild_mint": {
     "criteria": {

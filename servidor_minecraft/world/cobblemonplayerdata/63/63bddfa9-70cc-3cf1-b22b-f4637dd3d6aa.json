@@ -296,6 +296,12 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1748895622813
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748911045343,
+            "caughtTimestamp": 1748911134392
           }
         },
         "spewpa": {
@@ -693,6 +699,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1748900547273
+          },
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748911321326
           }
         },
         "graveler": {
@@ -1068,17 +1079,19 @@
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 11,
+    "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 49,
+    "totalBattleVictoryCount": 51,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 49,
+    "totalPvWBattleVictoryCount": 51,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1092,7 +1105,7 @@
       "ice": 2,
       "dark": 2,
       "flying": 2,
-      "psychic": 1,
+      "psychic": 2,
       "grass": 2,
       "ground": 1
     },
@@ -1119,7 +1132,7 @@
       "cobblemon:shroomish": 1,
       "cobblemon:flabebe": 1,
       "cobblemon:whimsicott": 1,
-      "cobblemon:petilil": 2,
+      "cobblemon:petilil": 3,
       "cobblemon:floette": 1
     },
     "aspectsCollected": {}

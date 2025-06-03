@@ -287,6 +287,12 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1748895622813
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748911045343,
+        "caughtTimestamp": 1748911134394
       }
     },
     "spewpa": {
@@ -684,6 +690,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1748900547273
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748911321327
       }
     },
     "graveler": {
