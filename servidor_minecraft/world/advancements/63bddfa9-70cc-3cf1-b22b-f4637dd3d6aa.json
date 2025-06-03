@@ -2502,6 +2502,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-03 02:14:58 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_revival_herb": {
     "criteria": {
       "check_inv": "2025-06-03 00:57:35 +0000"
@@ -2521,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-03 02:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-03 01:33:28 +0000"
@@ -2530,6 +2542,12 @@
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-06-02 23:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-03 02:14:58 +0000"
     },
     "done": true
   },
@@ -2671,6 +2689,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-06-03 02:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-02 23:59:51 +0000"
@@ -2804,6 +2828,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-02 23:37:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-06-03 02:14:58 +0000"
     },
     "done": true
   },
