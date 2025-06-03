@@ -1098,6 +1098,21 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748913544525
       }
+    },
+    "krokorok": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748915336098,
+        "caughtTimestamp": 1748915336098
+      }
+    },
+    "vivillon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748915830073
+      }
     }
   }
 }

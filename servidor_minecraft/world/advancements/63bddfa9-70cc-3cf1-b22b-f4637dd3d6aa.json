@@ -2659,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-03 01:52:57 +0000"
+    },
+    "done": true
+  },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
       "ancient_poke_ball": "2025-06-03 00:38:54 +0000"
