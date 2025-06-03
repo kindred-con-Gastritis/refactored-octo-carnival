@@ -1143,6 +1143,28 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748918038135
       }
+    },
+    "slowbro": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748919099557
+      }
+    },
+    "electrode": {
+      "hisui": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748919279014
+      }
+    },
+    "tinkaton": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748919481496,
+        "caughtTimestamp": 1748919481496
+      }
     }
   }
 }

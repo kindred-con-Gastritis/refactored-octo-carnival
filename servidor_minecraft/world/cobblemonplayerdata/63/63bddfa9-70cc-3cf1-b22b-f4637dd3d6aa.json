@@ -1152,6 +1152,28 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748918038135
           }
+        },
+        "slowbro": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748919099557
+          }
+        },
+        "electrode": {
+          "hisui": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748919279013
+          }
+        },
+        "tinkaton": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1748919481495,
+            "caughtTimestamp": 1748919481495
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1166,10 +1188,10 @@
   "advancementData": {
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 126,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 133,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 126,
+    "totalPvWBattleVictoryCount": 133,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1188,7 +1210,7 @@
       "ground": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:butterfree": 3,
+      "cobblemon:butterfree": 4,
       "cobblemon:taillow": 4,
       "cobblemon:zigzagoon": 9,
       "cobblemon:bunnelby": 2,
@@ -1212,10 +1234,10 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 5,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 8,
+      "cobblemon:mareep": 9,
       "cobblemon:ponyta": 3,
       "cobblemon:budew": 3,
-      "cobblemon:pidgey": 4,
+      "cobblemon:pidgey": 6,
       "cobblemon:swellow": 1,
       "cobblemon:rapidash": 1,
       "cobblemon:tinkatink": 1,
@@ -1237,7 +1259,10 @@
       "cobblemon:dubwool": 1,
       "cobblemon:diggersby": 1,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:tauros": 1
+      "cobblemon:tauros": 1,
+      "cobblemon:elekid": 1,
+      "cobblemon:electrode": 1,
+      "cobblemon:ribombee": 1
     },
     "aspectsCollected": {}
   }
