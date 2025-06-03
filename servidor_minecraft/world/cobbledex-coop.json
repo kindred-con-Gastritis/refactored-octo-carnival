@@ -316,6 +316,11 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1748895867062,
         "caughtTimestamp": 1748895928516
+      },
+      "roaming": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748913725709
       }
     },
     "tinkatink": {
@@ -1078,6 +1083,20 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1748913109740
+      }
+    },
+    "elekid": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748913447840
+      }
+    },
+    "eldegoss": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748913544525
       }
     }
   }

@@ -325,6 +325,11 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1748895867061,
             "caughtTimestamp": 1748895928515
+          },
+          "roaming": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748913725709
           }
         },
         "tinkatink": {
@@ -1088,6 +1093,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748913109739
           }
+        },
+        "elekid": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748913447840
+          }
+        },
+        "eldegoss": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748913544524
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1103,9 +1122,9 @@
     "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 59,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 59,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1126,21 +1145,21 @@
     "totalDefeatedCounts": {
       "cobblemon:butterfree": 2,
       "cobblemon:taillow": 2,
-      "cobblemon:zigzagoon": 6,
+      "cobblemon:zigzagoon": 7,
       "cobblemon:bunnelby": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:magikarp": 1,
       "cobblemon:sentret": 2,
       "cobblemon:patrat": 1,
       "cobblemon:murkrow": 1,
-      "cobblemon:igglybuff": 3,
+      "cobblemon:igglybuff": 4,
       "cobblemon:cutiefly": 3,
       "cobblemon:wooloo": 1,
       "cobblemon:cottonee": 3,
-      "cobblemon:gossifleur": 2,
+      "cobblemon:gossifleur": 3,
       "cobblemon:spewpa": 2,
       "cobblemon:lurantis": 1,
-      "cobblemon:combee": 2,
+      "cobblemon:combee": 3,
       "cobblemon:slowpoke": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:shroomish": 1,
@@ -1148,8 +1167,10 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 3,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 2,
-      "cobblemon:ponyta": 1
+      "cobblemon:mareep": 3,
+      "cobblemon:ponyta": 2,
+      "cobblemon:budew": 2,
+      "cobblemon:pidgey": 2
     },
     "aspectsCollected": {}
   }
