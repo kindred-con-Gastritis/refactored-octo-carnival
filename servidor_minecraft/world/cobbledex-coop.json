@@ -1025,6 +1025,28 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748907490450
       }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1748909021152,
+        "caughtTimestamp": 1748909021152
+      }
+    },
+    "minun": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748909499854
+      }
+    },
+    "lopunny": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748909548171
+      }
     }
   }
 }

@@ -2483,9 +2483,69 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-03 00:09:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/hasty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-06-02 23:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_belt": {
+    "criteria": {
+      "has_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-03 00:09:28 +0000"
     },
     "done": true
   },
@@ -2495,11 +2555,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-03 00:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/mild_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-02 23:37:54 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/relaxed_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2025-06-03 00:12:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_blue_mint_leaf": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
