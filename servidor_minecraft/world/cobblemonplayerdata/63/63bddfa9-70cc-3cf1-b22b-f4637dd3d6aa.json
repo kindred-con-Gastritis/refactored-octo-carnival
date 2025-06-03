@@ -1145,6 +1145,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748916965507
           }
+        },
+        "shellder": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748918038135
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1160,9 +1167,9 @@
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 112,
+    "totalBattleVictoryCount": 121,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 112,
+    "totalPvWBattleVictoryCount": 121,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1197,7 +1204,7 @@
       "cobblemon:gossifleur": 4,
       "cobblemon:spewpa": 2,
       "cobblemon:lurantis": 2,
-      "cobblemon:combee": 7,
+      "cobblemon:combee": 8,
       "cobblemon:slowpoke": 1,
       "cobblemon:fomantis": 2,
       "cobblemon:shroomish": 1,
@@ -1205,24 +1212,28 @@
       "cobblemon:whimsicott": 1,
       "cobblemon:petilil": 5,
       "cobblemon:floette": 1,
-      "cobblemon:mareep": 7,
+      "cobblemon:mareep": 8,
       "cobblemon:ponyta": 2,
-      "cobblemon:budew": 2,
+      "cobblemon:budew": 3,
       "cobblemon:pidgey": 4,
       "cobblemon:swellow": 1,
       "cobblemon:rapidash": 1,
       "cobblemon:tinkatink": 1,
       "cobblemon:miltank": 2,
       "cobblemon:comfey": 1,
-      "cobblemon:lechonk": 2,
+      "cobblemon:lechonk": 3,
       "cobblemon:oinkologne": 1,
       "cobblemon:snorunt": 3,
-      "cobblemon:furret": 1,
+      "cobblemon:furret": 2,
       "cobblemon:stantler": 1,
       "cobblemon:pineco": 1,
       "cobblemon:bouffalant": 2,
       "cobblemon:lickilicky": 1,
-      "cobblemon:vivillon": 2
+      "cobblemon:vivillon": 2,
+      "cobblemon:honedge": 1,
+      "cobblemon:shellder": 1,
+      "cobblemon:stonjourner": 1,
+      "cobblemon:lilligant": 1
     },
     "aspectsCollected": {}
   }

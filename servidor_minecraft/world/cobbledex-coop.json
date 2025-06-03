@@ -1136,6 +1136,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748916965507
       }
+    },
+    "shellder": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748918038135
+      }
     }
   }
 }
