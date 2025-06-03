@@ -1047,6 +1047,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1748909548171
       }
+    },
+    "fomantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1748909850895
+      }
     }
   }
 }

@@ -1056,6 +1056,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1748909548170
           }
+        },
+        "fomantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1748909850894
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1069,9 +1076,9 @@
     "totalCaptureCount": 11,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 39,
+    "totalBattleVictoryCount": 45,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 39,
+    "totalPvWBattleVictoryCount": 45,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1103,11 +1110,16 @@
       "cobblemon:cutiefly": 2,
       "cobblemon:wooloo": 1,
       "cobblemon:cottonee": 2,
-      "cobblemon:gossifleur": 1,
+      "cobblemon:gossifleur": 2,
       "cobblemon:spewpa": 2,
       "cobblemon:lurantis": 1,
       "cobblemon:combee": 1,
-      "cobblemon:slowpoke": 1
+      "cobblemon:slowpoke": 1,
+      "cobblemon:fomantis": 1,
+      "cobblemon:shroomish": 1,
+      "cobblemon:flabebe": 1,
+      "cobblemon:whimsicott": 1,
+      "cobblemon:petilil": 1
     },
     "aspectsCollected": {}
   }

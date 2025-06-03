@@ -2497,9 +2497,10 @@
   },
   "cobblemon:recipes/consumables/hasty_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-06-03 00:23:27 +0000",
       "has_detriment_mint": "2025-06-03 00:12:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
@@ -2519,9 +2520,27 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/rash_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/brave_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:23:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-03 00:18:37 +0000"
     },
     "done": true
   },
@@ -2549,6 +2568,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/modest_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-06-02 23:37:54 +0000"
@@ -2567,9 +2592,22 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/power_lens": {
+    "criteria": {
+      "has_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/mild_mint": {
     "criteria": {
+      "has_benefit_mint": "2025-06-03 00:21:18 +0000",
       "has_detriment_mint": "2025-06-03 00:12:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/sassy_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:23:27 +0000"
     },
     "done": false
   },
@@ -2585,21 +2623,48 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/jolly_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:23:27 +0000",
+      "has_detriment_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-02 23:59:51 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/impish_mint": {
+  "cobblemon:recipes/consumables/careful_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+      "has_detriment_mint": "2025-06-03 00:21:18 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000",
+      "has_detriment_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-02 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/timid_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:23:27 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/quiet_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:21:18 +0000",
+      "has_detriment_mint": "2025-06-03 00:23:27 +0000"
     },
     "done": true
   },
@@ -2617,9 +2682,10 @@
   },
   "cobblemon:recipes/consumables/relaxed_mint": {
     "criteria": {
-      "has_benefit_mint": "2025-06-03 00:12:40 +0000"
+      "has_benefit_mint": "2025-06-03 00:12:40 +0000",
+      "has_detriment_mint": "2025-06-03 00:23:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:obtain_mint": {
     "criteria": {
@@ -2629,15 +2695,47 @@
   },
   "cobblemon:obtain_all_mints": {
     "criteria": {
+      "obtain_cyan_mint_leaf": "2025-06-03 00:21:18 +0000",
+      "obtain_green_mint_leaf": "2025-06-03 00:23:27 +0000",
       "obtain_blue_mint_leaf": "2025-06-03 00:12:40 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/consumables/adamant_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-06-03 00:21:18 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naive_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-06-03 00:23:27 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-03 00:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-03 00:18:37 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/consumables/lonely_mint": {
     "criteria": {
       "has_detriment_mint": "2025-06-03 00:12:40 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/held/power_anklet": {
+    "criteria": {
+      "has_mint": "2025-06-03 00:23:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
