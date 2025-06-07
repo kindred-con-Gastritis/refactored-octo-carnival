@@ -158,6 +158,22 @@
             "discoveredTimestamp": 1749271301646,
             "caughtTimestamp": 1749271301646
           }
+        },
+        "gimmighoul": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749272378702,
+            "caughtTimestamp": 1749272378702
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749272441486,
+            "caughtTimestamp": 1749272441486
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -168,12 +184,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 20,
+    "totalBattleVictoryCount": 26,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 25,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -183,7 +199,10 @@
       "electric": 1,
       "ground": 1,
       "dark": 1,
-      "normal": 1
+      "normal": 1,
+      "ghost": 1,
+      "fairy": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:seedot": 1,
@@ -193,10 +212,13 @@
       "cobblemon:taillow": 1,
       "cobblemon:mareep": 1,
       "cobblemon:abra": 1,
-      "cobblemon:zigzagoon": 2,
+      "cobblemon:zigzagoon": 3,
       "cobblemon:tauros": 1,
       "cobblemon:tranquill": 1,
-      "cobblemon:meowth": 1
+      "cobblemon:meowth": 1,
+      "cobblemon:scatterbug": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:starly": 1
     },
     "aspectsCollected": {}
   }

@@ -795,8 +795,9 @@
         "krokorok": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749270307546
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749270307546,
+            "caughtTimestamp": 1749272280347
           }
         },
         "sandile": {
@@ -884,6 +885,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749271816044
           }
+        },
+        "scatterbug": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749272141018
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -896,10 +904,10 @@
   "advancementData": {
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 26,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 36,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 26,
+    "totalPvWBattleVictoryCount": 36,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -921,15 +929,17 @@
       "cobblemon:buizel": 1,
       "cobblemon:krokorok": 1,
       "cobblemon:furret": 1,
-      "cobblemon:meowth": 1,
+      "cobblemon:meowth": 3,
       "cobblemon:maschiff": 1,
-      "cobblemon:zigzagoon": 1,
-      "cobblemon:wooloo": 1,
-      "cobblemon:patrat": 2,
-      "cobblemon:lechonk": 1,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:wooloo": 2,
+      "cobblemon:patrat": 4,
+      "cobblemon:lechonk": 2,
       "cobblemon:koffing": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:mareep": 1
+      "cobblemon:mareep": 2,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:growlithe": 1
     },
     "aspectsCollected": {}
   }

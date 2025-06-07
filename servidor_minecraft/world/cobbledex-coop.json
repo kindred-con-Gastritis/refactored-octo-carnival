@@ -854,8 +854,9 @@
     "krokorok": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749270307547
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749270307547,
+        "caughtTimestamp": 1749272280348
       }
     },
     "sandile": {
@@ -982,6 +983,29 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749271905393,
         "caughtTimestamp": 1749271905393
+      }
+    },
+    "scatterbug": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749272141018
+      }
+    },
+    "gimmighoul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749272378703,
+        "caughtTimestamp": 1749272378703
+      }
+    },
+    "tinkatink": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749272441486,
+        "caughtTimestamp": 1749272441486
       }
     }
   }
