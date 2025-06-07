@@ -947,9 +947,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 42,
+    "totalBattleVictoryCount": 45,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 42,
+    "totalPvWBattleVictoryCount": 45,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -982,10 +982,12 @@
       "cobblemon:mareep": 2,
       "cobblemon:oinkologne": 1,
       "cobblemon:growlithe": 1,
-      "cobblemon:cottonee": 1,
+      "cobblemon:cottonee": 2,
       "cobblemon:rattata": 1,
       "cobblemon:persian": 1,
-      "cobblemon:deerling": 1
+      "cobblemon:deerling": 1,
+      "cobblemon:linoone": 1,
+      "cobblemon:tauros": 1
     },
     "aspectsCollected": {}
   }

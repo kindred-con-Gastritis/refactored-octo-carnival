@@ -376,6 +376,13 @@
             "discoveredTimestamp": 1749333821338,
             "caughtTimestamp": 1749333821338
           }
+        },
+        "centiskorch": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749335545495
+          }
         }
       },
       "name": "cobbledex_discovery"

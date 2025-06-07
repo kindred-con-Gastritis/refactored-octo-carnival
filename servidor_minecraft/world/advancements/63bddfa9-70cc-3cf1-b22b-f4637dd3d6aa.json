@@ -3325,5 +3325,11 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/twisted_spoon": {
+    "criteria": {
+      "has_shovel": "2025-06-07 22:29:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1196,6 +1196,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749333748512
       }
+    },
+    "centiskorch": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749335545498
+      }
     }
   }
 }
