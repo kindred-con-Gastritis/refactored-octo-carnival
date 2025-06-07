@@ -25,6 +25,7 @@
       "minecraft:desert": "2025-06-07 17:39:18 +0000",
       "minecraft:windswept_forest": "2025-06-07 05:35:43 +0000",
       "minecraft:ocean": "2025-06-07 02:25:26 +0000",
+      "minecraft:snowy_beach": "2025-06-07 20:10:43 +0000",
       "minecraft:frozen_peaks": "2025-06-07 04:11:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 02:24:58 +0000",
       "minecraft:savanna": "2025-06-07 03:52:33 +0000",
@@ -535,6 +536,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-07 20:19:46 +0000",
       "minecraft:skeleton": "2025-06-07 03:35:20 +0000",
       "minecraft:spider": "2025-06-07 02:58:11 +0000",
       "minecraft:creeper": "2025-06-07 06:01:58 +0000",
@@ -3151,15 +3153,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-07 20:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-06-07 19:47:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-07 19:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 20:18:08 +0000"
     },
     "done": true
   },

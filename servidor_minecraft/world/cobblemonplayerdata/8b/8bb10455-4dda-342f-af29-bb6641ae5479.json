@@ -320,6 +320,14 @@
             "discoveredTimestamp": 1749319018523,
             "caughtTimestamp": 1749319018523
           }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749327636887,
+            "caughtTimestamp": 1749327636887
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -333,12 +341,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 18,
+    "totalCaptureCount": 19,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 107,
+    "totalBattleVictoryCount": 110,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 107,
+    "totalPvWBattleVictoryCount": 110,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -351,11 +359,11 @@
       "fighting": 2,
       "water": 1,
       "psychic": 1,
-      "fairy": 1,
+      "fairy": 2,
       "bug": 1,
       "dark": 2,
       "ground": 2,
-      "steel": 1,
+      "steel": 2,
       "grass": 1
     },
     "totalDefeatedCounts": {
@@ -412,7 +420,9 @@
       "cobblemon:lopunny": 1,
       "cobblemon:dugtrio": 1,
       "cobblemon:skarmory": 1,
-      "cobblemon:tauros": 1
+      "cobblemon:tauros": 1,
+      "cobblemon:crabrawler": 1,
+      "cobblemon:swellow": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
