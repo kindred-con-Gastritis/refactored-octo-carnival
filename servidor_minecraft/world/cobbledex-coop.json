@@ -1250,6 +1250,80 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749336998830
       }
+    },
+    "cinderace": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749337085828,
+        "caughtTimestamp": 1749337085828
+      }
+    },
+    "voltorb": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749337315080
+      }
+    },
+    "qwilfish": {
+      "hisui": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749337747532,
+        "caughtTimestamp": 1749337896125
+      }
+    },
+    "carvanha": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749337778971
+      }
+    },
+    "barraskewda": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749337995296
+      }
+    },
+    "eiscue": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749338118283
+      }
+    },
+    "kingler": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749338125438
+      }
+    },
+    "swinub": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749338145176
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749338193172,
+        "caughtTimestamp": 1749338245125
+      }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749338264288,
+        "caughtTimestamp": 1749338264288
+      }
     }
   }
 }

@@ -948,6 +948,80 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749336998829
           }
+        },
+        "cinderace": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749337085827,
+            "caughtTimestamp": 1749337085827
+          }
+        },
+        "voltorb": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749337315079
+          }
+        },
+        "qwilfish": {
+          "hisui": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749337747531,
+            "caughtTimestamp": 1749337896125
+          }
+        },
+        "carvanha": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749337778971
+          }
+        },
+        "barraskewda": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749337995295
+          }
+        },
+        "eiscue": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749338118283
+          }
+        },
+        "kingler": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749338125437
+          }
+        },
+        "swinub": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749338145175
+          }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749338193171,
+            "caughtTimestamp": 1749338245124
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749338264287,
+            "caughtTimestamp": 1749338264287
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -958,12 +1032,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 57,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 69,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 57,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -975,7 +1049,9 @@
       "grass": 1,
       "ice": 1,
       "ground": 1,
-      "dark": 1
+      "dark": 2,
+      "poison": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 6,
@@ -990,22 +1066,26 @@
       "cobblemon:zigzagoon": 3,
       "cobblemon:wooloo": 3,
       "cobblemon:patrat": 4,
-      "cobblemon:lechonk": 4,
+      "cobblemon:lechonk": 5,
       "cobblemon:koffing": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:mareep": 3,
-      "cobblemon:oinkologne": 1,
+      "cobblemon:mareep": 4,
+      "cobblemon:oinkologne": 2,
       "cobblemon:growlithe": 1,
       "cobblemon:cottonee": 4,
       "cobblemon:rattata": 1,
       "cobblemon:persian": 1,
       "cobblemon:deerling": 1,
       "cobblemon:linoone": 1,
-      "cobblemon:tauros": 1,
-      "cobblemon:miltank": 1,
+      "cobblemon:tauros": 2,
+      "cobblemon:miltank": 3,
       "cobblemon:ampharos": 1,
       "cobblemon:igglybuff": 1,
-      "cobblemon:raticate": 1
+      "cobblemon:raticate": 1,
+      "cobblemon:combee": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:mudbray": 1,
+      "cobblemon:swinub": 1
     },
     "aspectsCollected": {}
   }

@@ -15168,3 +15168,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 22:54:39.917] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [07Jun2025 22:54:59.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set the time to 1000]
 [07Jun2025 22:57:16.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jun2025 22:59:20.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[07Jun2025 23:03:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set the time to 1000]
+[07Jun2025 23:07:59.815] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5ec3c7f6-5df9-47cf-8c37-d611cce8dc6e
+[07Jun2025 23:07:59.816] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5ec3c7f6-5df9-47cf-8c37-d611cce8dc6e
+[07Jun2025 23:11:09.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 23:11:27.046] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
+[07Jun2025 23:11:30.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
+[07Jun2025 23:12:18.599] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[07Jun2025 23:16:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
