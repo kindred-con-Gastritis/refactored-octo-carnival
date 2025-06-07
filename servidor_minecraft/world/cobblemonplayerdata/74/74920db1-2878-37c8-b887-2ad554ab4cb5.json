@@ -150,6 +150,14 @@
             "discoveredTimestamp": 1749270557635,
             "caughtTimestamp": 1749270557635
           }
+        },
+        "porygon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749271301646,
+            "caughtTimestamp": 1749271301646
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -160,12 +168,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 14,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 13,
+    "totalPvWBattleVictoryCount": 19,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -174,7 +182,8 @@
       "psychic": 1,
       "electric": 1,
       "ground": 1,
-      "dark": 1
+      "dark": 1,
+      "normal": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:seedot": 1,
@@ -183,7 +192,11 @@
       "cobblemon:combee": 3,
       "cobblemon:taillow": 1,
       "cobblemon:mareep": 1,
-      "cobblemon:abra": 1
+      "cobblemon:abra": 1,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:tauros": 1,
+      "cobblemon:tranquill": 1,
+      "cobblemon:meowth": 1
     },
     "aspectsCollected": {}
   }

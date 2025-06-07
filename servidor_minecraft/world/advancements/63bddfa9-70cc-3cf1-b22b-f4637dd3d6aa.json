@@ -2438,6 +2438,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_chilan_berry": "2025-06-07 04:44:35 +0000",
       "obtain_oran_berry": "2025-06-07 03:14:36 +0000"
     },
     "done": false
@@ -2454,9 +2455,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 04:46:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-06-07 03:52:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-06-07 04:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 04:46:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:49:37 +0000"
     },
     "done": true
   },
@@ -2466,9 +2509,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-06-07 04:04:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-07 04:46:04 +0000"
     },
     "done": true
   },

@@ -820,6 +820,70 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749270635065
           }
+        },
+        "deerling": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749270786197
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749270889424
+          }
+        },
+        "raboot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749270949003,
+            "caughtTimestamp": 1749270949003
+          }
+        },
+        "koffing": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749270987512
+          }
+        },
+        "tauros": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749271429444
+          }
+        },
+        "lickitung": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749271711952
+          }
+        },
+        "snubbull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749271736571
+          }
+        },
+        "lillipup": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749271747422
+          }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749271816044
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -832,10 +896,10 @@
   "advancementData": {
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 11,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 26,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 11,
+    "totalPvWBattleVictoryCount": 26,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -850,12 +914,22 @@
       "dark": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:bunnelby": 1,
+      "cobblemon:bunnelby": 4,
       "cobblemon:shroomish": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:sentret": 1,
+      "cobblemon:sentret": 2,
       "cobblemon:buizel": 1,
-      "cobblemon:krokorok": 1
+      "cobblemon:krokorok": 1,
+      "cobblemon:furret": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:maschiff": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:patrat": 2,
+      "cobblemon:lechonk": 1,
+      "cobblemon:koffing": 1,
+      "cobblemon:lillipup": 1,
+      "cobblemon:mareep": 1
     },
     "aspectsCollected": {}
   }

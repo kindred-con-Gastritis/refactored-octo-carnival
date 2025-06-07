@@ -1976,6 +1976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-07 04:00:26 +0000"
@@ -2003,6 +2009,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-07 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:31:15 +0000"
     },
     "done": true
   },
@@ -2039,6 +2051,18 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-06-07 04:01:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-07 04:31:15 +0000"
     },
     "done": true
   },

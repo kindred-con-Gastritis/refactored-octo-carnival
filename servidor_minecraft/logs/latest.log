@@ -2140,3 +2140,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [07Jun2025 04:30:44.297] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 437271c9-55e2-4df5-ad87-993801e9ba15
 [07Jun2025 04:30:46.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
 [07Jun2025 04:31:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:32:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:33:29.536] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jun2025 04:33:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:34:35.097] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 641e5779-2e11-42ae-8214-86ddc1d9d3a8
+[07Jun2025 04:34:35.097] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 641e5779-2e11-42ae-8214-86ddc1d9d3a8
+[07Jun2025 04:34:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:35:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:37:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the weather to clear]
+[07Jun2025 04:37:49.342] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4fd68bba-b9fb-488d-b81a-2a4f0a8a8803
+[07Jun2025 04:37:49.343] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4fd68bba-b9fb-488d-b81a-2a4f0a8a8803
+[07Jun2025 04:39:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 04:39:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:42:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:42:06.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Aesthetikkkk]
+[07Jun2025 04:43:04.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:46:10.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 04:47:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:47:18.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 04:48:01.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:49:44.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 04:50:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:51:37.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]

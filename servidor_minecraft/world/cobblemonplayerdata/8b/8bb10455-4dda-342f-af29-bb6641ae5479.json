@@ -112,6 +112,38 @@
             "discoveredTimestamp": 1749270196447,
             "caughtTimestamp": 1749270196447
           }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749270913597,
+            "caughtTimestamp": 1749270913597
+          }
+        },
+        "charmeleon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749271486992,
+            "caughtTimestamp": 1749271486992
+          }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749271895647,
+            "caughtTimestamp": 1749271895647
+          }
+        },
+        "maushold": {
+          "four": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749271905393,
+            "caughtTimestamp": 1749271905393
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -122,18 +154,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 20,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 20,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
-      "normal": 1,
-      "electric": 2
+      "normal": 2,
+      "electric": 2,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 1,
@@ -149,8 +182,17 @@
       "cobblemon:sentret": 1,
       "cobblemon:voltorb": 1,
       "cobblemon:koffing": 1,
-      "cobblemon:patrat": 1,
-      "cobblemon:lillipup": 1
+      "cobblemon:patrat": 2,
+      "cobblemon:lillipup": 1,
+      "cobblemon:timburr": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:mareep": 3,
+      "cobblemon:lechonk": 1,
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:combee": 1
     },
     "aspectsCollected": {}
   }

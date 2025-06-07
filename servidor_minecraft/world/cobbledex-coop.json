@@ -322,8 +322,9 @@
     "growlithe": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749264178924
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749264178924,
+        "caughtTimestamp": 1749270913598
       }
     },
     "cottonee": {
@@ -452,8 +453,9 @@
     "tandemaus": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749266132346
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749266132346,
+        "caughtTimestamp": 1749271895647
       }
     },
     "diggersby": {
@@ -892,6 +894,94 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749270635066
+      }
+    },
+    "deerling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749270786197
+      }
+    },
+    "furret": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749270889425
+      }
+    },
+    "raboot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749270949004,
+        "caughtTimestamp": 1749270949004
+      }
+    },
+    "koffing": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749270987512
+      }
+    },
+    "porygon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749271301646,
+        "caughtTimestamp": 1749271301646
+      }
+    },
+    "tauros": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749271429445
+      }
+    },
+    "charmeleon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749271486992,
+        "caughtTimestamp": 1749271486992
+      }
+    },
+    "lickitung": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749271711953
+      }
+    },
+    "snubbull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749271736571
+      }
+    },
+    "lillipup": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749271747423
+      }
+    },
+    "yamper": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749271816045
+      }
+    },
+    "maushold": {
+      "four": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749271905393,
+        "caughtTimestamp": 1749271905393
       }
     }
   }
