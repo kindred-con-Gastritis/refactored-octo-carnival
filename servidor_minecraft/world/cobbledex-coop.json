@@ -426,8 +426,9 @@
     "sableye": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749265339401
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749265339401,
+        "caughtTimestamp": 1749317079722
       }
     },
     "mudsdale": {
@@ -1092,6 +1093,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749314605853,
         "caughtTimestamp": 1749314605853
+      }
+    },
+    "charizard": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749316600749,
+        "caughtTimestamp": 1749316600749
+      }
+    },
+    "joltik": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749316957572,
+        "caughtTimestamp": 1749316957572
       }
     }
   }

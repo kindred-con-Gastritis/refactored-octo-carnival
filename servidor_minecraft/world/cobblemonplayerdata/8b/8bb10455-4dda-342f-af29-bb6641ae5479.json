@@ -264,6 +264,30 @@
             "discoveredTimestamp": 1749314605853,
             "caughtTimestamp": 1749314605853
           }
+        },
+        "charizard": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749316600748,
+            "caughtTimestamp": 1749316600748
+          }
+        },
+        "joltik": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749316957572,
+            "caughtTimestamp": 1749316957572
+          }
+        },
+        "sableye": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749317079721,
+            "caughtTimestamp": 1749317079721
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -276,25 +300,27 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 98,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 100,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 98,
+    "totalPvWBattleVictoryCount": 100,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "normal": 3,
-      "electric": 2,
+      "electric": 3,
       "fire": 2,
-      "ghost": 2,
+      "ghost": 3,
       "poison": 1,
       "fighting": 2,
       "water": 1,
       "psychic": 1,
-      "fairy": 1
+      "fairy": 1,
+      "bug": 1,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,
