@@ -1077,6 +1077,14 @@
         "discoveredTimestamp": 1749281735840,
         "caughtTimestamp": 1749281735840
       }
+    },
+    "rapidash": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749313689931,
+        "caughtTimestamp": 1749313689931
+      }
     }
   }
 }
