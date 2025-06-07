@@ -17,9 +17,11 @@
       "minecraft:mangrove_swamp": "2025-06-07 03:59:23 +0000",
       "minecraft:river": "2025-06-07 02:29:41 +0000",
       "minecraft:snowy_plains": "2025-06-07 03:54:22 +0000",
+      "minecraft:stony_shore": "2025-06-07 05:55:01 +0000",
       "minecraft:dripstone_caves": "2025-06-07 03:24:56 +0000",
       "minecraft:snowy_taiga": "2025-06-07 05:21:24 +0000",
       "minecraft:grove": "2025-06-07 04:21:41 +0000",
+      "minecraft:cold_ocean": "2025-06-07 05:57:31 +0000",
       "minecraft:forest": "2025-06-07 02:37:39 +0000",
       "minecraft:lush_caves": "2025-06-07 03:25:49 +0000",
       "minecraft:desert": "2025-06-07 04:17:49 +0000",
@@ -812,17 +814,19 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-06-07 02:34:39 +0000"
+      "has_blue_apricorn": "2025-06-07 02:34:39 +0000",
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-06-07 02:34:39 +0000",
       "has_white_apricorn": "2025-06-07 02:43:51 +0000",
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_yellow_apricorn": "2025-06-07 02:49:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -840,9 +844,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-06-07 02:34:39 +0000",
-      "has_white_apricorn": "2025-06-07 02:43:51 +0000"
+      "has_white_apricorn": "2025-06-07 02:43:51 +0000",
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
@@ -873,18 +878,20 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_yellow_apricorn": "2025-06-07 02:49:42 +0000",
       "has_red_apricorn": "2025-06-07 02:35:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_red_apricorn": "2025-06-07 02:35:23 +0000",
       "has_yellow_apricorn": "2025-06-07 02:49:42 +0000",
       "has_pink_apricorn": "2025-06-07 02:52:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
@@ -917,10 +924,11 @@
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_yellow_apricorn": "2025-06-07 02:49:42 +0000",
       "has_red_apricorn": "2025-06-07 02:35:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
@@ -932,9 +940,10 @@
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_white_apricorn": "2025-06-07 02:43:51 +0000",
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_red_apricorn": "2025-06-07 02:35:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
@@ -1030,7 +1039,9 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "great_ball": "2025-06-07 03:44:12 +0000",
+      "ancient_poke_ball": "2025-06-07 06:03:49 +0000",
       "azure_ball": "2025-06-07 02:40:10 +0000",
+      "ultra_ball": "2025-06-07 06:18:11 +0000",
       "citrine_ball": "2025-06-07 03:31:18 +0000"
     },
     "done": false
@@ -1091,9 +1102,10 @@
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-06-07 02:41:04 +0000"
+      "has_green_apricorn": "2025-06-07 02:41:04 +0000",
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
     "criteria": {
@@ -1139,6 +1151,7 @@
     "criteria": {
       "place_black": "2025-06-07 04:39:58 +0000",
       "place_green": "2025-06-07 04:39:56 +0000",
+      "place_pink": "2025-06-07 06:11:27 +0000",
       "place_red": "2025-06-07 03:41:18 +0000",
       "place_blue": "2025-06-07 02:43:33 +0000"
     },
@@ -1178,9 +1191,10 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000",
       "has_yellow_apricorn": "2025-06-07 02:49:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
     "criteria": {
@@ -2928,9 +2942,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2025-06-07 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-06-07 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
     },
     "done": true
   },
@@ -2940,9 +3002,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
       "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
     },
     "done": true
   },
@@ -2952,9 +3038,81 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-06-07 06:03:49 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
     },
     "done": true
   },
@@ -2967,6 +3125,18 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
     },
     "done": true
   },

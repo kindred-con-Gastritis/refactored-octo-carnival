@@ -174,25 +174,51 @@
             "discoveredTimestamp": 1749272441486,
             "caughtTimestamp": 1749272441486
           }
+        },
+        "gholdengo": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749275205585,
+            "caughtTimestamp": 1749275205585
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749276215924,
+            "caughtTimestamp": 1749276215924
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749276229277,
+            "caughtTimestamp": 1749276229277
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 26,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 25,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 1,
+    "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "water": 2,
       "psychic": 1,
@@ -208,8 +234,8 @@
       "cobblemon:seedot": 1,
       "cobblemon:deerling": 1,
       "cobblemon:buneary": 1,
-      "cobblemon:combee": 3,
-      "cobblemon:taillow": 1,
+      "cobblemon:combee": 6,
+      "cobblemon:taillow": 2,
       "cobblemon:mareep": 1,
       "cobblemon:abra": 1,
       "cobblemon:zigzagoon": 3,
@@ -217,9 +243,14 @@
       "cobblemon:tranquill": 1,
       "cobblemon:meowth": 1,
       "cobblemon:scatterbug": 1,
-      "cobblemon:butterfree": 1,
-      "cobblemon:starly": 1
+      "cobblemon:butterfree": 2,
+      "cobblemon:starly": 1,
+      "cobblemon:lechonk": 2,
+      "cobblemon:cottonee": 1,
+      "cobblemon:mudbray": 1
     },
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:gholdengo": []
+    }
   }
 }

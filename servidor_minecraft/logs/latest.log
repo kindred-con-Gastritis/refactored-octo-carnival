@@ -1426,3 +1426,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 05:26:09.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
 [07Jun2025 05:26:13.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Creative Mode]
 [07Jun2025 05:26:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[07Jun2025 05:36:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 05:37:38.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
+[07Jun2025 05:37:41.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
+[07Jun2025 05:37:57.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 05:40:09.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 05:40:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 05:41:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 05:42:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 05:43:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 05:43:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 05:44:04.027] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c8b33694-2072-4db8-8a6f-014c806fb5f9
+[07Jun2025 05:44:04.027] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c8b33694-2072-4db8-8a6f-014c806fb5f9
+[07Jun2025 05:45:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 05:46:14.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 05:46:32.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 05:46:35.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 05:57:14.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[07Jun2025 05:57:14.064] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Jun2025 05:57:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was blown up by Creeper
+[07Jun2025 06:02:24.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Full House]
+[07Jun2025 06:03:18.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 06:03:22.884] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/messages/client/PlayerInteractOptionsPacket$Options
+[07Jun2025 06:06:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 06:06:22.575] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b4e4471a-ae4f-4bfb-bf73-c04d0bff4663
+[07Jun2025 06:06:22.575] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b4e4471a-ae4f-4bfb-bf73-c04d0bff4663
+[07Jun2025 06:06:24.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jun2025 06:06:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 06:07:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Cover Me with Diamonds]
+[07Jun2025 06:07:29.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23506, l='ServerLevel[world]', x=-1359.70, y=57.00, z=330.70] died, message: 'Villager was slain by Zombie'
+[07Jun2025 06:08:22.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:09:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:11:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 06:16:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:17:14.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 06:19:19.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[07Jun2025 06:23:17.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[07Jun2025 06:23:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Sweet Dreams]

@@ -237,8 +237,9 @@
     "lopunny": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749263652852
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749263652852,
+        "caughtTimestamp": 1749274666884
       }
     },
     "linoone": {
@@ -1006,6 +1007,38 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749272441486,
         "caughtTimestamp": 1749272441486
+      }
+    },
+    "gholdengo": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749275205586,
+        "caughtTimestamp": 1749275205586
+      }
+    },
+    "gastly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749276144174,
+        "caughtTimestamp": 1749276144174
+      }
+    },
+    "haunter": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749276150450,
+        "caughtTimestamp": 1749276150450
+      }
+    },
+    "gengar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749276229279,
+        "caughtTimestamp": 1749276229279
       }
     }
   }
