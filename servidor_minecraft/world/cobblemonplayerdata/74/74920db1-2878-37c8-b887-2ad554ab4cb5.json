@@ -213,9 +213,9 @@
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 35,
+    "totalBattleVictoryCount": 36,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 34,
+    "totalPvWBattleVictoryCount": 35,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -247,7 +247,8 @@
       "cobblemon:starly": 1,
       "cobblemon:lechonk": 2,
       "cobblemon:cottonee": 1,
-      "cobblemon:mudbray": 1
+      "cobblemon:mudbray": 1,
+      "cobblemon:pineco": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

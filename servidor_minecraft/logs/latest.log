@@ -1463,3 +1463,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 06:19:19.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [07Jun2025 06:23:17.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [07Jun2025 06:23:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Sweet Dreams]
+[07Jun2025 06:27:40.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:28:32.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[07Jun2025 06:29:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:30:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:33:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:34:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 06:35:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 06:36:13.909] [Worker-Main-19/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[07Jun2025 06:37:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:40:49.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:42:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:43:32.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:44:07.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk moved too quickly! -7.195363374297813,1.0,-7.02880742694083
+[07Jun2025 06:44:36.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 06:45:00.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
