@@ -452,6 +452,57 @@
             "discoveredTimestamp": 1749338787616,
             "caughtTimestamp": 1749338787616
           }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749339761798,
+            "caughtTimestamp": 1749339945117
+          }
+        },
+        "goldeen": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749339769240
+          }
+        },
+        "wimpod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749339807942
+          }
+        },
+        "wingull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749339813240
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749339959752,
+            "caughtTimestamp": 1749339959752
+          }
+        },
+        "frillish": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749340015553
+          }
+        },
+        "jellicent": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749340112704
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -465,12 +516,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 25,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 139,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 140,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 139,
+    "totalPvWBattleVictoryCount": 140,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
@@ -481,7 +532,7 @@
       "ghost": 3,
       "poison": 1,
       "fighting": 2,
-      "water": 1,
+      "water": 2,
       "psychic": 1,
       "fairy": 3,
       "bug": 1,
