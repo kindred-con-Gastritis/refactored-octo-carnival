@@ -1022,6 +1022,21 @@
             "discoveredTimestamp": 1749338264287,
             "caughtTimestamp": 1749338264287
           }
+        },
+        "golisopod": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749338319820,
+            "caughtTimestamp": 1749338437771
+          }
+        },
+        "plusle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749338540633
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1032,12 +1047,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 69,
+    "totalBattleVictoryCount": 71,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 69,
+    "totalPvWBattleVictoryCount": 71,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1051,7 +1066,8 @@
       "ground": 1,
       "dark": 2,
       "poison": 1,
-      "water": 1
+      "water": 2,
+      "bug": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 6,
@@ -1085,7 +1101,8 @@
       "cobblemon:combee": 1,
       "cobblemon:bouffalant": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:swinub": 1
+      "cobblemon:swinub": 1,
+      "cobblemon:plusle": 1
     },
     "aspectsCollected": {}
   }

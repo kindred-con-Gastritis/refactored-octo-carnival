@@ -444,6 +444,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749336955120
           }
+        },
+        "garchomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749338787616,
+            "caughtTimestamp": 1749338787616
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -457,12 +465,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 23,
+    "totalCaptureCount": 24,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 135,
+    "totalBattleVictoryCount": 139,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 135,
+    "totalPvWBattleVictoryCount": 139,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
@@ -478,9 +486,10 @@
       "fairy": 3,
       "bug": 1,
       "dark": 3,
-      "ground": 3,
+      "ground": 4,
       "steel": 3,
-      "grass": 1
+      "grass": 1,
+      "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,
@@ -500,7 +509,7 @@
       "cobblemon:lillipup": 1,
       "cobblemon:timburr": 1,
       "cobblemon:wooloo": 4,
-      "cobblemon:deerling": 1,
+      "cobblemon:deerling": 2,
       "cobblemon:taillow": 2,
       "cobblemon:miltank": 6,
       "cobblemon:mareep": 6,
@@ -513,8 +522,8 @@
       "cobblemon:krabby": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:lickitung": 2,
-      "cobblemon:growlithe": 1,
-      "cobblemon:yamper": 1,
+      "cobblemon:growlithe": 2,
+      "cobblemon:yamper": 2,
       "cobblemon:butterfree": 1,
       "cobblemon:caterpie": 1,
       "cobblemon:emolga": 2,

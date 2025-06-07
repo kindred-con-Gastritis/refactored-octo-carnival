@@ -15177,3 +15177,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 23:11:30.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
 [07Jun2025 23:12:18.599] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [07Jun2025 23:16:00.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 23:18:15.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyarados (vehicle of Lcdo_Patino) moved too quickly! -9.427207953731795,-2.4015487999999294,-2.5376425246801304
+[07Jun2025 23:18:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 23:20:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 23:20:52.455] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[07Jun2025 23:22:11.051] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 23:22:11.051] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 23:22:11.051] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 23:23:25.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[07Jun2025 23:23:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game

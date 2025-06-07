@@ -1324,6 +1324,29 @@
         "discoveredTimestamp": 1749338264288,
         "caughtTimestamp": 1749338264288
       }
+    },
+    "golisopod": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749338319821,
+        "caughtTimestamp": 1749338437772
+      }
+    },
+    "plusle": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749338540634
+      }
+    },
+    "garchomp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749338787617,
+        "caughtTimestamp": 1749338787617
+      }
     }
   }
 }
