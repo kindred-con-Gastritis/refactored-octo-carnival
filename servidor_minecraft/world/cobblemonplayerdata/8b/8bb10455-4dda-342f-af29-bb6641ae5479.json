@@ -288,6 +288,14 @@
             "discoveredTimestamp": 1749317079721,
             "caughtTimestamp": 1749317079721
           }
+        },
+        "dugtrio": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749317452922,
+            "caughtTimestamp": 1749317452922
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -300,12 +308,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 16,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 100,
+    "totalBattleVictoryCount": 102,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 100,
+    "totalPvWBattleVictoryCount": 102,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -320,7 +328,9 @@
       "psychic": 1,
       "fairy": 1,
       "bug": 1,
-      "dark": 1
+      "dark": 1,
+      "ground": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,
@@ -373,7 +383,8 @@
       "cobblemon:hypno": 1,
       "cobblemon:meowth": 1,
       "cobblemon:seedot": 1,
-      "cobblemon:lopunny": 1
+      "cobblemon:lopunny": 1,
+      "cobblemon:dugtrio": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

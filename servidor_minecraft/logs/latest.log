@@ -1429,3 +1429,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:00:43.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
 [07Jun2025 17:01:28.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
 [07Jun2025 17:25:07.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 17:31:31.817] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f45689d1-c9e7-439e-8eda-d29a129be2e5
+[07Jun2025 17:31:31.818] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f45689d1-c9e7-439e-8eda-d29a129be2e5
+[07Jun2025 17:31:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 17:33:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]

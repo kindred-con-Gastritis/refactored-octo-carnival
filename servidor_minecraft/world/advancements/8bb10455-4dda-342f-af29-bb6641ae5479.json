@@ -536,6 +536,7 @@
       "minecraft:skeleton": "2025-06-07 03:35:20 +0000",
       "minecraft:spider": "2025-06-07 02:58:11 +0000",
       "minecraft:creeper": "2025-06-07 06:01:58 +0000",
+      "minecraft:witch": "2025-06-07 17:29:17 +0000",
       "minecraft:zombie": "2025-06-07 02:36:07 +0000",
       "minecraft:zombie_villager": "2025-06-07 17:15:43 +0000"
     },
@@ -2780,15 +2781,75 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/berry_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-06-07 17:16:35 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-06-07 17:16:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
     },
     "done": true
   },
@@ -2804,9 +2865,39 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/ribbon_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
     "criteria": {
       "has_raw_garchompite": "2025-06-07 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
     },
     "done": true
   },
@@ -2822,9 +2913,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/miracle_seed": {
     "criteria": {
       "has_leaf": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/strawberry_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
     },
     "done": true
   },
@@ -2846,6 +2961,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/love_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/misc/cut_scizorite_from_raw_scizorite_stonecutting": {
     "criteria": {
       "has_raw_scizorite": "2025-06-07 16:42:53 +0000"
@@ -2864,9 +2985,45 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/flower_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/charcoal_stick": {
     "criteria": {
       "has_fire": "2025-06-07 16:43:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/star_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/clover_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
     },
     "done": true
   },
