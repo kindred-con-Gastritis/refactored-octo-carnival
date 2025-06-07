@@ -1456,3 +1456,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:54:54.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:52076] logged in with entity id 20727 at (-4615.46706834541, 72.0, 2093.4440875095397)
 [07Jun2025 17:54:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
 [07Jun2025 17:57:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 18:46:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
