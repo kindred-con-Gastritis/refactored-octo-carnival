@@ -16,6 +16,14 @@
             "discoveredTimestamp": 1749265289548,
             "caughtTimestamp": 1749265289548
           }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749333821336,
+            "caughtTimestamp": 1749333821336
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -34,7 +42,7 @@
     "totalPvWBattleVictoryCount": 0,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 1,
     "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {},
     "aspectsCollected": {}

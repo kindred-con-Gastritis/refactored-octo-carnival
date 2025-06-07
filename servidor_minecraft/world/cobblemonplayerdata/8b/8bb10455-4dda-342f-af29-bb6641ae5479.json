@@ -368,6 +368,14 @@
             "discoveredTimestamp": 1749333404952,
             "caughtTimestamp": 1749333404952
           }
+        },
+        "quaxly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749333821338,
+            "caughtTimestamp": 1749333821338
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -384,12 +392,12 @@
     "totalCaptureCount": 23,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 131,
+    "totalBattleVictoryCount": 132,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 131,
+    "totalPvWBattleVictoryCount": 132,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 5,
+    "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "normal": 4,
       "electric": 3,
@@ -427,7 +435,7 @@
       "cobblemon:deerling": 1,
       "cobblemon:taillow": 2,
       "cobblemon:miltank": 6,
-      "cobblemon:mareep": 4,
+      "cobblemon:mareep": 5,
       "cobblemon:lechonk": 6,
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
