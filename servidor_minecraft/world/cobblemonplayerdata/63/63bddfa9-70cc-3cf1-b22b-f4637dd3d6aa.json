@@ -934,6 +934,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749333748512
           }
+        },
+        "ampharos": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336574399
+          }
+        },
+        "florges": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336998829
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -947,9 +961,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 46,
+    "totalBattleVictoryCount": 57,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 46,
+    "totalPvWBattleVictoryCount": 57,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -964,10 +978,10 @@
       "dark": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:bunnelby": 4,
+      "cobblemon:bunnelby": 6,
       "cobblemon:shroomish": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:sentret": 2,
+      "cobblemon:sentret": 3,
       "cobblemon:buizel": 1,
       "cobblemon:krokorok": 1,
       "cobblemon:furret": 1,
@@ -976,19 +990,22 @@
       "cobblemon:zigzagoon": 3,
       "cobblemon:wooloo": 3,
       "cobblemon:patrat": 4,
-      "cobblemon:lechonk": 2,
+      "cobblemon:lechonk": 4,
       "cobblemon:koffing": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:mareep": 2,
+      "cobblemon:mareep": 3,
       "cobblemon:oinkologne": 1,
       "cobblemon:growlithe": 1,
-      "cobblemon:cottonee": 2,
+      "cobblemon:cottonee": 4,
       "cobblemon:rattata": 1,
       "cobblemon:persian": 1,
       "cobblemon:deerling": 1,
       "cobblemon:linoone": 1,
       "cobblemon:tauros": 1,
-      "cobblemon:miltank": 1
+      "cobblemon:miltank": 1,
+      "cobblemon:ampharos": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:raticate": 1
     },
     "aspectsCollected": {}
   }

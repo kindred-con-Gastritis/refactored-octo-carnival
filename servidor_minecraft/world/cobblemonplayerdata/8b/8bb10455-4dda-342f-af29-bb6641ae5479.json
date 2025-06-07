@@ -335,6 +335,11 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1749329198879,
             "caughtTimestamp": 1749329198879
+          },
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336949969
           }
         },
         "mudsdale": {
@@ -417,6 +422,27 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1749336434448
+          }
+        },
+        "ponyta": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336480239
+          }
+        },
+        "charcadet": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336517719
+          }
+        },
+        "tauros": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336955120
           }
         }
       },

@@ -1150,6 +1150,11 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749329198880,
         "caughtTimestamp": 1749329198880
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336949969
       }
     },
     "eevee": {
@@ -1223,6 +1228,27 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749336407503
+      }
+    },
+    "charcadet": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336517720
+      }
+    },
+    "ampharos": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336574400
+      }
+    },
+    "florges": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336998830
       }
     }
   }
