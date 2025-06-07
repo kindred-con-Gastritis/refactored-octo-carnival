@@ -336,6 +336,22 @@
             "discoveredTimestamp": 1749329198879,
             "caughtTimestamp": 1749329198879
           }
+        },
+        "mudsdale": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749330114786,
+            "caughtTimestamp": 1749330114786
+          }
+        },
+        "eevee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749330215733,
+            "caughtTimestamp": 1749330215733
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -349,17 +365,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 22,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 117,
+    "totalBattleVictoryCount": 127,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 117,
+    "totalPvWBattleVictoryCount": 127,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
-      "normal": 3,
+      "normal": 4,
       "electric": 3,
       "fire": 2,
       "ghost": 3,
@@ -370,7 +386,7 @@
       "fairy": 2,
       "bug": 1,
       "dark": 3,
-      "ground": 2,
+      "ground": 3,
       "steel": 2,
       "grass": 1
     },
@@ -391,15 +407,15 @@
       "cobblemon:patrat": 3,
       "cobblemon:lillipup": 1,
       "cobblemon:timburr": 1,
-      "cobblemon:wooloo": 3,
+      "cobblemon:wooloo": 4,
       "cobblemon:deerling": 1,
       "cobblemon:taillow": 2,
-      "cobblemon:miltank": 4,
+      "cobblemon:miltank": 6,
       "cobblemon:mareep": 4,
-      "cobblemon:lechonk": 4,
+      "cobblemon:lechonk": 6,
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
-      "cobblemon:bouffalant": 5,
+      "cobblemon:bouffalant": 7,
       "cobblemon:cottonee": 3,
       "cobblemon:pelipper": 2,
       "cobblemon:krabby": 1,
@@ -432,7 +448,8 @@
       "cobblemon:crabrawler": 1,
       "cobblemon:swellow": 1,
       "cobblemon:pidove": 1,
-      "cobblemon:ampharos": 1
+      "cobblemon:ampharos": 1,
+      "cobblemon:stonjourner": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
