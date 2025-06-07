@@ -1457,3 +1457,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:54:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
 [07Jun2025 17:57:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
 [07Jun2025 18:46:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
+[07Jun2025 18:50:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 18:51:22.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
