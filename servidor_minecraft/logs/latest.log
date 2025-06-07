@@ -1459,3 +1459,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 18:46:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
 [07Jun2025 18:50:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
 [07Jun2025 18:51:22.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 19:03:18.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[07Jun2025 19:03:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[07Jun2025 19:03:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jun2025 19:03:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jun2025 19:03:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jun2025 19:03:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jun2025 19:03:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jun2025 19:03:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jun2025 19:03:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jun2025 19:03:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jun2025 19:03:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jun2025 19:03:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jun2025 19:03:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jun2025 19:03:30.170] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
