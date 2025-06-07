@@ -764,8 +764,9 @@
     "machamp": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749269990795
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749269990795,
+        "caughtTimestamp": 1749280950317
       }
     },
     "cacnea": {

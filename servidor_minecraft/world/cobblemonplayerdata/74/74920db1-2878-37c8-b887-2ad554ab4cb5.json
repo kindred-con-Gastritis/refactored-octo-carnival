@@ -222,6 +222,22 @@
             "discoveredTimestamp": 1749280529319,
             "caughtTimestamp": 1749280529319
           }
+        },
+        "machoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749280941847,
+            "caughtTimestamp": 1749280941847
+          }
+        },
+        "machamp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749280950317,
+            "caughtTimestamp": 1749280950317
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -236,13 +252,13 @@
   "advancementData": {
     "totalCaptureCount": 9,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 40,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 41,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 39,
+    "totalPvWBattleVictoryCount": 40,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 3,
+    "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "water": 2,
       "psychic": 1,
@@ -275,7 +291,8 @@
       "cobblemon:cottonee": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:pineco": 1,
-      "cobblemon:exeggcute": 1
+      "cobblemon:exeggcute": 1,
+      "cobblemon:honedge": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

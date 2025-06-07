@@ -1491,3 +1491,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 07:06:31.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
 [07Jun2025 07:09:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Healing Power]
 [07Jun2025 07:14:33.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was shot by Skeleton
+[07Jun2025 07:20:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 07:21:12.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the weather to clear]
+[07Jun2025 07:22:06.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 07:23:47.017] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2a393431-3c0e-4694-b880-6b646b3a699e
+[07Jun2025 07:23:47.017] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2a393431-3c0e-4694-b880-6b646b3a699e
+[07Jun2025 07:23:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 07:24:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 07:25:12.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 07:26:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
