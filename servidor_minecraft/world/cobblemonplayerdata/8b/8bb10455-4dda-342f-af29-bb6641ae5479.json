@@ -248,6 +248,22 @@
             "discoveredTimestamp": 1749313689929,
             "caughtTimestamp": 1749313689929
           }
+        },
+        "mimejr": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749314161376,
+            "caughtTimestamp": 1749314161376
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749314605853,
+            "caughtTimestamp": 1749314605853
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -260,12 +276,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 13,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 95,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 96,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 95,
+    "totalPvWBattleVictoryCount": 96,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -276,7 +292,9 @@
       "ghost": 2,
       "poison": 1,
       "fighting": 2,
-      "water": 1
+      "water": 1,
+      "psychic": 1,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,

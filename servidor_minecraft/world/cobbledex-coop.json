@@ -1085,6 +1085,14 @@
         "discoveredTimestamp": 1749313689931,
         "caughtTimestamp": 1749313689931
       }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749314605853,
+        "caughtTimestamp": 1749314605853
+      }
     }
   }
 }

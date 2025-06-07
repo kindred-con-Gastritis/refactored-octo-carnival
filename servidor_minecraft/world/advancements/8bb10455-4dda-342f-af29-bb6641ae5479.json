@@ -14,6 +14,7 @@
       "minecraft:mangrove_swamp": "2025-06-07 03:58:28 +0000",
       "minecraft:river": "2025-06-07 02:34:10 +0000",
       "minecraft:stony_shore": "2025-06-07 04:59:50 +0000",
+      "minecraft:snowy_plains": "2025-06-07 16:47:13 +0000",
       "minecraft:dripstone_caves": "2025-06-07 04:10:41 +0000",
       "minecraft:snowy_taiga": "2025-06-07 06:55:37 +0000",
       "minecraft:grove": "2025-06-07 04:09:54 +0000",
@@ -566,6 +567,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-07 02:36:37 +0000",
+      "spider_eye": "2025-06-07 16:37:44 +0000",
       "potato": "2025-06-07 05:23:19 +0000",
       "bread": "2025-06-07 03:02:05 +0000"
     },
@@ -1355,7 +1357,8 @@
       "place_green": "2025-06-07 07:10:14 +0000",
       "place_pink": "2025-06-07 03:09:28 +0000",
       "place_yellow": "2025-06-07 06:14:06 +0000",
-      "place_red": "2025-06-07 06:14:10 +0000"
+      "place_red": "2025-06-07 06:14:10 +0000",
+      "place_blue": "2025-06-07 16:34:25 +0000"
     },
     "done": false
   },
@@ -2773,6 +2776,84 @@
   "cobblemon:recipes/misc/relic_coin": {
     "criteria": {
       "has_pouch": "2025-06-07 07:30:08 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_ore_or_stone": {
+    "criteria": {
+      "has_any_raw_stone": "2025-06-07 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
+    "criteria": {
+      "has_raw_garchompite": "2025-06-07 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/mystic_water": {
+    "criteria": {
+      "has_water": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting": {
+    "criteria": {
+      "has_raw_kangaskhanite": "2025-06-07 16:45:38 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/damp_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_scizorite_from_raw_scizorite_stonecutting": {
+    "criteria": {
+      "has_raw_scizorite": "2025-06-07 16:42:53 +0000"
+    },
+    "done": true
+  },
+  "megamons:megamons": {
+    "criteria": {
+      "has_crystal_geode_block": "2025-06-07 16:42:14 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2025-06-07 16:43:10 +0000"
     },
     "done": true
   },
