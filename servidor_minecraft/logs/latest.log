@@ -1406,3 +1406,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 20:20:27.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
 [07Jun2025 20:20:31.024] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
 [07Jun2025 20:26:24.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was shot by Pillager
+[07Jun2025 20:46:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Voluntary Exile]
+[07Jun2025 20:47:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Ol' Betsy]
+[07Jun2025 20:47:15.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Take Aim]
+[07Jun2025 20:47:15.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Who's the Pillager Now?]
+[07Jun2025 20:48:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[07Jun2025 20:48:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 20:50:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]

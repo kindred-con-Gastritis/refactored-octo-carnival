@@ -1142,6 +1142,14 @@
         "discoveredTimestamp": 1749319018524,
         "caughtTimestamp": 1749319018524
       }
+    },
+    "meowth": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749329198880,
+        "caughtTimestamp": 1749329198880
+      }
     }
   }
 }

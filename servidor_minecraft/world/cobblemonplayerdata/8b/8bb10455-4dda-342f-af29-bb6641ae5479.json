@@ -328,6 +328,14 @@
             "discoveredTimestamp": 1749327636887,
             "caughtTimestamp": 1749327636887
           }
+        },
+        "meowth": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749329198879,
+            "caughtTimestamp": 1749329198879
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -341,12 +349,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 19,
+    "totalCaptureCount": 20,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 110,
+    "totalBattleVictoryCount": 112,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 110,
+    "totalPvWBattleVictoryCount": 112,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -361,7 +369,7 @@
       "psychic": 1,
       "fairy": 2,
       "bug": 1,
-      "dark": 2,
+      "dark": 3,
       "ground": 2,
       "steel": 2,
       "grass": 1
@@ -383,7 +391,7 @@
       "cobblemon:patrat": 3,
       "cobblemon:lillipup": 1,
       "cobblemon:timburr": 1,
-      "cobblemon:wooloo": 2,
+      "cobblemon:wooloo": 3,
       "cobblemon:deerling": 1,
       "cobblemon:taillow": 2,
       "cobblemon:miltank": 3,
