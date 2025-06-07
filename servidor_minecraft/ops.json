@@ -6,8 +6,20 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "8bb10455-4dda-342f-af29-bb6641ae5479",
+    "name": "MIKE",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa",
     "name": "Lcdo_Patino",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e48b78d4-bb4a-3de7-a122-aa3bf31d2b5e",
+    "name": "InmortalPec",
     "level": 4,
     "bypassesPlayerLimit": false
   },

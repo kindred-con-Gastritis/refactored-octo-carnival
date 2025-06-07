@@ -1,0 +1,106 @@
+{
+  "uuid": "74920db1-2878-37c8-b887-2ad554ab4cb5",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "5f86f03a-ef3d-4e73-baad-ccdbb403672f",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "litten": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749263163816,
+            "caughtTimestamp": 1749263163816
+          }
+        },
+        "scorbunny": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749263198943
+          }
+        },
+        "snivy": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749263208041
+          }
+        },
+        "charmander": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749263208741
+          }
+        },
+        "slowpoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749264405248,
+            "caughtTimestamp": 1749264405248
+          }
+        },
+        "pidgey": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749264904550
+          }
+        },
+        "buneary": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749264910748
+          }
+        },
+        "bidoof": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749265034146
+          }
+        },
+        "vulpix": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749265069099
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 1,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 5,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "psychic": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:seedot": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:buneary": 1
+    },
+    "aspectsCollected": {}
+  }
+}

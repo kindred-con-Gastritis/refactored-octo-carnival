@@ -1756,3 +1756,210 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 02:16:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Is it a Fruit or is it a Nut?]
 [07Jun2025 02:16:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Mother Nature's Bounty]
 [07Jun2025 02:19:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Doing my Part]
+[07Jun2025 02:20:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Stone Age]
+[07Jun2025 02:21:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Getting an Upgrade]
+[07Jun2025 02:22:38.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.112.153.34:59553] logged in with entity id 3367 at (-122.5, 66.0, -57.5)
+[07Jun2025 02:22:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[07Jun2025 02:22:38.570] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Hikejace's Cobbledex
+[07Jun2025 02:22:43.454] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 02:22:43.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aesthetikkkk[/100.68.133.113:57934] logged in with entity id 3594 at (-117.5, 64.0, -66.5)
+[07Jun2025 02:22:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk joined the game
+[07Jun2025 02:22:43.578] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Aesthetikkkk's Cobbledex
+[07Jun2025 02:22:48.415] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[07Jun2025 02:23:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Monster Hunter]
+[07Jun2025 02:23:43.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Set the time to 1000]
+[07Jun2025 02:23:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[07Jun2025 02:23:59.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:62838] logged in with entity id 4565 at (-118.5, 64.0, -60.5)
+[07Jun2025 02:23:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[07Jun2025 02:23:59.694] [Server thread/INFO] [Cobbledex/]: Added 0 entries in MIKE's Cobbledex
+[07Jun2025 02:24:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Mother Nature's Bounty]
+[07Jun2025 02:24:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Very Berry]
+[07Jun2025 02:24:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Skin changed]
+[07Jun2025 02:24:22.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializablePokemonEvolution$PokemonEvolutionType
+[07Jun2025 02:25:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Created new objective [Vida]]
+[07Jun2025 02:25:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Hikejace
+[07Jun2025 02:26:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [The World of Cobblemon!]
+[07Jun2025 02:26:14.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/messages/client/PlayerInteractOptionsPacket$Options
+[07Jun2025 02:26:20.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [The World of Cobblemon!]
+[07Jun2025 02:26:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Mother Nature's Bounty]
+[07Jun2025 02:26:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Very Berry]
+[07Jun2025 02:26:32.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializableEvolutionRequirement$EvolutionRequirementType
+[07Jun2025 02:26:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The World of Cobblemon!]
+[07Jun2025 02:27:48.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Where's my Victory Music?]
+[07Jun2025 02:27:50.292] [Server thread/ERROR] [com.cobblemon.mod.common.net.serverhandling.battle.SpectateBattleHandler/]: Battle of player id ff2937f6-59bf-3304-9972-d2366e37bb46 not found (63bddfa9-70cc-3cf1-b22b-f4637dd3d6aa tried spectating)
+[07Jun2025 02:29:25.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The First of Many]
+[07Jun2025 02:30:21.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Stone Age]
+[07Jun2025 02:30:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[07Jun2025 02:30:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MIKE a server operator
+[07Jun2025 02:30:49.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 02:31:07.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Stone Age]
+[07Jun2025 02:31:11.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Getting an Upgrade]
+[07Jun2025 02:31:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Getting an Upgrade]
+[07Jun2025 02:31:38.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Mother Nature's Bounty]
+[07Jun2025 02:31:38.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [The Root of Basic Healing]
+[07Jun2025 02:31:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 02:32:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 02:33:21.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 02:33:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Stone Age]
+[07Jun2025 02:33:54.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was slain by MIKE
+[07Jun2025 02:34:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to MIKE]
+[07Jun2025 02:34:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 02:34:13.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 02:34:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Is it a Fruit or is it a Nut?]
+[07Jun2025 02:34:19.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[07Jun2025 02:34:29.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Is it a Fruit or is it a Nut?]
+[07Jun2025 02:34:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Is it a Fruit or is it a Nut?]
+[07Jun2025 02:34:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was slain by MIKE
+[07Jun2025 02:34:55.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:35:01.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[07Jun2025 02:35:04.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[07Jun2025 02:35:08.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[07Jun2025 02:35:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
+[07Jun2025 02:35:12.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[07Jun2025 02:35:17.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 02:35:20.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Monster Hunter]
+[07Jun2025 02:35:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [There's a Leek in the Boat!]
+[07Jun2025 02:36:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Monster Hunter]
+[07Jun2025 02:36:08.500] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:36:08.505] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:36:08.528] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:36:26.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[07Jun2025 02:36:26.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Jun2025 02:36:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Acquire Hardware]
+[07Jun2025 02:37:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:37:50.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 02:38:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Doing my Part]
+[07Jun2025 02:39:00.418] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/7705, l='ServerLevel[world]', x=-424.48, y=65.56, z=184.87] died, message: 'Nitwit was slain by Zombie'
+[07Jun2025 02:39:18.164] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:39:18.177] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:39:18.190] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 02:39:20.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [The First of Many]
+[07Jun2025 02:39:26.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7711, l='ServerLevel[world]', x=-427.44, y=64.95, z=168.54] died, message: 'Villager was slain by Zombie'
+[07Jun2025 02:39:37.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved too quickly! -10.134148367319199,1.3693736602695097,1.5161761640081295
+[07Jun2025 02:39:43.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/7706, l='ServerLevel[world]', x=-429.40, y=64.00, z=155.35] died, message: 'Weaponsmith was slain by Zombie'
+[07Jun2025 02:40:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [The First of Many]
+[07Jun2025 02:40:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set display slot belowName to show objective Vida]
+[07Jun2025 02:41:08.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Removed objective [Vida]]
+[07Jun2025 02:41:22.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Created new objective [Vida]]
+[07Jun2025 02:41:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set display slot list to show objective Vida]
+[07Jun2025 02:41:46.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
+[07Jun2025 02:41:49.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
+[07Jun2025 02:42:36.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [A New Friend!]
+[07Jun2025 02:42:46.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 02:44:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was blown up by Creeper
+[07Jun2025 02:44:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Hikejace]
+[07Jun2025 02:44:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [The First of Many]
+[07Jun2025 02:46:45.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [A New Friend!]
+[07Jun2025 02:47:19.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:47:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 02:47:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:47:59.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 02:48:03.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[07Jun2025 02:48:05.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[07Jun2025 02:48:05.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[07Jun2025 02:48:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:48:12.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 02:49:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Acquire Hardware]
+[07Jun2025 02:49:31.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was burnt to a crisp whilst fighting Zombie
+[07Jun2025 02:49:31.146] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.standard_07.06.2025-02.49.31.dat
+[07Jun2025 02:49:31.149] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1527 Y: 27 Z: 318
+[07Jun2025 02:49:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:49:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 02:49:59.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 02:51:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Isn't It Iron Pick]
+[07Jun2025 02:51:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Suit Up]
+[07Jun2025 02:51:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 02:54:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Not Today, Thank You]
+[07Jun2025 02:54:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Monster Hunter]
+[07Jun2025 02:54:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 02:55:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Diamonds!]
+[07Jun2025 02:56:24.500] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 02:56:24.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InmortalPec[/100.102.35.76:64569] logged in with entity id 23258 at (-129.5, 80.0, -60.5)
+[07Jun2025 02:56:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec joined the game
+[07Jun2025 02:56:24.633] [Server thread/INFO] [Cobbledex/]: Added 0 entries in InmortalPec's Cobbledex
+[07Jun2025 02:56:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Very Berry]
+[07Jun2025 02:58:16.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 02:58:39.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec lost connection: Timed out
+[07Jun2025 02:58:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec left the game
+[07Jun2025 02:58:39.850] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 02:59:01.879] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[07Jun2025 02:59:06.199] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36d5b7c7[id=<null>,name=InmortalPec,properties={},legacy=false] (/100.102.35.76:64580) lost connection: Disconnected
+[07Jun2025 03:00:01.734] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49f6232f[id=<null>,name=InmortalPec,properties={},legacy=false] (/100.102.35.76:64606) lost connection: Disconnected
+[07Jun2025 03:00:08.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-420, y=65, z=142} BlockPos{x=-420, y=64, z=141}
+[07Jun2025 03:00:14.896] [ForkJoinPool.commonPool-worker-11/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 03:00:14.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InmortalPec[/100.102.35.76:64609] logged in with entity id 26105 at (-130.45304214899483, 80.0, -61.30000001192093)
+[07Jun2025 03:00:14.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec joined the game
+[07Jun2025 03:01:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [The World of Cobblemon!]
+[07Jun2025 03:01:35.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 03:01:39.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Acquire Hardware]
+[07Jun2025 03:02:20.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-134, y=82, z=-63}
+[07Jun2025 03:02:20.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-136, y=82, z=-64}
+[07Jun2025 03:02:21.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-136, y=81, z=-64}
+[07Jun2025 03:02:23.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=80, z=-64}
+[07Jun2025 03:02:38.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-132, y=80, z=-52}
+[07Jun2025 03:02:57.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Isn't It Iron Pick]
+[07Jun2025 03:03:46.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Monster Hunter]
+[07Jun2025 03:03:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Mother Nature's Bounty]
+[07Jun2025 03:03:49.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Very Berry]
+[07Jun2025 03:03:54.554] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[07Jun2025 03:04:32.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Is it a Fruit or is it a Nut?]
+[07Jun2025 03:04:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Doing my Part]
+[07Jun2025 03:05:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec was slain by Zombie
+[07Jun2025 03:05:43.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec moved too quickly! -6.063122136903786,0.0,8.050046984678552
+[07Jun2025 03:05:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Gave 1 [Healing Machine] to Lcdo_Patino]
+[07Jun2025 03:06:12.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [There's a Leek in the Boat!]
+[07Jun2025 03:07:03.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Healing Power]
+[07Jun2025 03:07:49.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 03:08:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set the time to 1000]
+[07Jun2025 03:08:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 03:09:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Doing my Part]
+[07Jun2025 03:09:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Stone Age]
+[07Jun2025 03:10:18.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Getting an Upgrade]
+[07Jun2025 03:12:21.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [There's a Leek in the Boat!]
+[07Jun2025 03:13:22.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 03:13:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [A New Friend!]
+[07Jun2025 03:13:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 03:13:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Healing Power]
+[07Jun2025 03:14:36.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Very Berry]
+[07Jun2025 03:16:18.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Gamerule keepInventory is now set to: true]
+[07Jun2025 03:16:50.433] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:16:50.444] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:16:50.447] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:17:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported InmortalPec to MIKE]
+[07Jun2025 03:17:42.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[07Jun2025 03:18:07.538] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[07Jun2025 03:18:09.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1853, y=92, z=769} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 03:18:09.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1853, y=92, z=769}
+[07Jun2025 03:18:09.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1855, y=92, z=770} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 03:18:09.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1855, y=92, z=770}
+[07Jun2025 03:18:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to InmortalPec]
+[07Jun2025 03:18:37.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec moved too quickly! -7.989591814407731,0.0,-6.166040700190251
+[07Jun2025 03:18:47.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Sweet Dreams]
+[07Jun2025 03:18:51.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Sweet Dreams]
+[07Jun2025 03:19:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was slain by Zombie
+[07Jun2025 03:20:51.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 03:21:09.183] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:21:09.208] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:21:09.208] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:23:11.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Acquire Hardware]
+[07Jun2025 03:23:18.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Isn't It Iron Pick]
+[07Jun2025 03:24:44.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[07Jun2025 03:24:44.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[07Jun2025 03:25:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Diamonds!]
+[07Jun2025 03:27:32.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Acquire Hardware]
+[07Jun2025 03:27:49.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Isn't It Iron Pick]
+[07Jun2025 03:30:41.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to InmortalPec]
+[07Jun2025 03:31:24.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [The First of Many]
+[07Jun2025 03:32:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 03:33:02.226] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[07Jun2025 03:33:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was shot by Skeleton
+[07Jun2025 03:34:38.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[07Jun2025 03:34:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[07Jun2025 03:34:58.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:63020] logged in with entity id 55198 at (-1189.300000011921, 32.0, 287.004060198002)
+[07Jun2025 03:34:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[07Jun2025 03:35:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to InmortalPec]
+[07Jun2025 03:36:55.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec was shot by Skeleton
+[07Jun2025 03:37:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Made InmortalPec a server operator]
+[07Jun2025 03:37:38.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InmortalPec: Teleported InmortalPec to MIKE]
+[07Jun2025 03:38:49.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec lost connection: Timed out
+[07Jun2025 03:38:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec left the game
