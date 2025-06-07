@@ -304,6 +304,22 @@
             "discoveredTimestamp": 1749318744021,
             "caughtTimestamp": 1749318744021
           }
+        },
+        "cubone": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749318953921,
+            "caughtTimestamp": 1749318953921
+          }
+        },
+        "marowak": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749319018523,
+            "caughtTimestamp": 1749319018523
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -317,12 +333,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 17,
+    "totalCaptureCount": 18,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 104,
+    "totalEvolvedCount": 9,
+    "totalBattleVictoryCount": 105,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 104,
+    "totalPvWBattleVictoryCount": 105,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -338,7 +354,7 @@
       "fairy": 1,
       "bug": 1,
       "dark": 2,
-      "ground": 1,
+      "ground": 2,
       "steel": 1,
       "grass": 1
     },
