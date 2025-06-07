@@ -198,6 +198,30 @@
             "discoveredTimestamp": 1749276229277,
             "caughtTimestamp": 1749276229277
           }
+        },
+        "dreepy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749279516919,
+            "caughtTimestamp": 1749279516919
+          }
+        },
+        "starly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749280202079,
+            "caughtTimestamp": 1749280202079
+          }
+        },
+        "staravia": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749280529319,
+            "caughtTimestamp": 1749280529319
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -210,12 +234,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 36,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 40,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 35,
+    "totalPvWBattleVictoryCount": 39,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -225,17 +249,19 @@
       "electric": 1,
       "ground": 1,
       "dark": 1,
-      "normal": 1,
-      "ghost": 1,
+      "normal": 2,
+      "ghost": 2,
       "fairy": 1,
-      "steel": 1
+      "steel": 1,
+      "dragon": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:seedot": 1,
       "cobblemon:deerling": 1,
       "cobblemon:buneary": 1,
       "cobblemon:combee": 6,
-      "cobblemon:taillow": 2,
+      "cobblemon:taillow": 3,
       "cobblemon:mareep": 1,
       "cobblemon:abra": 1,
       "cobblemon:zigzagoon": 3,
@@ -248,7 +274,8 @@
       "cobblemon:lechonk": 2,
       "cobblemon:cottonee": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:pineco": 1
+      "cobblemon:pineco": 1,
+      "cobblemon:exeggcute": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

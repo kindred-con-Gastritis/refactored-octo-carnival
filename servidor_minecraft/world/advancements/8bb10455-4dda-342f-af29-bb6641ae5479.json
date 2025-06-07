@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-07 02:34:14 +0000",
+      "minecraft:frozen_river": "2025-06-07 06:56:24 +0000",
       "minecraft:birch_forest": "2025-06-07 02:30:50 +0000",
       "minecraft:beach": "2025-06-07 02:24:00 +0000",
       "minecraft:mangrove_swamp": "2025-06-07 03:58:28 +0000",
@@ -1350,6 +1351,7 @@
   "cobblemon:rainbow_apricorns": {
     "criteria": {
       "place_black": "2025-06-07 06:14:03 +0000",
+      "place_green": "2025-06-07 07:10:14 +0000",
       "place_pink": "2025-06-07 03:09:28 +0000",
       "place_yellow": "2025-06-07 06:14:06 +0000",
       "place_red": "2025-06-07 06:14:10 +0000"
@@ -2650,6 +2652,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-07 05:52:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-06-07 07:09:24 +0000"
     },
     "done": true
   },

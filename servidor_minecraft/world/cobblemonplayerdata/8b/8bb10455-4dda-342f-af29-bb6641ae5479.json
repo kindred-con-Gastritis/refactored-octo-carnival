@@ -200,6 +200,14 @@
             "discoveredTimestamp": 1749279111087,
             "caughtTimestamp": 1749279111087
           }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749280271123,
+            "caughtTimestamp": 1749280271123
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -212,12 +220,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 86,
+    "totalBattleVictoryCount": 88,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 86,
+    "totalPvWBattleVictoryCount": 88,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -227,7 +235,8 @@
       "fire": 1,
       "ghost": 1,
       "poison": 1,
-      "fighting": 2
+      "fighting": 2,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,
@@ -255,7 +264,7 @@
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
       "cobblemon:bouffalant": 3,
-      "cobblemon:cottonee": 2,
+      "cobblemon:cottonee": 3,
       "cobblemon:pelipper": 2,
       "cobblemon:krabby": 1,
       "cobblemon:mudbray": 1,

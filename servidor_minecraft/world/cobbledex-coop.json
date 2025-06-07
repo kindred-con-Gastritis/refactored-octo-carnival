@@ -32,8 +32,9 @@
     "psyduck": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749262543148
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749262543148,
+        "caughtTimestamp": 1749280271123
       }
     },
     "fletchling": {
@@ -711,8 +712,9 @@
     "starly": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749269541073
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749269541073,
+        "caughtTimestamp": 1749280202080
       }
     },
     "snorunt": {
@@ -1048,6 +1050,22 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749279111088,
         "caughtTimestamp": 1749279111088
+      }
+    },
+    "dreepy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749279516919,
+        "caughtTimestamp": 1749279516919
+      }
+    },
+    "staravia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749280529319,
+        "caughtTimestamp": 1749280529319
       }
     }
   }
