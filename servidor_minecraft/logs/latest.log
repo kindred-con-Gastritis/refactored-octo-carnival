@@ -1443,3 +1443,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 17:44:40.223] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [07Jun2025 17:44:40.224] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [07Jun2025 17:44:40.227] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 17:45:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Ice Bucket Challenge]
+[07Jun2025 17:49:44.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 17:50:09.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 17:50:18.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Adventure Mode]
+[07Jun2025 17:50:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 17:52:26.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 17:53:32.161] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jun2025 17:54:52.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Timed out
+[07Jun2025 17:54:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[07Jun2025 17:54:52.612] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 17:54:54.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:52076] logged in with entity id 20727 at (-4615.46706834541, 72.0, 2093.4440875095397)
+[07Jun2025 17:54:54.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game

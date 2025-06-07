@@ -296,24 +296,33 @@
             "discoveredTimestamp": 1749317452922,
             "caughtTimestamp": 1749317452922
           }
+        },
+        "cacturne": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749318744021,
+            "caughtTimestamp": 1749318744021
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
       "received": [
-        "15"
+        "15",
+        "30"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 17,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 103,
+    "totalBattleVictoryCount": 104,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 103,
+    "totalPvWBattleVictoryCount": 104,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -328,9 +337,10 @@
       "psychic": 1,
       "fairy": 1,
       "bug": 1,
-      "dark": 1,
+      "dark": 2,
       "ground": 1,
-      "steel": 1
+      "steel": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,

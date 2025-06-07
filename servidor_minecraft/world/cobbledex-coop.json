@@ -1118,6 +1118,14 @@
         "discoveredTimestamp": 1749317452922,
         "caughtTimestamp": 1749317452922
       }
+    },
+    "cacturne": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749318744023,
+        "caughtTimestamp": 1749318744023
+      }
     }
   }
 }

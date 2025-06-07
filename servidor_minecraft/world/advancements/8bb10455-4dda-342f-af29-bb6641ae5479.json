@@ -2782,6 +2782,96 @@
     },
     "done": true
   },
+  "megamons:mega_ore_or_stone": {
+    "criteria": {
+      "has_any_raw_stone": "2025-06-07 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
+    "criteria": {
+      "has_raw_garchompite": "2025-06-07 16:41:58 +0000"
+    },
+    "done": true
+  },
+  "megamons:megamons": {
+    "criteria": {
+      "has_crystal_geode_block": "2025-06-07 16:42:14 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_scizorite_from_raw_scizorite_stonecutting": {
+    "criteria": {
+      "has_raw_scizorite": "2025-06-07 16:42:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 16:43:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2025-06-07 16:43:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/mystic_water": {
+    "criteria": {
+      "has_water": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/damp_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heat_rock": {
+    "criteria": {
+      "has_stone": "2025-06-07 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting": {
+    "criteria": {
+      "has_raw_kangaskhanite": "2025-06-07 16:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-07 17:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-07 17:16:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
@@ -2794,12 +2884,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/berry_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
@@ -2809,12 +2893,6 @@
   "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-06-07 17:16:35 +0000"
     },
     "done": true
   },
@@ -2842,33 +2920,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2025-06-07 17:16:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
-    },
-    "done": true
-  },
-  "megamons:mega_ore_or_stone": {
-    "criteria": {
-      "has_any_raw_stone": "2025-06-07 16:41:58 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/icy_rock": {
-    "criteria": {
-      "has_stone": "2025-06-07 16:43:07 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/ribbon_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
     },
     "done": true
   },
@@ -2884,12 +2938,6 @@
     },
     "done": true
   },
-  "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
-    "criteria": {
-      "has_raw_garchompite": "2025-06-07 16:41:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
@@ -2899,18 +2947,6 @@
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/mystic_water": {
-    "criteria": {
-      "has_water": "2025-06-07 16:45:36 +0000"
-    },
-    "done": true
-  },
-  "megamons:recipes/misc/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting": {
-    "criteria": {
-      "has_raw_kangaskhanite": "2025-06-07 16:45:38 +0000"
     },
     "done": true
   },
@@ -2926,93 +2962,15 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/miracle_seed": {
-    "criteria": {
-      "has_leaf": "2025-06-07 16:43:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/strawberry_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/damp_rock": {
-    "criteria": {
-      "has_stone": "2025-06-07 16:45:36 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/never_melt_ice_using_stone": {
-    "criteria": {
-      "has_ice": "2025-06-07 16:43:07 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/heat_rock": {
-    "criteria": {
-      "has_stone": "2025-06-07 16:45:36 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/love_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
-    },
-    "done": true
-  },
-  "megamons:recipes/misc/cut_scizorite_from_raw_scizorite_stonecutting": {
-    "criteria": {
-      "has_raw_scizorite": "2025-06-07 16:42:53 +0000"
-    },
-    "done": true
-  },
-  "megamons:megamons": {
-    "criteria": {
-      "has_crystal_geode_block": "2025-06-07 16:42:14 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/never_melt_ice": {
-    "criteria": {
-      "has_the_recipe": "2025-06-07 16:43:07 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/flower_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/charcoal_stick": {
-    "criteria": {
-      "has_fire": "2025-06-07 16:43:10 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/star_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/clover_sweet": {
-    "criteria": {
-      "has_sugar": "2025-06-07 17:29:19 +0000"
     },
     "done": true
   },
@@ -3025,6 +2983,72 @@
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-06-07 17:28:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/berry_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/ribbon_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/strawberry_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/love_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/flower_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/star_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/clover_sweet": {
+    "criteria": {
+      "has_sugar": "2025-06-07 17:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 17:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-07 17:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-07 17:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-07 17:45:57 +0000"
     },
     "done": true
   },
