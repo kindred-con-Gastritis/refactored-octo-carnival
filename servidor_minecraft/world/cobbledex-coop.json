@@ -836,9 +836,10 @@
     },
     "honedge": {
       "normal": {
-        "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749270176241
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749270176241,
+        "caughtTimestamp": 1749281410679
       }
     },
     "darmanitan": {
@@ -1067,6 +1068,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749280529319,
         "caughtTimestamp": 1749280529319
+      }
+    },
+    "doublade": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749281735840,
+        "caughtTimestamp": 1749281735840
       }
     }
   }

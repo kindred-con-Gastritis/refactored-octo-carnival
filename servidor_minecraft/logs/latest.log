@@ -1500,3 +1500,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 07:24:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
 [07Jun2025 07:25:12.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [07Jun2025 07:26:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 07:27:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: No skin changes]
+[07Jun2025 07:29:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[07Jun2025 07:30:03.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 07:30:10.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has completed the challenge [Lucky Color]
+[07Jun2025 07:31:14.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 07:34:31.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 07:34:46.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Creative Mode]
+[07Jun2025 07:35:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set own game mode to Survival Mode]
+[07Jun2025 07:35:08.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Sweet Tooth]
+[07Jun2025 07:35:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 07:35:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 07:35:48.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jun2025 07:35:48.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aesthetikkkk> mira
+[07Jun2025 07:36:00.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> ufff+
+[07Jun2025 07:36:13.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> esta demasiado bonito
+[07Jun2025 07:36:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk was slain by Zombie
+[07Jun2025 07:36:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aesthetikkkk> mw tengo q ie
+[07Jun2025 07:36:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> hagale mano
+[07Jun2025 07:36:37.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aesthetikkkk> mañana hablamos
+[07Jun2025 07:36:40.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aesthetikkkk> todo bien
+[07Jun2025 07:36:42.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
+[07Jun2025 07:36:42.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game
+[07Jun2025 07:36:44.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[07Jun2025 07:36:44.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game

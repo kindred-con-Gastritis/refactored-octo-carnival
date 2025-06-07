@@ -2211,6 +2211,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-06-07 07:27:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 06:10:17 +0000"
@@ -2319,6 +2325,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/relic_coin_sack": {
+    "criteria": {
+      "has_pouch": "2025-06-07 07:30:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-06-07 05:16:41 +0000"
@@ -2406,6 +2418,12 @@
   "travelersbackpack:recipes/misc/diamond_smithing": {
     "criteria": {
       "has_diamond": "2025-06-07 06:12:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2025-06-07 07:30:08 +0000"
     },
     "done": true
   },

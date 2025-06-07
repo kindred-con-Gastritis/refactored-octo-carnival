@@ -238,6 +238,22 @@
             "discoveredTimestamp": 1749280950317,
             "caughtTimestamp": 1749280950317
           }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749281410678,
+            "caughtTimestamp": 1749281410678
+          }
+        },
+        "doublade": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749281735840,
+            "caughtTimestamp": 1749281735840
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -250,14 +266,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 41,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 44,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 40,
+    "totalPvWBattleVictoryCount": 43,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 5,
     "totalTypeCaptureCounts": {
       "water": 2,
@@ -266,9 +282,9 @@
       "ground": 1,
       "dark": 1,
       "normal": 2,
-      "ghost": 2,
+      "ghost": 3,
       "fairy": 1,
-      "steel": 1,
+      "steel": 2,
       "dragon": 1,
       "flying": 1
     },
@@ -278,7 +294,7 @@
       "cobblemon:buneary": 1,
       "cobblemon:combee": 6,
       "cobblemon:taillow": 3,
-      "cobblemon:mareep": 1,
+      "cobblemon:mareep": 2,
       "cobblemon:abra": 1,
       "cobblemon:zigzagoon": 3,
       "cobblemon:tauros": 1,
@@ -292,7 +308,8 @@
       "cobblemon:mudbray": 1,
       "cobblemon:pineco": 1,
       "cobblemon:exeggcute": 1,
-      "cobblemon:honedge": 1
+      "cobblemon:honedge": 1,
+      "cobblemon:bunnelby": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
