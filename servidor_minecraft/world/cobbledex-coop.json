@@ -533,8 +533,9 @@
     "machop": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749266546704
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749266546704,
+        "caughtTimestamp": 1749279004998
       }
     },
     "talonflame": {
@@ -1039,6 +1040,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749276229279,
         "caughtTimestamp": 1749276229279
+      }
+    },
+    "machoke": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749279111088,
+        "caughtTimestamp": 1749279111088
       }
     }
   }

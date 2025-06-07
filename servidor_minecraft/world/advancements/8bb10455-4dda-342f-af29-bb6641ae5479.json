@@ -14,6 +14,7 @@
       "minecraft:river": "2025-06-07 02:34:10 +0000",
       "minecraft:stony_shore": "2025-06-07 04:59:50 +0000",
       "minecraft:dripstone_caves": "2025-06-07 04:10:41 +0000",
+      "minecraft:snowy_taiga": "2025-06-07 06:55:37 +0000",
       "minecraft:grove": "2025-06-07 04:09:54 +0000",
       "minecraft:cold_ocean": "2025-06-07 05:47:57 +0000",
       "minecraft:forest": "2025-06-07 02:36:56 +0000",
@@ -2448,6 +2449,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-07 06:46:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_band": {
+    "criteria": {
+      "has_band": "2025-06-07 06:55:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-07 05:22:46 +0000"
@@ -2667,6 +2680,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-06-07 05:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-07 06:46:01 +0000"
     },
     "done": true
   },
