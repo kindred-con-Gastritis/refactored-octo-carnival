@@ -352,9 +352,9 @@
     "totalCaptureCount": 20,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 112,
+    "totalBattleVictoryCount": 117,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 112,
+    "totalPvWBattleVictoryCount": 117,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -394,12 +394,12 @@
       "cobblemon:wooloo": 3,
       "cobblemon:deerling": 1,
       "cobblemon:taillow": 2,
-      "cobblemon:miltank": 3,
+      "cobblemon:miltank": 4,
       "cobblemon:mareep": 4,
       "cobblemon:lechonk": 4,
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
-      "cobblemon:bouffalant": 3,
+      "cobblemon:bouffalant": 5,
       "cobblemon:cottonee": 3,
       "cobblemon:pelipper": 2,
       "cobblemon:krabby": 1,
@@ -430,7 +430,9 @@
       "cobblemon:skarmory": 1,
       "cobblemon:tauros": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:swellow": 1
+      "cobblemon:swellow": 1,
+      "cobblemon:pidove": 1,
+      "cobblemon:ampharos": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
