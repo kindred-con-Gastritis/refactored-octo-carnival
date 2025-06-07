@@ -1963,3 +1963,180 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 03:37:38.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InmortalPec: Teleported InmortalPec to MIKE]
 [07Jun2025 03:38:49.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec lost connection: Timed out
 [07Jun2025 03:38:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec left the game
+[07Jun2025 03:42:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 03:45:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Suit Up]
+[07Jun2025 03:46:41.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.125.38.53:51558] logged in with entity id 58822 at (117.68387598746676, 80.0, 628.3000000119209)
+[07Jun2025 03:46:41.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[07Jun2025 03:46:43.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[07Jun2025 03:46:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[07Jun2025 03:47:20.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.125.38.53:51626] logged in with entity id 59253 at (117.68387598746676, 80.0, 628.3000000119209)
+[07Jun2025 03:47:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[07Jun2025 03:50:19.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[07Jun2025 03:52:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 03:52:26.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1181, y=63, z=799} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1181, y=63, z=799}
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1181, y=63, z=798} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1181, y=63, z=798}
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1180, y=63, z=799} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 03:52:38.211] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1180, y=63, z=799}
+[07Jun2025 03:52:43.392] [IO-Worker-87/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[07Jun2025 03:52:43.394] [IO-Worker-87/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[07Jun2025 03:54:10.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 03:56:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 03:57:01.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 03:57:30.389] [ForkJoinPool.commonPool-worker-19/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 03:57:30.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InmortalPec[/100.102.35.76:50069] logged in with entity id 69679 at (-1128.3895035517921, 23.0, 306.59759259084717)
+[07Jun2025 03:57:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec joined the game
+[07Jun2025 03:58:18.768] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:58:18.768] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:58:18.778] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 03:59:23.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 03:59:37.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 03:59:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Aesthetikkkk]
+[07Jun2025 04:00:26.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to InmortalPec]
+[07Jun2025 04:00:59.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InmortalPec: Teleported InmortalPec to MIKE]
+[07Jun2025 04:00:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 04:01:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Diamonds!]
+[07Jun2025 04:01:45.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Diamonds!]
+[07Jun2025 04:03:02.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Not Today, Thank You]
+[07Jun2025 04:03:04.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec was shot by Skeleton
+[07Jun2025 04:03:14.080] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[07Jun2025 04:03:30.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 04:03:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:03:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec has made the advancement [Suit Up]
+[07Jun2025 04:04:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Take Good Care!]
+[07Jun2025 04:04:08.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Take Good Care!]
+[07Jun2025 04:04:28.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 04:04:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to InmortalPec]
+[07Jun2025 04:05:14.014] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:05:14.014] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:05:14.014] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:06:34.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 04:06:58.890] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:06:58.891] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:06:58.891] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:07:30.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: InmortalPec lost connection: Disconnected
+[07Jun2025 04:07:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec left the game
+[07Jun2025 04:08:10.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[07Jun2025 04:08:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 04:08:25.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[07Jun2025 04:08:42.846] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:08:42.846] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:08:42.856] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[07Jun2025 04:08:53.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved too quickly! 3.290069843306128,0.7967356006686828,9.550617599195903
+[07Jun2025 04:08:53.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE moved too quickly! 7.6829842252111575,0.04450921478037628,-6.445832820933447
+[07Jun2025 04:08:53.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[07Jun2025 04:10:01.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
+[07Jun2025 04:12:06.080] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[07Jun2025 04:12:59.400] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f0ac25f-9949-4794-af3d-8f5a4eb184af
+[07Jun2025 04:12:59.401] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f0ac25f-9949-4794-af3d-8f5a4eb184af
+[07Jun2025 04:13:18.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:14:41.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 04:14:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:16:42.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Suit Up]
+[07Jun2025 04:16:54.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jun2025 04:17:19.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Hard Work and Dedication]
+[07Jun2025 04:17:44.179] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1003 ms
+[07Jun2025 04:17:49.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to 3695.500000, 106.000000, 2446.500000]
+[07Jun2025 04:17:49.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[07Jun2025 04:17:49.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk moved too quickly! 0.0,-10.806526110008988,0.0
+[07Jun2025 04:17:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk fell from a high place
+[07Jun2025 04:18:24.402] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1031 ms
+[07Jun2025 04:18:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 3696.500000, 80.000000, 2399.500000]
+[07Jun2025 04:18:40.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:19:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Set the time to 1000]
+[07Jun2025 04:20:35.495] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" because "p_129234_" is null
+	at net.minecraft.nbt.NbtUtils.m_129233_(NbtUtils.java:191) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128342_(CompoundTag.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.cobblemon.mod.common.pokemon.Pokemon.loadFromNBT(Pokemon.java:824) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23140!/:?]
+	at com.cobblemon.mod.common.entity.pokemon.PokemonEntity.m_20258_(PokemonEntity.java:505) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23140!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244863_(SummonCommand.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jun2025 04:20:41.595] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" because "p_129234_" is null
+	at net.minecraft.nbt.NbtUtils.m_129233_(NbtUtils.java:191) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128342_(CompoundTag.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.cobblemon.mod.common.pokemon.Pokemon.loadFromNBT(Pokemon.java:824) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23140!/:?]
+	at com.cobblemon.mod.common.entity.pokemon.PokemonEntity.m_20258_(PokemonEntity.java:505) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23140!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_269066_(SummonCommand.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_245828_(SummonCommand.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.commands.SummonCommand.m_244861_(SummonCommand.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jun2025 04:20:51.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 04:20:51.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:21:35.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk moved too quickly! 4.327765222394191,1.4129092804170114,9.116694681074023
+[07Jun2025 04:21:35.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved too quickly! 0.15877917165971667,-1.2491870787446828,-10.192108468618699
+[07Jun2025 04:21:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:21:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:21:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 04:23:15.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk has made the advancement [Hard Work and Dedication]
+[07Jun2025 04:23:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Hard Work and Dedication]
+[07Jun2025 04:23:40.251] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e57b291a-83b4-4fa6-9cd8-60e473638d03
+[07Jun2025 04:23:40.251] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e57b291a-83b4-4fa6-9cd8-60e473638d03
+[07Jun2025 04:24:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 04:24:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:25:47.691] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 3248 ms
+[07Jun2025 04:25:47.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[07Jun2025 04:25:54.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to 213.500000, 67.000000, -3215.500000]
+[07Jun2025 04:26:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Full House]
+[07Jun2025 04:26:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
+[07Jun2025 04:27:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:28:13.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]
+[07Jun2025 04:28:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[07Jun2025 04:28:33.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Aesthetikkkk]
+[07Jun2025 04:29:48.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[07Jun2025 04:30:10.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/93169, l='ServerLevel[world]', x=-1362.55, y=58.00, z=324.51] died, message: 'Villager was slain by Zombie'
+[07Jun2025 04:30:44.297] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 437271c9-55e2-4df5-ad87-993801e9ba15
+[07Jun2025 04:30:44.297] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 437271c9-55e2-4df5-ad87-993801e9ba15
+[07Jun2025 04:30:46.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 04:31:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to MIKE]

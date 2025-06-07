@@ -88,6 +88,30 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749265036073
           }
+        },
+        "slowpoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749269048073,
+            "caughtTimestamp": 1749269048073
+          }
+        },
+        "pikachu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749270131141,
+            "caughtTimestamp": 1749270131141
+          }
+        },
+        "raichu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749270196447,
+            "caughtTimestamp": 1749270196447
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -98,25 +122,35 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 7,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 20,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
       "normal": 1,
-      "electric": 1
+      "electric": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:oddish": 1,
       "cobblemon:hoothoot": 1,
       "cobblemon:nickit": 1,
       "cobblemon:pidgey": 1,
-      "cobblemon:igglybuff": 1
+      "cobblemon:igglybuff": 1,
+      "cobblemon:geodude": 3,
+      "cobblemon:goldeen": 1,
+      "cobblemon:teddiursa": 1,
+      "cobblemon:squawkabilly": 1,
+      "cobblemon:smoochum": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:voltorb": 1,
+      "cobblemon:koffing": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:lillipup": 1
     },
     "aspectsCollected": {}
   }
