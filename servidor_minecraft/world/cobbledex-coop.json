@@ -1203,6 +1203,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749335545498
       }
+    },
+    "slugma": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336120554
+      }
+    },
+    "magby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336274895
+      }
+    },
+    "heatmor": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749336407503
+      }
     }
   }
 }

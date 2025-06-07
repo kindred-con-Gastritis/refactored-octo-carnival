@@ -383,6 +383,41 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749335545495
           }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336120553
+          }
+        },
+        "magby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336274895
+          }
+        },
+        "torkoal": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336403022
+          }
+        },
+        "heatmor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336407502
+          }
+        },
+        "numel": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749336434448
+          }
         }
       },
       "name": "cobbledex_discovery"
