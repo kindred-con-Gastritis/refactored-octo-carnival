@@ -1423,3 +1423,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 21:06:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
 [07Jun2025 21:07:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
 [07Jun2025 21:09:45.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 21:11:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 21:12:00.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 21:21:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 21:23:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 21:24:18.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 21:25:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 21:25:34.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 21:27:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 21:28:32.322] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 21:28:32.323] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 21:28:32.323] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jun2025 21:28:55.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 21:30:04.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 21:30:05.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.125.38.53:63008] logged in with entity id 22396 at (-1409.5502388511886, 66.0, 332.30000001192093)
+[07Jun2025 21:30:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[07Jun2025 21:30:24.100] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jun2025 21:30:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lcdo_Patino> pillado
+[07Jun2025 21:30:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> me perdi re duro
+[07Jun2025 21:30:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 21:30:45.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> quiere ver algo=
+[07Jun2025 21:30:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> ?
+[07Jun2025 21:30:51.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lcdo_Patino> bueno
+[07Jun2025 21:30:56.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 21:30:57.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/messages/client/PlayerInteractOptionsPacket$Options
+[07Jun2025 21:31:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lcdo_Patino> A no chao
+[07Jun2025 21:31:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> metete al vc
+[07Jun2025 21:31:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Sweet Dreams]
+[07Jun2025 21:31:38.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem

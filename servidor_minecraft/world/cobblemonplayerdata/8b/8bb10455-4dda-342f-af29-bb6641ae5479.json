@@ -368,9 +368,9 @@
     "totalCaptureCount": 22,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 127,
+    "totalBattleVictoryCount": 129,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 127,
+    "totalPvWBattleVictoryCount": 129,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -449,7 +449,9 @@
       "cobblemon:swellow": 1,
       "cobblemon:pidove": 1,
       "cobblemon:ampharos": 1,
-      "cobblemon:stonjourner": 1
+      "cobblemon:stonjourner": 1,
+      "cobblemon:diggersby": 1,
+      "cobblemon:ursaring": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
