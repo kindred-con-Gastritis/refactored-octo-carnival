@@ -311,9 +311,9 @@
     "totalCaptureCount": 16,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 102,
+    "totalBattleVictoryCount": 103,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 102,
+    "totalPvWBattleVictoryCount": 103,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 5,
@@ -384,7 +384,8 @@
       "cobblemon:meowth": 1,
       "cobblemon:seedot": 1,
       "cobblemon:lopunny": 1,
-      "cobblemon:dugtrio": 1
+      "cobblemon:dugtrio": 1,
+      "cobblemon:skarmory": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
