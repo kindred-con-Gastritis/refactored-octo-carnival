@@ -2587,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:55:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-06-07 21:48:50 +0000"
@@ -2602,6 +2608,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-06-07 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-06-07 21:58:00 +0000"
     },
     "done": true
   },
@@ -2632,6 +2644,12 @@
   "create:recipes/misc/crafting/logistics/desk_bell": {
     "criteria": {
       "has_item": "2025-06-07 21:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:55:02 +0000"
     },
     "done": true
   },
@@ -3013,6 +3031,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-06-07 21:55:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-07 21:36:47 +0000"
@@ -3076,6 +3100,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-06-07 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:55:02 +0000"
     },
     "done": true
   },

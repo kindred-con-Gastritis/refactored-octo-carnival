@@ -920,6 +920,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749333108445
           }
+        },
+        "vaporeon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749333412927
+          }
+        },
+        "vespiquen": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749333748512
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -933,9 +947,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 38,
+    "totalBattleVictoryCount": 39,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 38,
+    "totalPvWBattleVictoryCount": 39,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -959,7 +973,7 @@
       "cobblemon:furret": 1,
       "cobblemon:meowth": 3,
       "cobblemon:maschiff": 1,
-      "cobblemon:zigzagoon": 2,
+      "cobblemon:zigzagoon": 3,
       "cobblemon:wooloo": 2,
       "cobblemon:patrat": 4,
       "cobblemon:lechonk": 2,

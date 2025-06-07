@@ -1181,6 +1181,21 @@
         "discoveredTimestamp": 1749332459486,
         "caughtTimestamp": 1749332459486
       }
+    },
+    "vaporeon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749333404952,
+        "caughtTimestamp": 1749333404952
+      }
+    },
+    "vespiquen": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749333748512
+      }
     }
   }
 }

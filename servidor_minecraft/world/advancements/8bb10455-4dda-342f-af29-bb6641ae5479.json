@@ -3160,9 +3160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-07 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:54:53 +0000"
     },
     "done": true
   },
@@ -3195,6 +3207,12 @@
       "voluntary_exile": "2025-06-07 20:46:55 +0000"
     },
     "done": true
+  },
+  "cobblemon:evolve_veevees": {
+    "criteria": {
+      "evolve_vaporeon": "2025-06-07 21:56:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
@@ -3256,6 +3274,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-06-07 21:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-07 20:18:08 +0000"
@@ -3277,6 +3301,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-07 19:47:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 21:54:53 +0000"
     },
     "done": true
   },

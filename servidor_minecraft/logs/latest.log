@@ -1466,3 +1466,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 21:45:35.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
 [07Jun2025 21:49:22.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Applied 1.0 damage to Lcdo_Patino]
 [07Jun2025 21:50:35.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The Andesite Age]
+[07Jun2025 21:54:56.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[07Jun2025 21:57:28.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Creative Mode]
+[07Jun2025 21:57:50.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
+[07Jun2025 21:58:00.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[07Jun2025 21:58:14.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[07Jun2025 22:01:35.551] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[07Jun2025 22:01:35.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: InmortalPec[/100.102.35.76:60367] logged in with entity id 31071 at (-1369.0547705525864, 64.0, 400.4771485458013)
+[07Jun2025 22:01:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: InmortalPec joined the game
+[07Jun2025 22:01:58.111] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4dcb9c1f-4af3-4782-9c8b-0997566c154f
+[07Jun2025 22:01:58.112] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4dcb9c1f-4af3-4782-9c8b-0997566c154f
+[07Jun2025 22:02:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[07Jun2025 22:02:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InmortalPec: Teleported InmortalPec to MIKE]
+[07Jun2025 22:02:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [InmortalPec: Teleported InmortalPec to MIKE]
