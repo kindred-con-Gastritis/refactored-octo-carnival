@@ -1388,3 +1388,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 19:47:51.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [07Jun2025 19:47:52.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [07Jun2025 19:48:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Cave Spider
+[07Jun2025 19:54:27.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[07Jun2025 19:55:17.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[07Jun2025 19:57:10.910] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/nodes/array/TestArrayNode$Test
+[07Jun2025 19:57:11.003] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[07Jun2025 19:57:11.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/runtime/objects/Completion$Type
+[07Jun2025 19:57:11.382] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownMoveset$Gimmick
+[07Jun2025 19:57:12.432] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
+[07Jun2025 19:57:15.011] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/Effect$Type
+[07Jun2025 19:57:24.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
+[07Jun2025 19:58:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
