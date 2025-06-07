@@ -30,6 +30,7 @@
       "minecraft:snowy_beach": "2025-06-07 20:10:43 +0000",
       "minecraft:frozen_peaks": "2025-06-07 04:11:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-07 02:24:58 +0000",
+      "minecraft:deep_dark": "2025-06-07 21:38:36 +0000",
       "minecraft:savanna": "2025-06-07 03:52:33 +0000",
       "minecraft:plains": "2025-06-07 03:07:49 +0000"
     },
@@ -3214,6 +3215,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-06-07 20:47:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_s_candy": "2025-06-07 21:32:51 +0000"
     },
     "done": true
   },

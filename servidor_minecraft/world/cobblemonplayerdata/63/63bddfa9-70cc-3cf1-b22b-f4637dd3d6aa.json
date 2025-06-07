@@ -892,6 +892,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749272141018
           }
+        },
+        "klefki": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749332085651
+          }
+        },
+        "persian": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749332440130
+          }
+        },
+        "rapidash": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749332465836
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -905,9 +926,9 @@
     "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 36,
+    "totalBattleVictoryCount": 38,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 36,
+    "totalPvWBattleVictoryCount": 38,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -939,7 +960,9 @@
       "cobblemon:lillipup": 1,
       "cobblemon:mareep": 2,
       "cobblemon:oinkologne": 1,
-      "cobblemon:growlithe": 1
+      "cobblemon:growlithe": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:rattata": 1
     },
     "aspectsCollected": {}
   }

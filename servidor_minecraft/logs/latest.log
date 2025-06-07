@@ -1451,3 +1451,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 21:31:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> metete al vc
 [07Jun2025 21:31:38.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Sweet Dreams]
 [07Jun2025 21:31:38.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[07Jun2025 21:32:51.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Sweet Tooth]
+[07Jun2025 21:33:23.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializableEvolutionRequirement$EvolutionRequirementType
+[07Jun2025 21:33:23.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializablePokemonEvolution$PokemonEvolutionType
+[07Jun2025 21:38:32.119] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:deep_dark took 322 ms
+[07Jun2025 21:38:35.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to -2474.500000, -63.000000, -599.500000]
+[07Jun2025 21:38:37.234] [Worker-Main-119/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[07Jun2025 21:38:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE suffocated in a wall
+[07Jun2025 21:38:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Spectator Mode]
+[07Jun2025 21:38:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to -2474.500000, -63.000000, -599.500000]
+[07Jun2025 21:39:28.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set own game mode to Survival Mode]
