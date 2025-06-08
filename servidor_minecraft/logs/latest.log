@@ -1392,3 +1392,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 20:36:08.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
 [08Jun2025 20:36:24.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializableEvolutionRequirement$EvolutionRequirementType
 [08Jun2025 20:36:24.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializablePokemonEvolution$PokemonEvolutionType
+[08Jun2025 20:40:25.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[08Jun2025 20:44:54.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
