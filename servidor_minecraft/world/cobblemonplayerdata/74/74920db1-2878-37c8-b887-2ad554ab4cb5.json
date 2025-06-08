@@ -262,6 +262,14 @@
             "discoveredTimestamp": 1749426177284,
             "caughtTimestamp": 1749426177284
           }
+        },
+        "aegislash": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749426289169,
+            "caughtTimestamp": 1749426289169
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -276,13 +284,13 @@
   "advancementData": {
     "totalCaptureCount": 10,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
+    "totalEvolvedCount": 9,
     "totalBattleVictoryCount": 44,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 43,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 7,
+    "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
       "water": 2,
       "psychic": 1,

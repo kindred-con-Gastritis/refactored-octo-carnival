@@ -1487,6 +1487,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749422528726
       }
+    },
+    "aegislash": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749426289169,
+        "caughtTimestamp": 1749426289169
+      }
     }
   }
 }

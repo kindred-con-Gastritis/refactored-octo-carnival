@@ -2947,6 +2947,84 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-06-07 05:24:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_sack": {
+    "criteria": {
+      "has_pouch": "2025-06-07 05:25:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin": {
+    "criteria": {
+      "has_pouch": "2025-06-07 05:25:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-06-07 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
@@ -2959,33 +3037,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/relic_coin_pouch": {
-    "criteria": {
-      "has_coin": "2025-06-07 05:24:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2025-06-07 05:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
     },
     "done": true
   },
@@ -3001,27 +3055,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/relic_coin_sack": {
-    "criteria": {
-      "has_pouch": "2025-06-07 05:25:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-07 06:23:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
     },
     "done": true
   },
@@ -3043,12 +3079,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/relic_coin": {
-    "criteria": {
-      "has_pouch": "2025-06-07 05:25:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
@@ -3061,33 +3091,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soothe_bell": {
-    "criteria": {
-      "has_nugget": "2025-06-07 07:25:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/slate_ball": {
-    "criteria": {
-      "has_black_apricorn": "2025-06-07 05:40:35 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_ancient_balls": {
-    "criteria": {
-      "ancient_poke_ball": "2025-06-07 06:03:49 +0000"
-    },
-    "done": false
-  },
-  "cobblemon:use_candy": {
-    "criteria": {
-      "use_rare_candy": "2025-06-07 07:35:08 +0000"
     },
     "done": true
   },
@@ -3097,33 +3103,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-06-07 07:31:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-07 07:25:53 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/exp_share": {
-    "criteria": {
-      "has_exp": "2025-06-07 05:58:21 +0000"
     },
     "done": true
   },
@@ -3145,30 +3127,6 @@
     },
     "done": true
   },
-  "cobblemon:first_shiny_catch": {
-    "criteria": {
-      "catch": "2025-06-07 07:30:10 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/lapis": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-06-07 05:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-07 05:13:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-07 05:58:33 +0000"
@@ -3181,9 +3139,63 @@
     },
     "done": true
   },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-06-07 06:03:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 06:23:20 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-06-07 07:25:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-07 07:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-07 07:25:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-06-07 07:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-07 07:31:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_rare_candy": "2025-06-07 07:35:08 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_ore_or_stone": {
+    "criteria": {
+      "has_any_raw_stone": "2025-06-08 23:43:27 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
+    "criteria": {
+      "has_raw_garchompite": "2025-06-08 23:43:27 +0000"
     },
     "done": true
   },
