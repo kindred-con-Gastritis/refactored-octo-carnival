@@ -358,6 +358,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1749265098750
+          },
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749417165352
           }
         },
         "roggenrola": {
@@ -1037,6 +1042,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749338540633
           }
+        },
+        "dugtrio": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749417211091
+          }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749417313198
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1050,9 +1069,9 @@
     "totalCaptureCount": 8,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 73,
+    "totalBattleVictoryCount": 76,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 73,
+    "totalPvWBattleVictoryCount": 76,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -1102,7 +1121,10 @@
       "cobblemon:bouffalant": 1,
       "cobblemon:mudbray": 1,
       "cobblemon:swinub": 1,
-      "cobblemon:plusle": 1
+      "cobblemon:plusle": 1,
+      "cobblemon:diglett": 1,
+      "cobblemon:dugtrio": 1,
+      "cobblemon:gastly": 1
     },
     "aspectsCollected": {}
   }

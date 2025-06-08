@@ -1397,3 +1397,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 21:07:14.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [08Jun2025 21:07:15.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [08Jun2025 21:09:26.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08Jun2025 21:10:09.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[08Jun2025 21:10:09.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Jun2025 21:18:08.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:55306] logged in with entity id 7482 at (-1632.699999988079, 64.0, 207.49244752051766)
+[08Jun2025 21:18:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[08Jun2025 21:18:42.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was shot by Skeleton

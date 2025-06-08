@@ -406,6 +406,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749265098751
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749417165353
       }
     },
     "roggenrola": {
@@ -1118,6 +1123,11 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749317452922,
         "caughtTimestamp": 1749317452922
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749417211093
       }
     },
     "cacturne": {

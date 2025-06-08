@@ -386,6 +386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2025-06-07 23:07:28 +0000",
+      "cooked_beef": "2025-06-08 21:08:04 +0000",
       "apple": "2025-06-08 20:35:23 +0000",
       "bread": "2025-06-07 02:19:12 +0000"
     },
@@ -3902,6 +3903,12 @@
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2025-06-08 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/smooth_rock": {
+    "criteria": {
+      "has_stone": "2025-06-08 21:14:22 +0000"
     },
     "done": true
   },
