@@ -2874,3 +2874,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 21:29:06.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:55387] logged in with entity id 13244 at (161.30000001192093, 53.0, 360.3737431274501)
 [08Jun2025 21:29:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
 [08Jun2025 21:29:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[08Jun2025 21:32:40.736] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Jun2025 21:34:49.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[08Jun2025 21:37:33.515] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 711cf87f-38b0-4f6c-81ea-4f7fb4358b71
+[08Jun2025 21:37:33.515] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 711cf87f-38b0-4f6c-81ea-4f7fb4358b71
+[08Jun2025 21:37:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Zombie
+[08Jun2025 21:38:14.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[08Jun2025 21:38:34.197] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jun2025 21:38:34.197] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jun2025 21:38:34.198] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
