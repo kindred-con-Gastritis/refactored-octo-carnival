@@ -605,6 +605,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749420402670
           }
+        },
+        "cottonee": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749421720400
+          }
+        },
+        "igglybuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749421724956
+          }
         }
       },
       "name": "cobbledex_discovery"

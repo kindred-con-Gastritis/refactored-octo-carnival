@@ -1432,6 +1432,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749420308579
       }
+    },
+    "igglybuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749421724956
+      }
     }
   }
 }
