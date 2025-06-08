@@ -3715,6 +3715,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-08 22:54:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 22:21:52 +0000"
@@ -3868,6 +3874,12 @@
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 22:21:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/smooth_rock": {
+    "criteria": {
+      "has_stone": "2025-06-08 22:56:50 +0000"
     },
     "done": true
   },

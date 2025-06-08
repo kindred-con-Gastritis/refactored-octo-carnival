@@ -765,6 +765,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749423004521
           }
+        },
+        "zubat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749423173517
+          }
         }
       },
       "name": "cobbledex_discovery"
