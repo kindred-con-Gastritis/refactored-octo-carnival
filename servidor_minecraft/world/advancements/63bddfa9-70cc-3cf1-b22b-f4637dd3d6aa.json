@@ -386,6 +386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2025-06-07 23:07:28 +0000",
+      "apple": "2025-06-08 20:35:23 +0000",
       "bread": "2025-06-07 02:19:12 +0000"
     },
     "done": false
@@ -3333,15 +3334,153 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bee": {
+  "cobblemon:recipes/held/twisted_spoon": {
     "criteria": {
-      "has_honeycomb": "2025-06-07 23:03:38 +0000"
+      "has_shovel": "2025-06-07 22:29:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
-      "has_brown_wool": "2025-06-07 23:05:18 +0000"
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-07 22:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-07 22:44:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-07 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-07 22:44:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-06-07 22:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-07 22:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-07 22:45:12 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-06-07 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-06-07 22:45:46 +0000"
     },
     "done": true
   },
@@ -3351,9 +3490,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_brown_wool": "2025-06-07 23:05:18 +0000"
+      "has_smelts_to_glass": "2025-06-07 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-07 22:46:06 +0000"
     },
     "done": true
   },
@@ -3375,27 +3520,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-06-07 23:05:18 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
@@ -3405,33 +3532,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-06-07 22:46:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
     },
     "done": true
   },
@@ -3441,27 +3544,9 @@
     },
     "done": true
   },
-  "create:stressometer": {
-    "criteria": {
-      "0": "2025-06-07 22:46:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-06-07 23:05:05 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/display_case": {
     "criteria": {
       "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
@@ -3477,28 +3562,9 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-06-07 22:48:29 +0000",
-      "1": "2025-06-07 22:46:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-06-07 22:44:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-06-07 23:03:38 +0000"
     },
     "done": true
   },
@@ -3514,69 +3580,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-06-07 22:48:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/electirizer": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/tanks_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-07 23:03:38 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/restoration_tank": {
     "criteria": {
       "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-06-07 23:03:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-06-07 22:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-06-07 22:51:42 +0000"
     },
     "done": true
   },
@@ -3598,15 +3604,100 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/feeding_upgrade": {
+  "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
+      "has_glass": "2025-06-07 22:46:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
+  "cobblemon:recipes/blocks/fossil_analyzer": {
     "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/wise_glasses": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-06-07 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-07 22:48:29 +0000",
+      "1": "2025-06-07 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-06-07 22:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-06-07 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-06-07 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-07 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-07 22:51:42 +0000"
     },
     "done": true
   },
@@ -3628,87 +3719,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/twisted_spoon": {
-    "criteria": {
-      "has_shovel": "2025-06-07 22:29:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/redstone": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-07 22:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
-    "criteria": {
-      "has_item": "2025-06-07 22:44:44 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/magnet": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/fossil_analyzer": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/iron_ball": {
-    "criteria": {
-      "has_iron": "2025-06-07 22:45:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/smoker_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/stressometer_from_conversion": {
-    "criteria": {
-      "has_item": "2025-06-07 22:44:39 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
@@ -3718,39 +3731,45 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_glass_colorless": "2025-06-07 22:46:37 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/held/wise_glasses": {
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
     "criteria": {
-      "has_iron_block": "2025-06-07 22:45:12 +0000"
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
     },
     "done": true
   },
@@ -3760,51 +3779,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
-    "criteria": {
-      "has_brown_wool": "2025-06-07 23:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-06-07 22:45:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2025-06-07 22:45:46 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-07 22:58:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-07 22:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-07 22:46:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
     },
     "done": true
   },
@@ -3814,9 +3791,39 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+  "travelersbackpack:recipes/misc/bee": {
     "criteria": {
-      "has_item": "2025-06-07 22:48:22 +0000"
+      "has_honeycomb": "2025-06-07 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-07 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-07 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-07 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-07 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-07 23:05:05 +0000"
     },
     "done": true
   },
@@ -3832,33 +3839,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "has_item": "2025-06-07 22:38:49 +0000"
+      "has_brown_wool": "2025-06-07 23:05:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
-      "has_iron_block": "2025-06-07 22:45:12 +0000"
+      "has_brown_wool": "2025-06-07 23:05:18 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_glass_colorless": "2025-06-07 22:46:37 +0000"
+      "has_brown_wool": "2025-06-07 23:05:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
-      "has_honeycomb": "2025-06-07 23:03:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-06-07 22:38:49 +0000"
+      "has_brown_wool": "2025-06-07 23:05:18 +0000"
     },
     "done": true
   },
