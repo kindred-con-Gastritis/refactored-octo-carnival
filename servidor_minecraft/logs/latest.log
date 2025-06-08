@@ -1394,3 +1394,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Jun2025 20:36:24.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializablePokemonEvolution$PokemonEvolutionType
 [08Jun2025 20:40:25.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
 [08Jun2025 20:44:54.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[08Jun2025 21:07:14.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[08Jun2025 21:07:15.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Jun2025 21:09:26.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
