@@ -772,6 +772,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749423173517
           }
+        },
+        "doublade": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749426177276,
+            "caughtTimestamp": 1749426177276
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -794,7 +802,7 @@
     "totalPvWBattleVictoryCount": 144,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 6,
+    "totalTradedCount": 8,
     "totalTypeCaptureCounts": {
       "normal": 6,
       "electric": 3,

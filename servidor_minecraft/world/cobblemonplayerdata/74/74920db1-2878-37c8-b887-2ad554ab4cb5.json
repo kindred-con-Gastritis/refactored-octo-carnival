@@ -254,6 +254,14 @@
             "discoveredTimestamp": 1749281735840,
             "caughtTimestamp": 1749281735840
           }
+        },
+        "maushold": {
+          "four": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749426177284,
+            "caughtTimestamp": 1749426177284
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -274,7 +282,7 @@
     "totalPvWBattleVictoryCount": 43,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 5,
+    "totalTradedCount": 7,
     "totalTypeCaptureCounts": {
       "water": 2,
       "psychic": 1,
