@@ -12,6 +12,7 @@
       "minecraft:frozen_river": "2025-06-07 06:56:24 +0000",
       "minecraft:birch_forest": "2025-06-07 02:30:50 +0000",
       "minecraft:windswept_hills": "2025-06-07 18:51:07 +0000",
+      "minecraft:badlands": "2025-06-08 22:37:33 +0000",
       "minecraft:beach": "2025-06-07 02:24:00 +0000",
       "minecraft:mangrove_swamp": "2025-06-07 03:58:28 +0000",
       "minecraft:river": "2025-06-07 02:34:10 +0000",
@@ -3510,6 +3511,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/evolution/upgrade": {
+    "criteria": {
+      "has_amethyst": "2025-06-08 22:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-06-08 21:39:26 +0000"
@@ -3531,6 +3538,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-08 21:31:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-06-08 22:36:58 +0000"
     },
     "done": true
   },
@@ -3570,6 +3583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-08 22:50:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-06-08 21:31:59 +0000"
@@ -3603,6 +3622,12 @@
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-06-08 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-08 22:36:58 +0000"
     },
     "done": true
   },
@@ -3678,6 +3703,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-08 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-08 22:50:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 22:21:52 +0000"
@@ -3699,6 +3736,12 @@
   "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
     "criteria": {
       "has_rose_quartz": "2025-06-08 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-06-08 22:31:44 +0000"
     },
     "done": true
   },
@@ -3804,6 +3847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-08 22:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-08 22:25:21 +0000"
@@ -3819,6 +3868,12 @@
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 22:21:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-06-08 22:31:44 +0000"
     },
     "done": true
   },

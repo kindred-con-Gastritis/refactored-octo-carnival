@@ -582,6 +582,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749267064108
+      },
+      "alola": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749423002874
       }
     },
     "beedrill": {
@@ -816,8 +821,9 @@
     "maractus": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749270102095
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749270102095,
+        "caughtTimestamp": 1749422341877
       }
     },
     "pikachu": {
@@ -1438,6 +1444,48 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749421724956
+      }
+    },
+    "arbok": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422053607
+      }
+    },
+    "hippowdon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422087020
+      }
+    },
+    "basculin": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422261228
+      }
+    },
+    "sandslash": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422351607
+      }
+    },
+    "rhyhorn": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422361708
+      }
+    },
+    "weezing": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749422528726
       }
     }
   }
