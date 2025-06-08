@@ -1357,6 +1357,57 @@
         "discoveredTimestamp": 1749338787617,
         "caughtTimestamp": 1749338787617
       }
+    },
+    "wyrdeer": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749419133033,
+        "caughtTimestamp": 1749419194383
+      }
+    },
+    "wooper": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749419799384,
+        "caughtTimestamp": 1749419799384
+      }
+    },
+    "poliwag": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749419808473
+      }
+    },
+    "oinkologne": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749419846222
+      }
+    },
+    "carnivine": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749419860773
+      }
+    },
+    "lotad": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749419897272
+      }
+    },
+    "bibarel": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749420011172
+      }
     }
   }
 }

@@ -503,6 +503,71 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749340112704
           }
+        },
+        "wyrdeer": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749419133032,
+            "caughtTimestamp": 1749419194383
+          }
+        },
+        "wooper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749419799384,
+            "caughtTimestamp": 1749419799384
+          }
+        },
+        "poliwag": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749419808473
+          }
+        },
+        "lechonk": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749419830904
+          }
+        },
+        "oinkologne": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749419846222
+          }
+        },
+        "carnivine": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749419860773
+          }
+        },
+        "lotad": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749419897272
+          }
+        },
+        "golduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749420000572
+          }
+        },
+        "bibarel": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749420011171
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -516,28 +581,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 25,
+    "totalCaptureCount": 27,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 141,
+    "totalBattleVictoryCount": 143,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 141,
+    "totalPvWBattleVictoryCount": 143,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "normal": 4,
+      "normal": 5,
       "electric": 3,
       "fire": 2,
       "ghost": 3,
       "poison": 1,
       "fighting": 2,
-      "water": 2,
-      "psychic": 1,
+      "water": 3,
+      "psychic": 2,
       "fairy": 3,
       "bug": 1,
       "dark": 3,
-      "ground": 4,
+      "ground": 5,
       "steel": 3,
       "grass": 1,
       "dragon": 1
