@@ -3870,9 +3870,22 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-08 21:23:49 +0000",
+      "minecraft:warped_forest": "2025-06-08 21:21:23 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-06-08 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-08 21:21:23 +0000"
     },
     "done": true
   },
@@ -3885,6 +3898,12 @@
   "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-06-08 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-08 21:21:23 +0000"
     },
     "done": true
   },
@@ -3921,6 +3940,12 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-06-08 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-08 21:21:34 +0000"
     },
     "done": true
   },
