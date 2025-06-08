@@ -518,6 +518,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1749419799384,
             "caughtTimestamp": 1749419799384
+          },
+          "paldea": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749420629545,
+            "caughtTimestamp": 1749420644037
           }
         },
         "poliwag": {
@@ -558,15 +564,46 @@
         "golduck": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749420000572
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749420000572,
+            "caughtTimestamp": 1749420104727
           }
         },
         "bibarel": {
           "normal": {
             "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749420011171,
+            "caughtTimestamp": 1749420158023
+          }
+        },
+        "volbeat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749420193178,
+            "caughtTimestamp": 1749420193178
+          }
+        },
+        "illumise": {
+          "normal": {
+            "isShiny": false,
             "status": "SEEN",
-            "discoveredTimestamp": 1749420011171
+            "discoveredTimestamp": 1749420262021
+          }
+        },
+        "venonat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749420308578
+          }
+        },
+        "murkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749420402670
           }
         }
       },
@@ -575,34 +612,35 @@
     "Cobbledex_RewardHistory": {
       "received": [
         "15",
-        "30"
+        "30",
+        "45"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 27,
+    "totalCaptureCount": 31,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 143,
+    "totalBattleVictoryCount": 144,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 143,
+    "totalPvWBattleVictoryCount": 144,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "normal": 5,
+      "normal": 6,
       "electric": 3,
       "fire": 2,
       "ghost": 3,
-      "poison": 1,
+      "poison": 2,
       "fighting": 2,
-      "water": 3,
+      "water": 5,
       "psychic": 2,
       "fairy": 3,
-      "bug": 1,
+      "bug": 2,
       "dark": 3,
-      "ground": 5,
+      "ground": 6,
       "steel": 3,
       "grass": 1,
       "dragon": 1

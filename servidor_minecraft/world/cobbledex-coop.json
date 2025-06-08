@@ -454,9 +454,10 @@
     },
     "miltank": {
       "normal": {
-        "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749266058854
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749266058854,
+        "caughtTimestamp": 1749420268278
       }
     },
     "tandemaus": {
@@ -593,8 +594,9 @@
     "golduck": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749267208910
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749267208910,
+        "caughtTimestamp": 1749420104729
       }
     },
     "krabby": {
@@ -1372,6 +1374,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749419799384,
         "caughtTimestamp": 1749419799384
+      },
+      "paldea": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749420629546,
+        "caughtTimestamp": 1749420644037
       }
     },
     "poliwag": {
@@ -1405,8 +1413,24 @@
     "bibarel": {
       "normal": {
         "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749420011172,
+        "caughtTimestamp": 1749420158023
+      }
+    },
+    "volbeat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749420193178,
+        "caughtTimestamp": 1749420193178
+      }
+    },
+    "venonat": {
+      "normal": {
+        "isShiny": false,
         "status": "SEEN",
-        "discoveredTimestamp": 1749420011172
+        "discoveredTimestamp": 1749420308579
       }
     }
   }

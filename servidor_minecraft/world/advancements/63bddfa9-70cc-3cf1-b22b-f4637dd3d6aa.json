@@ -1056,6 +1056,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "ancient_poke_ball": "2025-06-08 22:04:28 +0000",
       "ultra_ball": "2025-06-07 03:09:33 +0000",
       "poke_ball": "2025-06-07 02:29:25 +0000"
     },
@@ -1529,6 +1530,7 @@
       "minecraft:spider": "2025-06-07 02:37:15 +0000",
       "minecraft:creeper": "2025-06-07 23:05:04 +0000",
       "minecraft:zombie": "2025-06-07 02:50:03 +0000",
+      "minecraft:drowned": "2025-06-08 22:04:24 +0000",
       "minecraft:zombie_villager": "2025-06-07 03:02:11 +0000"
     },
     "done": false
@@ -3997,6 +3999,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-08 21:49:34 +0000"
@@ -4021,6 +4029,12 @@
     },
     "done": true
   },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-08 21:49:34 +0000"
@@ -4039,9 +4053,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-08 21:55:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-06-08 22:09:01 +0000"
     },
     "done": true
   },
@@ -4135,6 +4167,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-06-08 21:49:34 +0000"
@@ -4174,6 +4212,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-08 21:55:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
     },
     "done": true
   },
@@ -4267,6 +4311,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
       "has_barrel": "2025-06-08 21:41:27 +0000"
@@ -4296,6 +4346,12 @@
       "has_redstone_torch": "2025-06-08 21:42:37 +0000"
     },
     "done": true
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-06-08 22:04:28 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
@@ -4417,6 +4473,12 @@
     },
     "done": true
   },
+  "create:packager": {
+    "criteria": {
+      "0": "2025-06-08 22:14:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/white_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 21:56:45 +0000"
@@ -4444,6 +4506,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-08 21:21:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
     },
     "done": true
   },
@@ -4483,9 +4551,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-08 21:26:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
     },
     "done": true
   },
@@ -4498,6 +4584,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-06-08 21:34:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
     },
     "done": true
   },
@@ -4525,6 +4617,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-06-08 21:36:02 +0000"
@@ -4534,6 +4632,12 @@
   "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth_from_other_table_cloth": {
     "criteria": {
       "has_postbox": "2025-06-08 21:56:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-06-08 22:04:28 +0000"
     },
     "done": true
   },
@@ -4561,15 +4665,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/repackager_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-08 22:08:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
     "criteria": {
       "has_barrel": "2025-06-08 21:41:27 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/black_postbox": {
     "criteria": {
       "has_barrel": "2025-06-08 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
     },
     "done": true
   },
@@ -4636,6 +4758,12 @@
   "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
     "criteria": {
       "has_barrel": "2025-06-08 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "create:stock_ticker": {
+    "criteria": {
+      "0": "2025-06-08 22:14:37 +0000"
     },
     "done": true
   },
@@ -4714,6 +4842,18 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-08 21:21:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2025-06-08 22:02:01 +0000"
+    },
+    "done": true
+  },
+  "create:table_cloth_shop": {
+    "criteria": {
+      "0": "2025-06-08 22:15:27 +0000"
     },
     "done": true
   },

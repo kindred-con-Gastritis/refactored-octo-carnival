@@ -396,9 +396,10 @@
         },
         "miltank": {
           "normal": {
-            "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749266058854
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749266058854,
+            "caughtTimestamp": 1749420268276
           }
         },
         "pichu": {
@@ -1075,19 +1076,21 @@
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 8,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 86,
+    "totalBattleVictoryCount": 88,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 86,
+    "totalPvWBattleVictoryCount": 88,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "psychic": 1,
@@ -1100,7 +1103,8 @@
       "dark": 2,
       "poison": 1,
       "water": 2,
-      "bug": 1
+      "bug": 1,
+      "normal": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 7,
@@ -1141,7 +1145,8 @@
       "cobblemon:gastly": 1,
       "cobblemon:tandemaus": 1,
       "cobblemon:diggersby": 1,
-      "cobblemon:pidgey": 1
+      "cobblemon:pidgey": 1,
+      "cobblemon:arcanine": 1
     },
     "aspectsCollected": {}
   }
