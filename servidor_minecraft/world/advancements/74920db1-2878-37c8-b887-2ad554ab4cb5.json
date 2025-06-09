@@ -28,6 +28,7 @@
       "minecraft:desert": "2025-06-07 04:17:49 +0000",
       "minecraft:windswept_forest": "2025-06-07 05:21:02 +0000",
       "minecraft:ocean": "2025-06-07 02:23:22 +0000",
+      "minecraft:jungle": "2025-06-09 02:15:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-07 05:19:25 +0000",
       "minecraft:flower_forest": "2025-06-07 06:37:54 +0000",
       "minecraft:frozen_peaks": "2025-06-07 04:14:48 +0000",
@@ -3196,6 +3197,12 @@
   "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
     "criteria": {
       "has_raw_garchompite": "2025-06-08 23:43:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-06-09 02:24:29 +0000"
     },
     "done": true
   },

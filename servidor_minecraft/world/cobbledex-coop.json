@@ -1704,6 +1704,43 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749434717334
       }
+    },
+    "woobat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749435000378
+      }
+    },
+    "fomantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749435011173
+      }
+    },
+    "exeggcute": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749435045568,
+        "caughtTimestamp": 1749435658015
+      }
+    },
+    "chatot": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749435333451
+      }
+    },
+    "exeggutor": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749435781070,
+        "caughtTimestamp": 1749435781070
+      }
     }
   }
 }

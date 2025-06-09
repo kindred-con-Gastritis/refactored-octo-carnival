@@ -5168,6 +5168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-09 02:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-06-09 01:13:48 +0000"
@@ -5177,6 +5183,18 @@
   "cobblemon:recipes/held/eviolite": {
     "criteria": {
       "has_everstone": "2025-06-09 01:39:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-09 02:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-09 02:08:18 +0000"
     },
     "done": true
   },
