@@ -355,6 +355,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749264370932
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434212265
       }
     },
     "slowpoke": {
@@ -1577,6 +1582,56 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749433070424,
         "caughtTimestamp": 1749433120569
+      }
+    },
+    "sneasel": {
+      "hisui": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749433883369,
+        "caughtTimestamp": 1749433932712
+      }
+    },
+    "hitmonchan": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749433916032
+      }
+    },
+    "pachirisu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749433940474
+      }
+    },
+    "petilil": {
+      "hisuibias": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749433943582
+      }
+    },
+    "paras": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434121864
+      }
+    },
+    "spinarak": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434147760
+      }
+    },
+    "nosepass": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434161034
       }
     }
   }

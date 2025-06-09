@@ -344,6 +344,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1749264370931
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434212260
           }
         },
         "minun": {
@@ -1161,6 +1166,63 @@
             "discoveredTimestamp": 1749433070423,
             "caughtTimestamp": 1749433120568
           }
+        },
+        "magby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749433811681
+          }
+        },
+        "sneasel": {
+          "hisui": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749433883368,
+            "caughtTimestamp": 1749433932712
+          }
+        },
+        "hitmonchan": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749433916032
+          }
+        },
+        "pachirisu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749433940473
+          }
+        },
+        "petilil": {
+          "hisuibias": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749433943581
+          }
+        },
+        "paras": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434121863
+          }
+        },
+        "spinarak": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434147759
+          }
+        },
+        "nosepass": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434161033
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1173,12 +1235,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 11,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 137,
+    "totalBattleVictoryCount": 147,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 137,
+    "totalPvWBattleVictoryCount": 147,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1191,11 +1253,12 @@
       "ice": 1,
       "ground": 1,
       "dark": 2,
-      "poison": 1,
+      "poison": 2,
       "water": 2,
       "bug": 1,
       "normal": 1,
-      "steel": 1
+      "steel": 1,
+      "fighting": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 7,
@@ -1248,17 +1311,21 @@
       "cobblemon:slowbro": 1,
       "cobblemon:frillish": 4,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:geodude": 2,
+      "cobblemon:geodude": 6,
       "cobblemon:mankey": 1,
       "cobblemon:machop": 4,
       "cobblemon:stantler": 2,
       "cobblemon:starly": 1,
       "cobblemon:tranquill": 1,
       "cobblemon:makuhita": 1,
-      "cobblemon:rookidee": 2,
+      "cobblemon:rookidee": 3,
       "cobblemon:unfezant": 1,
       "cobblemon:solrock": 1,
-      "cobblemon:staravia": 1
+      "cobblemon:staravia": 1,
+      "cobblemon:dachsbun": 1,
+      "cobblemon:herdier": 1,
+      "cobblemon:fletchling": 1,
+      "cobblemon:nosepass": 1
     },
     "aspectsCollected": {}
   }
