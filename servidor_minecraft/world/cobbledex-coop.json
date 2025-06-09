@@ -1535,6 +1535,41 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749431075189
       }
+    },
+    "slowbro": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749431457311
+      }
+    },
+    "mankey": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749432292618
+      }
+    },
+    "stantler": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749432408558
+      }
+    },
+    "gible": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749432825941
+      }
+    },
+    "cufant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749432938180
+      }
     }
   }
 }

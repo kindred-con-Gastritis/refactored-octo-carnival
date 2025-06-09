@@ -2450,6 +2450,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_aspear_berry": "2025-06-09 01:31:20 +0000",
       "obtain_passho_berry": "2025-06-07 23:05:54 +0000",
       "obtain_chilan_berry": "2025-06-07 04:44:35 +0000",
       "obtain_oran_berry": "2025-06-07 03:14:36 +0000",
@@ -5162,6 +5163,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-08 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-09 01:13:48 +0000"
     },
     "done": true
   },

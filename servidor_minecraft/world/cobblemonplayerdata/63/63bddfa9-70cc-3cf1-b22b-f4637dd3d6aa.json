@@ -1111,6 +1111,48 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749431075188
           }
+        },
+        "slowbro": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749431457310
+          }
+        },
+        "krabby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749431509909
+          }
+        },
+        "mankey": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749432292617
+          }
+        },
+        "stantler": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749432408557
+          }
+        },
+        "gible": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749432825941
+          }
+        },
+        "cufant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749432938179
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1126,9 +1168,9 @@
     "totalCaptureCount": 9,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 98,
+    "totalBattleVictoryCount": 126,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 98,
+    "totalPvWBattleVictoryCount": 126,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1149,11 +1191,11 @@
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 7,
       "cobblemon:shroomish": 1,
-      "cobblemon:crabrawler": 1,
+      "cobblemon:crabrawler": 2,
       "cobblemon:sentret": 5,
       "cobblemon:buizel": 1,
       "cobblemon:krokorok": 1,
-      "cobblemon:furret": 1,
+      "cobblemon:furret": 2,
       "cobblemon:meowth": 3,
       "cobblemon:maschiff": 1,
       "cobblemon:zigzagoon": 4,
@@ -1162,13 +1204,13 @@
       "cobblemon:lechonk": 5,
       "cobblemon:koffing": 2,
       "cobblemon:lillipup": 2,
-      "cobblemon:mareep": 6,
+      "cobblemon:mareep": 7,
       "cobblemon:oinkologne": 2,
       "cobblemon:growlithe": 1,
-      "cobblemon:cottonee": 5,
+      "cobblemon:cottonee": 6,
       "cobblemon:rattata": 1,
       "cobblemon:persian": 1,
-      "cobblemon:deerling": 1,
+      "cobblemon:deerling": 2,
       "cobblemon:linoone": 1,
       "cobblemon:tauros": 2,
       "cobblemon:miltank": 3,
@@ -1176,8 +1218,8 @@
       "cobblemon:igglybuff": 1,
       "cobblemon:raticate": 1,
       "cobblemon:combee": 1,
-      "cobblemon:bouffalant": 3,
-      "cobblemon:mudbray": 1,
+      "cobblemon:bouffalant": 5,
+      "cobblemon:mudbray": 2,
       "cobblemon:swinub": 1,
       "cobblemon:plusle": 1,
       "cobblemon:diglett": 1,
@@ -1188,10 +1230,23 @@
       "cobblemon:pidgey": 2,
       "cobblemon:arcanine": 1,
       "cobblemon:klink": 1,
-      "cobblemon:taillow": 2,
+      "cobblemon:taillow": 4,
       "cobblemon:voltorb": 1,
       "cobblemon:swellow": 1,
-      "cobblemon:ponyta": 1
+      "cobblemon:ponyta": 2,
+      "cobblemon:wingull": 1,
+      "cobblemon:slowpoke": 1,
+      "cobblemon:slowbro": 1,
+      "cobblemon:frillish": 4,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:mankey": 1,
+      "cobblemon:machop": 1,
+      "cobblemon:stantler": 2,
+      "cobblemon:starly": 1,
+      "cobblemon:tranquill": 1,
+      "cobblemon:makuhita": 1,
+      "cobblemon:rookidee": 1
     },
     "aspectsCollected": {}
   }
