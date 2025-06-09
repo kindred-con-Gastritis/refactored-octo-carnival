@@ -1223,6 +1223,77 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749434161033
           }
+        },
+        "scyther": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434306000
+          }
+        },
+        "tangela": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434364107
+          }
+        },
+        "bellsprout": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434409036
+          }
+        },
+        "heracross": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434501201
+          }
+        },
+        "lurantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749434525487,
+            "caughtTimestamp": 1749434561364
+          }
+        },
+        "venipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434567729
+          }
+        },
+        "ariados": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434612551
+          }
+        },
+        "shiinotic": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434633427
+          }
+        },
+        "honchkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434671397
+          }
+        },
+        "morelull": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749434717334
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1235,12 +1306,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 11,
+    "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 147,
+    "totalBattleVictoryCount": 154,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 147,
+    "totalPvWBattleVictoryCount": 154,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1249,7 +1320,7 @@
       "fairy": 2,
       "electric": 1,
       "flying": 2,
-      "grass": 1,
+      "grass": 2,
       "ice": 1,
       "ground": 1,
       "dark": 2,
@@ -1294,7 +1365,7 @@
       "cobblemon:mudbray": 2,
       "cobblemon:swinub": 1,
       "cobblemon:plusle": 1,
-      "cobblemon:diglett": 1,
+      "cobblemon:diglett": 2,
       "cobblemon:dugtrio": 1,
       "cobblemon:gastly": 1,
       "cobblemon:tandemaus": 1,
@@ -1325,7 +1396,12 @@
       "cobblemon:dachsbun": 1,
       "cobblemon:herdier": 1,
       "cobblemon:fletchling": 1,
-      "cobblemon:nosepass": 1
+      "cobblemon:nosepass": 1,
+      "cobblemon:scyther": 1,
+      "cobblemon:tangela": 1,
+      "cobblemon:bellsprout": 1,
+      "cobblemon:shiinotic": 1,
+      "cobblemon:honchkrow": 1
     },
     "aspectsCollected": {}
   }

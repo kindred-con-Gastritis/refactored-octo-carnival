@@ -1633,6 +1633,77 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749434161034
       }
+    },
+    "scyther": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434306001
+      }
+    },
+    "tangela": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434364108
+      }
+    },
+    "bellsprout": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434409037
+      }
+    },
+    "heracross": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434501202
+      }
+    },
+    "lurantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749434525488,
+        "caughtTimestamp": 1749434561364
+      }
+    },
+    "venipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434567730
+      }
+    },
+    "ariados": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434612551
+      }
+    },
+    "shiinotic": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434633427
+      }
+    },
+    "honchkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434671398
+      }
+    },
+    "morelull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749434717334
+      }
     }
   }
 }

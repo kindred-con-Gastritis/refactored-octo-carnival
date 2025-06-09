@@ -28,6 +28,7 @@
       "minecraft:desert": "2025-06-07 04:18:34 +0000",
       "minecraft:windswept_forest": "2025-06-07 03:19:09 +0000",
       "minecraft:ocean": "2025-06-07 02:23:48 +0000",
+      "minecraft:jungle": "2025-06-09 01:53:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-07 03:24:59 +0000",
       "minecraft:snowy_beach": "2025-06-07 23:15:22 +0000",
       "minecraft:frozen_peaks": "2025-06-07 04:09:11 +0000",
@@ -5176,6 +5177,12 @@
   "cobblemon:recipes/held/eviolite": {
     "criteria": {
       "has_everstone": "2025-06-09 01:39:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/rocky_helmet": {
+    "criteria": {
+      "has_stone": "2025-06-09 01:56:35 +0000"
     },
     "done": true
   },
