@@ -780,6 +780,34 @@
             "discoveredTimestamp": 1749426177276,
             "caughtTimestamp": 1749426177276
           }
+        },
+        "corviknight": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436428316
+          }
+        },
+        "emolga": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436496273
+          }
+        },
+        "golisopod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436504462
+          }
+        },
+        "froslass": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436623616
+          }
         }
       },
       "name": "cobbledex_discovery"

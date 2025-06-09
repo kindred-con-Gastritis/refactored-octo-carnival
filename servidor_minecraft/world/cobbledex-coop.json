@@ -1741,6 +1741,14 @@
         "discoveredTimestamp": 1749435781070,
         "caughtTimestamp": 1749435781070
       }
+    },
+    "rowlet": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749436448937,
+        "caughtTimestamp": 1749436448937
+      }
     }
   }
 }

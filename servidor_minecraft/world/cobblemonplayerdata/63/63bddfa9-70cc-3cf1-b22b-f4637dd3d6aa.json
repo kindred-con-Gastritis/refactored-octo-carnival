@@ -1338,6 +1338,20 @@
             "discoveredTimestamp": 1749435781069,
             "caughtTimestamp": 1749435781069
           }
+        },
+        "charizard": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436571563
+          }
+        },
+        "garchomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436648326
+          }
         }
       },
       "name": "cobbledex_discovery"

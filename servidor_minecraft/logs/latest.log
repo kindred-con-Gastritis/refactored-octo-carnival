@@ -1445,3 +1445,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 02:27:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Aesthetikkkk to Lcdo_Patino]
 [09Jun2025 02:27:29.060] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f0ee5e8c-14ef-48f7-a845-67f239b089f2
 [09Jun2025 02:27:29.060] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f0ee5e8c-14ef-48f7-a845-67f239b089f2
+[09Jun2025 02:31:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Fully healed Aesthetikkkk's party.]
+[09Jun2025 02:31:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[09Jun2025 02:31:21.615] [ForkJoinPool.commonPool-worker-23/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Jun2025 02:31:21.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vazzzco[/100.120.209.91:61135] logged in with entity id 31018 at (-117.5, 66.0, -57.5)
+[09Jun2025 02:31:21.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco joined the game
+[09Jun2025 02:31:21.744] [Server thread/INFO] [Cobbledex/]: Added 0 entries in Vazzzco's Cobbledex
+[09Jun2025 02:31:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Made Vazzzco a server operator]
+[09Jun2025 02:32:05.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Vazzzco to Lcdo_Patino]
+[09Jun2025 02:32:43.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.71.249.114:57624] logged in with entity id 31433 at (-1343.5158995737424, 66.0, 340.0801293317196)
+[09Jun2025 02:32:43.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[09Jun2025 02:33:19.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Vazzzco]
+[09Jun2025 02:34:07.160] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[09Jun2025 02:34:08.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [The World of Cobblemon!]
+[09Jun2025 02:37:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
+[09Jun2025 02:37:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Mother Nature's Bounty]
+[09Jun2025 02:37:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Is it a Fruit or is it a Nut?]

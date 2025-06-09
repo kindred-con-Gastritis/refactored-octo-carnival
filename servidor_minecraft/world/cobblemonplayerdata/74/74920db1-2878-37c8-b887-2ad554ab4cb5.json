@@ -285,9 +285,9 @@
     "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 59,
+    "totalBattleVictoryCount": 62,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 58,
+    "totalPvWBattleVictoryCount": 61,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 9,
@@ -320,7 +320,7 @@
       "cobblemon:butterfree": 2,
       "cobblemon:starly": 1,
       "cobblemon:lechonk": 3,
-      "cobblemon:cottonee": 1,
+      "cobblemon:cottonee": 3,
       "cobblemon:mudbray": 1,
       "cobblemon:pineco": 1,
       "cobblemon:exeggcute": 1,
@@ -330,7 +330,8 @@
       "cobblemon:pidgeotto": 1,
       "cobblemon:sentret": 2,
       "cobblemon:igglybuff": 1,
-      "cobblemon:pidgey": 1
+      "cobblemon:pidgey": 1,
+      "cobblemon:ponyta": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
