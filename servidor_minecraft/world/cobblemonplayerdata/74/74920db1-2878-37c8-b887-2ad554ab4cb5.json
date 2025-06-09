@@ -270,6 +270,13 @@
             "discoveredTimestamp": 1749426289169,
             "caughtTimestamp": 1749426289169
           }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749437087070
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -285,9 +292,9 @@
     "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 62,
+    "totalBattleVictoryCount": 70,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 61,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 9,
@@ -310,7 +317,7 @@
       "cobblemon:buneary": 1,
       "cobblemon:combee": 8,
       "cobblemon:taillow": 5,
-      "cobblemon:mareep": 3,
+      "cobblemon:mareep": 4,
       "cobblemon:abra": 1,
       "cobblemon:zigzagoon": 4,
       "cobblemon:tauros": 1,
@@ -319,19 +326,23 @@
       "cobblemon:scatterbug": 1,
       "cobblemon:butterfree": 2,
       "cobblemon:starly": 1,
-      "cobblemon:lechonk": 3,
+      "cobblemon:lechonk": 4,
       "cobblemon:cottonee": 3,
       "cobblemon:mudbray": 1,
       "cobblemon:pineco": 1,
       "cobblemon:exeggcute": 1,
       "cobblemon:honedge": 1,
-      "cobblemon:bunnelby": 3,
+      "cobblemon:bunnelby": 4,
       "cobblemon:rattata": 1,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:sentret": 2,
+      "cobblemon:sentret": 3,
       "cobblemon:igglybuff": 1,
       "cobblemon:pidgey": 1,
-      "cobblemon:ponyta": 1
+      "cobblemon:ponyta": 1,
+      "cobblemon:snubbull": 1,
+      "cobblemon:spewpa": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:wooloo": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

@@ -1461,3 +1461,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 02:37:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
 [09Jun2025 02:37:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Mother Nature's Bounty]
 [09Jun2025 02:37:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Is it a Fruit or is it a Nut?]
+[09Jun2025 02:37:56.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [The First of Many]
+[09Jun2025 02:38:20.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [Acquire Hardware]
+[09Jun2025 02:40:17.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vazzzco has made the advancement [A New Friend!]
+[09Jun2025 02:41:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vazzzco: Teleported Vazzzco to Aesthetikkkk]
+[09Jun2025 02:41:22.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Where's my Victory Music?]
+[09Jun2025 02:41:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
+[09Jun2025 02:41:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Set the time to 1000]
+[09Jun2025 02:42:00.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[09Jun2025 02:43:08.620] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dcfc24dd-916d-4d85-b89e-d8cdc29eadb3
+[09Jun2025 02:43:08.620] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: dcfc24dd-916d-4d85-b89e-d8cdc29eadb3
+[09Jun2025 02:44:05.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Teleported Vazzzco to Aesthetikkkk]
+[09Jun2025 02:44:11.914] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6e76317e-a63b-4c96-bb5c-a61ce4a5995f
+[09Jun2025 02:44:11.915] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6e76317e-a63b-4c96-bb5c-a61ce4a5995f
+[09Jun2025 02:44:14.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[09Jun2025 02:47:15.214] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 307ca8aa-70e7-49f1-a1de-b65815d64e2a
+[09Jun2025 02:47:15.214] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 307ca8aa-70e7-49f1-a1de-b65815d64e2a
+[09Jun2025 02:47:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
+[09Jun2025 02:47:54.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[09Jun2025 02:47:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[09Jun2025 02:47:56.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[09Jun2025 02:47:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[09Jun2025 02:48:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
+[09Jun2025 02:48:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game

@@ -25,8 +25,9 @@
     "taillow": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749262518693
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749262518693,
+        "caughtTimestamp": 1749436817914
       }
     },
     "psyduck": {
@@ -1748,6 +1749,28 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749436448937,
         "caughtTimestamp": 1749436448937
+      }
+    },
+    "butterfree": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749436795231
+      }
+    },
+    "flaaffy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749437027717,
+        "caughtTimestamp": 1749437027717
+      }
+    },
+    "watchog": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749437128319
       }
     }
   }

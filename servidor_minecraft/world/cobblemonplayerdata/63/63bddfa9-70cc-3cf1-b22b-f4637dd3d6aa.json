@@ -141,6 +141,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1749263061121
+          },
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749436756078
           }
         },
         "lapras": {
@@ -1367,9 +1372,9 @@
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 155,
+    "totalBattleVictoryCount": 160,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 155,
+    "totalPvWBattleVictoryCount": 160,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1405,7 +1410,7 @@
       "cobblemon:lechonk": 5,
       "cobblemon:koffing": 2,
       "cobblemon:lillipup": 2,
-      "cobblemon:mareep": 7,
+      "cobblemon:mareep": 8,
       "cobblemon:oinkologne": 2,
       "cobblemon:growlithe": 1,
       "cobblemon:cottonee": 6,
@@ -1440,9 +1445,9 @@
       "cobblemon:slowbro": 1,
       "cobblemon:frillish": 4,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:geodude": 6,
+      "cobblemon:geodude": 8,
       "cobblemon:mankey": 1,
-      "cobblemon:machop": 4,
+      "cobblemon:machop": 5,
       "cobblemon:stantler": 2,
       "cobblemon:starly": 1,
       "cobblemon:tranquill": 1,
@@ -1459,7 +1464,8 @@
       "cobblemon:tangela": 1,
       "cobblemon:bellsprout": 1,
       "cobblemon:shiinotic": 1,
-      "cobblemon:honchkrow": 1
+      "cobblemon:honchkrow": 1,
+      "cobblemon:elekid": 1
     },
     "aspectsCollected": {}
   }

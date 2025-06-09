@@ -3967,5 +3967,11 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-06-09 02:41:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
