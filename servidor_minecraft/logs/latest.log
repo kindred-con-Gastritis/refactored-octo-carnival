@@ -1389,3 +1389,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 00:55:50.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
 [09Jun2025 00:55:52.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/Effect$Type
 [09Jun2025 00:55:59.008] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
+[09Jun2025 00:56:32.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[09Jun2025 00:56:54.661] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 846113fc-d8b4-43f4-bc2c-84146aed347c
+[09Jun2025 00:56:54.661] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 846113fc-d8b4-43f4-bc2c-84146aed347c
+[09Jun2025 00:57:50.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[09Jun2025 00:58:42.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializableEvolutionRequirement$EvolutionRequirementType
+[09Jun2025 00:58:42.124] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rafacasari/mod/cobbledex/network/template/SerializablePokemonEvolution$PokemonEvolutionType
+[09Jun2025 01:04:16.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[09Jun2025 01:04:19.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[09Jun2025 01:05:32.308] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[09Jun2025 01:05:34.281] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[09Jun2025 01:05:34.281] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[09Jun2025 01:05:34.282] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]

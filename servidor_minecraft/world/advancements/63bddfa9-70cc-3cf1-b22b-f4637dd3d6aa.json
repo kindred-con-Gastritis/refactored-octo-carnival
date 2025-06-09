@@ -385,6 +385,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-09 00:59:38 +0000",
       "honey_bottle": "2025-06-07 23:07:28 +0000",
       "cooked_beef": "2025-06-08 21:08:04 +0000",
       "apple": "2025-06-08 20:35:23 +0000",
@@ -2451,7 +2452,8 @@
     "criteria": {
       "obtain_passho_berry": "2025-06-07 23:05:54 +0000",
       "obtain_chilan_berry": "2025-06-07 04:44:35 +0000",
-      "obtain_oran_berry": "2025-06-07 03:14:36 +0000"
+      "obtain_oran_berry": "2025-06-07 03:14:36 +0000",
+      "obtain_wepear_berry": "2025-06-09 00:57:50 +0000"
     },
     "done": false
   },

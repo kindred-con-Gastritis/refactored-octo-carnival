@@ -1282,6 +1282,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749337315080
+      },
+      "hisui": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749430859602
       }
     },
     "qwilfish": {
@@ -1494,6 +1499,41 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1749426289169,
         "caughtTimestamp": 1749426289169
+      }
+    },
+    "stoutland": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749430619115
+      }
+    },
+    "klink": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749430721309
+      }
+    },
+    "swellow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749430942289
+      }
+    },
+    "mrmime": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749430994488
+      }
+    },
+    "dubwool": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749431075189
       }
     }
   }
