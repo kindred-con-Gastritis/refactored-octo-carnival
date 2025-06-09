@@ -8514,3 +8514,28 @@ java.lang.Throwable: null
 [09Jun2025 02:47:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
 [09Jun2025 02:48:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
 [09Jun2025 02:48:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game
+[09Jun2025 02:48:11.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jun2025 02:48:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jun2025 02:48:11.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jun2025 02:48:11.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jun2025 02:48:11.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jun2025 02:48:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jun2025 02:48:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jun2025 02:48:11.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:48:11.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:48:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jun2025 02:48:11.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jun2025 02:48:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jun2025 02:48:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jun2025 02:48:11.670] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[09Jun2025 02:48:11.670] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[09Jun2025 02:48:11.785] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[09Jun2025 02:48:11.785] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[09Jun2025 02:48:11.785] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[09Jun2025 02:48:11.785] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[09Jun2025 02:48:11.788] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[09Jun2025 02:48:11.788] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[09Jun2025 02:48:11.789] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[09Jun2025 02:48:11.789] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09Jun2025 02:48:11.791] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Jun2025 02:48:11.791] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
