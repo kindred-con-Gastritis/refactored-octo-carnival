@@ -5172,5 +5172,11 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/eviolite": {
+    "criteria": {
+      "has_everstone": "2025-06-09 01:39:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

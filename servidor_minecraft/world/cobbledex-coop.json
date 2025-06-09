@@ -1570,6 +1570,14 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749432938180
       }
+    },
+    "corviknight": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749433070424,
+        "caughtTimestamp": 1749433120569
+      }
     }
   }
 }

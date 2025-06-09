@@ -1153,6 +1153,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749432938179
           }
+        },
+        "corviknight": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749433070423,
+            "caughtTimestamp": 1749433120568
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1165,12 +1173,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 126,
+    "totalBattleVictoryCount": 137,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 126,
+    "totalPvWBattleVictoryCount": 137,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1178,7 +1186,7 @@
       "psychic": 1,
       "fairy": 2,
       "electric": 1,
-      "flying": 1,
+      "flying": 2,
       "grass": 1,
       "ice": 1,
       "ground": 1,
@@ -1186,7 +1194,8 @@
       "poison": 1,
       "water": 2,
       "bug": 1,
-      "normal": 1
+      "normal": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 7,
@@ -1226,9 +1235,9 @@
       "cobblemon:dugtrio": 1,
       "cobblemon:gastly": 1,
       "cobblemon:tandemaus": 1,
-      "cobblemon:diggersby": 1,
+      "cobblemon:diggersby": 2,
       "cobblemon:pidgey": 2,
-      "cobblemon:arcanine": 1,
+      "cobblemon:arcanine": 2,
       "cobblemon:klink": 1,
       "cobblemon:taillow": 4,
       "cobblemon:voltorb": 1,
@@ -1239,14 +1248,17 @@
       "cobblemon:slowbro": 1,
       "cobblemon:frillish": 4,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:geodude": 1,
+      "cobblemon:geodude": 2,
       "cobblemon:mankey": 1,
-      "cobblemon:machop": 1,
+      "cobblemon:machop": 4,
       "cobblemon:stantler": 2,
       "cobblemon:starly": 1,
       "cobblemon:tranquill": 1,
       "cobblemon:makuhita": 1,
-      "cobblemon:rookidee": 1
+      "cobblemon:rookidee": 2,
+      "cobblemon:unfezant": 1,
+      "cobblemon:solrock": 1,
+      "cobblemon:staravia": 1
     },
     "aspectsCollected": {}
   }
